@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0,|UK| BT Sport 2
-#EXTVLCOPT:http-referrer=https://daddylive.me/stream/stream-32.php
+#EXTVLCOPT:http-referer=https://daddylive.me/stream/stream-32.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; Armor_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
 https://e.jazzy.to:30443/live/32/chunks.m3u8?nimblesessionid=48106867&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMSA3OjQ1OjEzIEFNJmhhc2hfdmFsdWU9M082Y2NkNFZORzlmQmpIdmZueUlVQT09JnZhbGlkbWludXRlcz0xMjA=
