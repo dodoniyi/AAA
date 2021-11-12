@@ -3,13 +3,17 @@
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC91d0FBQUIlMmJMQ0FBQUFBQUFCQUFOeDgwT2dpQUFBT0FIYWk0a1JEMTRxRFNLN0VjMHB0NVFvU2lqTmROcTglMmJIcnUzMmMlMmJZa0Rva2Q0M0dIUUhydEpxaHlXVDZuV3EzciUyZm5TYlhiOW5IMmNUVzkzVmZkQ2tQUVdxWTlndkdGU0EzT3E5TWRPc0hnczlxYmhPeWcxRWJMbWQ4MncwbWhvT09udDRKdnVLRG9qelpCQ1BDZnJaRmJGbTdJdllNdll4QXpLU0xZV01oSkpDRmJDZ3RJU3Z3cjZPa3dyaXBWVFYyOHZOUWtraFJMbkpFY2pkJTJmdGZmM093aCUyYnJiQ3MwcnNBQUFBJTNkJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH2
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC8lMmJ3QUFBQiUyYkxDQUFBQUFBQUJBQUZ3ZHVTUXpBQUFOQVA2aGlFaER4NFVIV3YxVzQxWnIwbFJIWmN0cWh4NmZqNFBlY3lCazZSOCUyZlQzUWF2Z0RXNDZZWFglMmJNNURzampaUEtFaTIyY2Z4VzIlMmZ0JTJmNEpIWXJOQmpsN1JwTG9kdlQzak0lMmZIeU5UTzBmbzNpem9FcXB0N1NDSGtDJTJiSklGWVQzTVF5eFEwWDM4MDNvcVhpam03anl0ekMlMmZMcEw0R2pPM2owdG9qSm5oJTJmTm5DaEhabk9pZDhVTmMlMmJJdUk5RTZHRnAyTEg1NGVIY0FrZXhqcDIlMmZ4MiUyYjR0S3NMWVhyZHU0T3EyREFORENTR0RFM1NRWTBrcG5GZFVnMnQ0cFZwTWtqaDBWWXBra1A2aGR4RkFSVEclMmZTYlV6YmFzZjN1T010UDdBQUFBJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MACHH3
-https://www.eplayer.to/daddylive.php?live=32&vw=100vw&vh=100vh$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://daddylive.me/stream/stream-32.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MACHH=3
+https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://daddylive.me/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH6
 http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8 user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 #EXTINF:0,|UK| BT Sport 2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
+http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:0, QANAT TV11
+https://c.jazzy.to/live/98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjE0OjI0IFBNJmhhc2hfdmFsdWU9QzRJL2lVMHNoNDBaMzJnTHN6V202UT09JnZhbGlkbWludXRlcz0xMjA= Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV111
 https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=36LKP4
 #EXTINF:0, QANAT TV
