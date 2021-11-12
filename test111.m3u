@@ -20,6 +20,8 @@ http://46.105.112.116/?watch=EX/bein10sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1
 http://46.105.112.116/?watch=EX/bein1sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
 http://46.105.112.116/?watch=EX/bein8hd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH8
+http://46.105.112.116/?watch=EX/bein8low-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 #EXTINF:0, QANAT TV11
 https://c.jazzy.to/live/98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjE0OjI0IFBNJmhhc2hfdmFsdWU9QzRJL2lVMHNoNDBaMzJnTHN6V202UT09JnZhbGlkbWludXRlcz0xMjA= Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV111
