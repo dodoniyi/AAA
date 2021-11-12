@@ -6,4 +6,7 @@ xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHHHH3
 https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Referer=https://daddylive.me/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH5
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224062 user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50843 user-agent=http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:0,|UK| BT Sport 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061
