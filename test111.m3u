@@ -12,10 +12,20 @@ http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8 user-agent=RED
 http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
 http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
+http://46.105.112.116/?watch=EX/bein9sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
+http://46.105.112.116/?watch=EX/bein10sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
+http://46.105.112.116/?watch=EX/bein1sd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH9
+http://46.105.112.116/?watch=EX/bein8hd-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1631797961.7609871579&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8 user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 #EXTINF:0, QANAT TV11
 https://c.jazzy.to/live/98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjE0OjI0IFBNJmhhc2hfdmFsdWU9QzRJL2lVMHNoNDBaMzJnTHN6V202UT09JnZhbGlkbWludXRlcz0xMjA= Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV111
 https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=36LKP4
+#EXTINF:0, QANAT TV111
+https://8gddld2qtjr0gy7.sastreaming.net/embed/0zer896oz3mv6 Referer=https://sportsonline.to/channels/pt/sporttv4.php
 #EXTINF:0, QANAT TV
 https://koralivetv.net/hls/BeinPremium1.m3u8 Referer=https://soccer24hd.com:2053/
 #EXTINF:0, QANAT TV2
