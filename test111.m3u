@@ -26,10 +26,10 @@ http://46.105.112.116/?watch=EX/bein8low-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1
 https://c.jazzy.to/live/98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjE0OjI0IFBNJmhhc2hfdmFsdWU9QzRJL2lVMHNoNDBaMzJnTHN6V202UT09JnZhbGlkbWludXRlcz0xMjA= Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV111
 https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=36LKP4
-#EXTINF:0, QANAT TV=1
-http://a1.xestreams.xyz:8081/jupiter/001/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSA4OjIzOjQ0IEFNJmhhc2hfdmFsdWU9NnkzeXdPSk9QelhlcEgvTHhvRkJKdz09JnZhbGlkbWludXRlcz0zMA== Referer=http://p2pstreams.live/stream-feed-2/
-#EXTINF:0, QANAT TV=2
-https://sportsonline.to/channels/pt/sporttv2.php Referer=https://3y005rvrtj9wgy.sastreaming.net/embed/u225jtufy2dkv
+#EXTINF:0, QANAT TV+1
+http://a1.xestreams.xyz:8081/jupiter/001/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSA4OjIzOjQ0IEFNJmhhc2hfdmFsdWU9NnkzeXdPSk9QelhlcEgvTHhvRkJKdz09JnZhbGlkbWludXRlcz0zMA== Referer=http://nbazones.com/
+#EXTINF:0, QANAT T+=2
+http://nbazones.com/embed/ch02.php Referer=http://p2pstreams.live/
 #EXTINF:0, QANAT TV=3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85 Version/11.1.1 Safari/605.1.15
 https://sportsonline.to/channels/pt/sporttv2.php
