@@ -29,9 +29,11 @@ https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://daddyli
 #EXTINF:0, QANAT TV111
 https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=36LKP4
 #EXTINF:0, QANAT TV+1
-http://a1.xestreams.xyz:8081/jupiter/001/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSA4OjIzOjQ0IEFNJmhhc2hfdmFsdWU9NnkzeXdPSk9QelhlcEgvTHhvRkJKdz09JnZhbGlkbWludXRlcz0zMA== Referer=http://nbazones.com/
+http://a1.xestreams.xyz:8081/jupiter/004/chunks.m3u8?wmsAuthSign= Referer=http://nbazones.com/
 #EXTINF:0, QANAT T+=2
-http://nbazones.com/embed/ch02.php Referer=http://p2pstreams.live/
+http://nbazones.com/embed/ch04.php Referer=http://p2pstreams.live/
+#EXTINF:0, QANAT T=2
+https://daddylive.me/embed/stream-98.php Referer=https://daddylive.me/
 #EXTINF:0, QANAT TV=3
 http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign= Referer=http://thecyclingentertainment.com/novo/events/13-bosnia/
 #EXTINF:0, CYFOSTREAM
