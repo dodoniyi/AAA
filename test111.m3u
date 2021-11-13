@@ -33,8 +33,7 @@ http://a1.xestreams.xyz:8081/jupiter/001/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:0, QANAT T+=2
 http://nbazones.com/embed/ch02.php Referer=http://p2pstreams.live/
 #EXTINF:0, QANAT TV=3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85 Version/11.1.1 Safari/605.1.15
-https://sportsonline.to/channels/pt/sporttv2.php
+http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign= Referer=http://thecyclingentertainment.com/novo/events/13-bosnia/
 #EXTINF:0, CYFOSTREAM
 http://77.247.109.15/live/s8/chunks.m3u8 Referer=http://www.cyfostreams.com/streams/2021/malawi-vs-cameroon-s8/
 #EXTINF:0, QANAT TV
