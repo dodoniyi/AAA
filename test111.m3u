@@ -4,11 +4,11 @@ xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH2
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC8lMmJ3QUFBQiUyYkxDQUFBQUFBQUJBQUZ3ZHVTUXpBQUFOQVA2aGlFaER4NFVIV3YxVzQxWnIwbFJIWmN0cWh4NmZqNFBlY3lCazZSOCUyZlQzUWF2Z0RXNDZZWFglMmJNNURzampaUEtFaTIyY2Z4VzIlMmZ0JTJmNEpIWXJOQmpsN1JwTG9kdlQzak0lMmZIeU5UTzBmbzNpem9FcXB0N1NDSGtDJTJiSklGWVQzTVF5eFEwWDM4MDNvcVhpam03anl0ekMlMmZMcEw0R2pPM2owdG9qSm5oJTJmTm5DaEhabk9pZDhVTmMlMmJJdUk5RTZHRnAyTEg1NGVIY0FrZXhqcDIlMmZ4MiUyYjR0S3NMWVhyZHU0T3EyREFORENTR0RFM1NRWTBrcG5GZFVnMnQ0cFZwTWtqaDBWWXBra1A2aGR4RkFSVEclMmZTYlV6YmFzZjN1T010UDdBQUFBJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MACHH=31
-https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://daddylive.me/channels/stream-98.php
+https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Referer=https://daddylive.me/channels/stream-98.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MACHH=31
-https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://daddylive.me/embed/stream-98.php
+https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Referer=https://daddylive.me/embed/stream-98.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MACHH=31
-https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=http://jazzy.to/
+https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Referer=http://jazzy.to/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH6
 http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8 user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 #EXTINF:0,|UK| BT Sport 2
@@ -37,7 +37,7 @@ http://a1.xestreams.xyz:8081/jupiter/004/chunks.m3u8?wmsAuthSign= Referer=http:/
 #EXTINF:0, QANAT T+=2
 http://nbazones.com/embed/ch04.php Referer=http://p2pstreams.live/
 #EXTINF:0, QANAT T=2
-https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://daddylive.me/
+https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Referer=https://daddylive.me/
 #EXTINF:0, QANAT TV=3
 http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign= Referer=http://thecyclingentertainment.com/novo/events/13-bosnia/
 #EXTINF:0, CYFOSTREAM
