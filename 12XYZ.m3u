@@ -10,6 +10,6 @@ http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50843
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCHH6
-http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8 user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO%20V2.8.73
+http://dream4k.co:2082/live/DM_UNITEDKINGDOOM/gbU78hyg/50843.m3u8 http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO%20V2.8.73
 #EXTINF:0, QANAT TV2 (Working)
 http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50843$OPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO%20V2.8.73
