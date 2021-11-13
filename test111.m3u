@@ -35,8 +35,8 @@ http://nbazones.com/embed/ch02.php Referer=http://p2pstreams.live/
 #EXTINF:0, QANAT TV=3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85 Version/11.1.1 Safari/605.1.15
 https://sportsonline.to/channels/pt/sporttv2.php
-#EXTINF:0, QANAT TV111
-https://8gddld2qtjr0gy7.sastreaming.net/embed/0zer896oz3mv6 Referer=https://sportsonline.to/channels/pt/sporttv4.php
+#EXTINF:0, CYFOSTREAM
+http://77.247.109.15/live/s8/chunks.m3u8 Referer=http://www.cyfostreams.com/streams/2021/malawi-vs-cameroon-s8/
 #EXTINF:0, QANAT TV
 https://koralivetv.net/hls/BeinPremium1.m3u8 Referer=https://soccer24hd.com:2053/
 #EXTINF:0, QANAT TV2
