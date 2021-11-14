@@ -74,7 +74,7 @@ http://46.105.112.116/?watch=EX/bein8low-ar&token=RED_fN7uXk7Spe-dH_mfHf9_gA==,1
 #EXTINF:0, QANAT TV11
 https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV168
-#EXTVLCOPT:http-referrer=http://daddylive.me
+#EXTVLCOPT:http-referrer=daddylive.me
 https://jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh
 #EXTINF:0, QANAT TV111
 https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=36LKP4
