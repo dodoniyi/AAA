@@ -94,3 +94,7 @@ https://koralivetv.net/hls/BeinPremium1.m3u8 Referer=https://soccer24hd.com:2053
 http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061$OPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO%20V2.8.73
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH1
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC8lMmJ3QUFBQiUyYkxDQUFBQUFBQUJBQU54a3VPZ2pBQUFOQURHY0lmMmdXTFZtQVFVaDFGcXJocm9Xa0ZBVEdEb3VId3psczlSVkc1Y2VNSnl5YTN0eXBwaVB3TDhXQnRDWGxuWTc1JTJiRktMVnpaJTJiWnlaZTZka002WVdLbG9QUnRmSyUyZmE1dzNEWm15NFBCN3NWZDE5ek9JU3BlZjdzQUoxeEhiV0hCdUE5VHdtOUN4JTJmTVV4ZmxmbEIwWTJFOFlhV0laTXpkZGE3Y25nbXJqNzZDVndkdXBZSk5yVm9XOUFMcnNTTzd6YzllRnpKJTJiNU1MN2dRTE9rcWVSJTJmM3BwTkhUbksyenhRTVZkMjBmYXN5SFRITzRWMnZRJTJiWjhMQmVRR0FJWmcxcUpHcEk4S3V4Q1ZrOHFrTUx4YldPMkQ0QXVpS3RPeCUyYndBQUFBJTNkJTNkJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
+#EXTINF:0, TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fromserver.ip.tv/channel/
+https://jazzy.to/daddylive.php?live=99&vw=100vw&vh=100vh
