@@ -108,6 +108,6 @@ https://holy.t4m.xyz/hls/bn3.m3u8 Referer=https://www.pawastreams.live/portugal-
 https://nflarcadia.xyz/hls/s4.m3u8 Referer=https://techoreels.com/44217/s4/?utm_source=100sports
 #EXTINF:0, QANAT CC2
 https://nflarcadia.xyz/hls/s4.m3u8 Referer=https://techoreels.com/clip/s4.html
-
-
-
+#EXTINF:0, QANAT CC4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Mobile; rv:75.0) Gecko/75.0 Firefox/75.0
+http://ncx14.cdn-hub.xyz/view_32.m3u8?t=m0EMT6vHo1QvpitD5o7Gig&x=1637038819&n=false
