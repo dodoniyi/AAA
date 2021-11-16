@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, Sky Sports Premier League11
-http://185.53.89.169/live/SJQYJAAAA/playlist.m3u8 referer=http://www.hesgoal.com/news/91543/Libya_vs_Angola.html
+#EXTINF:0, Sky Sports Premier League1+1
+https://s1.123zcast.com:8050/hls/bbtsp1.m3u8 referer=https://hd.crichd.cx/bt-sport-1-live-streaming-hd-uk-31
 #EXTINF:0, Sky Sports Premier League12
 http://77.247.109.51/live/SJQYJAAAA/playlist.m3u8 Referer=http://www.hesgoal.com/news/91543/Libya_vs_Angola.html
 #EXTINF:0, Sky Sports Premier League19
