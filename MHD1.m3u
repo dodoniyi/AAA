@@ -3,13 +3,12 @@
 http://185.53.89.169/live/SJQYJAAAA/playlist.m3u8 referer=http://www.hesgoal.com/news/91543/Libya_vs_Angola.html
 #EXTINF:0, Sky Sports Premier League12
 http://77.247.109.51/live/SJQYJAAAA/playlist.m3u8 Referer=http://www.hesgoal.com/news/91543/Libya_vs_Angola.html
-#EXTINF:0, Sky Sports Premier League17
-https://mhdtvworld.xyz/delta/falcon/max.php?id=3085&e=.m3u8 Referer=https://mhdtvworld.xyz/delta/falcon/play.php?c=3085
+#EXTINF:0, Sky Sports Premier League19
+https://mhdtvworld.co.in/red/tvvv.php?id=2932&e=.m3u8 Referer=https://mhdtvworld.xyz/
 #EXTINF:0, Sky Sports Premier League14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; Armor_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
 #EXTVLCOPT:referer=https://mhdtvworld.xyz/
 https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8
-#EXTINF:0, Sky Sports Premier League15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; Armor_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
-#EXTVLCOPT:referer=https://mhdtvworld.xyz/live/sky-sports-premier-league/
-https://mhdtvworld.co.in/red/play.php?c=3085
+#EXTINF:0, Sky Sports Premier League100
+#EXTVLCOPT:referer=https://mhdtvworld.xyz
+https://mhdtvworld.co.in/red/tvvv.php?id=2063&e=.m3u8
