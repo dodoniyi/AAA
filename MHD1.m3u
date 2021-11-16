@@ -1,14 +1,4 @@
-#EXTM3U
-#EXTINF:0, Sky Sports Premier League108
-https://s1.123zcast.com:8050/hls/bbtsp1.m3u8 referer=https://123zcast.com
-#EXTINF:0, Sky Sports Premier League12
-https://s1.123zcast.com/hls/bbtsp1.m3u8 Referer=https://123zcast.com/
-#EXTINF:0, Sky Sports Premier League19
-https://mhdtvworld.co.in/red/tvvv.php?id=2932&e=.m3u8 Referer=https://mhdtvworld.xyz/
-#EXTINF:0, Sky Sports Premier League14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; Armor_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
-#EXTVLCOPT:referer=https://mhdtvworld.xyz/
-https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8
-#EXTINF:0, Sky Sports Premier League200
-#EXTVLCOPT:referer=https://123zcast.com
-https://s1.123zcast.com:8050/hls/bbtsp1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-SKY SP⚽RTS-👇-👇[/color]
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAYAOAHGkNdc%2bqFFxmykjkowcyb%2bHcQkw4eBkn48H3fm9XDhJyY0WT7WwfZ17Wfc5pui4hPqyI7dciLoIjvG2FBpIzSOLTaYpqQGAMwwIZGFDQjgab%2b1q2jq6LWNJ1kDgaet9JmV1kLTsmxKO1lZl4tH%2bVLLD8eeqj3xwaSvCLTisL9M%2fsDGtEXZI8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHGRKWAuXAAcUIEhTEpuKtdFEMShHZGh7vDDpLiN4WHssUK%2bOzj16RrSKY1Lfnz9owMqOPSrFouYTcE6zWj%2fzbxMNB5jtRqIYFVOzD4A4SsDwrfLx4S5bxs9cJPd2GKvkuY%2bzCwo2LKfDXSzuPcJEDbqa5QFa9mo7hVqyims0p14BnQo0Qh2gMuIBQxzQo0NfuissyTCso%2b3lDwhPPH308%2bf4fwqiXnbsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
