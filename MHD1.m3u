@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, Sky Sports Premier League1+1
+#EXTINF:0, Sky Sports Premier League11
 https://s2.123zcast.com:8050/hls/bbtsp1.m3u8 referer=https://cdn2.crichd.pro/embed2.php?id=btsp1&q=BT%20Sport%201
 #EXTINF:0, Sky Sports Premier League12
 https://u2.ucast4u.com:8080/hls/bbtsp1.m3u8? Referer=https://cdn2.crichd.pro/embed.php?id=btsp1&q=BT%20Sport
