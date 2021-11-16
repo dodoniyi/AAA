@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-SKY SP⚽RTS-👇-👇[/color]
 https://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", Sky Sports Premier League
-https://mhdtvworld.co.in/red/play.php?c=3085 Referer=https://mhdtvworld.xyz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", Sky Sports Premier League
-https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8 Referer=https://mhdtvworld.xyz/live/sky-sports-premier-league/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", Sky Sports Premier League1
+https://mhdtvworld.co.in/red/play.php?c=3085 referer=https://mhdtvworld.xyz/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", Sky Sports Premier League2
+https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8 referer=https://mhdtvworld.xyz/live/sky-sports-premier-league/
