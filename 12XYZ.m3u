@@ -123,6 +123,586 @@ xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tO
 #EXTVLCOPT:http-user-agent=SWIFTAGENT V1.1
 http://alphabetahost.myddns.me/sports2021/supersports1/playlist.m3u8?wmsAuthSign=
 
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR lime][B]LINKS ACTIVATED [/COLOR][COLOR yellow]5 MINUTES BEFORE THE GAME[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]REPORT DEAD ONES[/B][/COLOR] [COLOR lime][B]@mullafabz[/B][/COLOR]</title>
+<link>.<link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]***[/B][/COLOR][COLOR lime][B]SUN[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B] [COLOR gold][B][B]UTC +2 TIME[/B][/COLOR][COLOR white][B]***[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>                </title>
+<link>http://google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR orange][B]ENGLAND[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts PL[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ENGLAND/PL/1.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ENGLAND/PL/2.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Astr0 SuperSp0rt.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ENGLAND/1.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts PL.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZED/1.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]RUSH.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ENGLAND/2.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/southampton26/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta6j2/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz PL.576p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/chelsea-vs-manchester/s1.php</page>
+<referer>https://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/1.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/26-south/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta6jv/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/1.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz PL.576p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/1.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://allsportsmedia.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://allsportsmedia.live/novo/total/26-south/</page>
+<referer>http://allsportsmedia.live/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta7x9/raw</externallink>ladns
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz PL.576p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/1.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</page>
+<referer>http://www.sportnews.to/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz PL.576p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/live/1.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/1.php</page>
+<referer>http://www.ripple-stream.com/live/1.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Southampton vs Wolves[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/total/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/total/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</page>
+<referer>http://www.sportnews.to/total/sports/2021/premier-league-southampton-vs-wolverhampton-wanderers-s1/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ENGLAND/PL/3.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/totalsports/brighton19/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18go9/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/5.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0 SSp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/albion-vs-leicester/s2.php</page>
+<referer>https://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/total/19-liechester/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tapau/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/5.txt</externallink>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0 SSp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/2.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt PL.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta7x9/raw</externallink>ladns
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0 SSp0rt.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/2.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</page>
+<referer>http://www.sportnews.to/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]Astr0 SSp0rt.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/live/2.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/2.php</page>
+<referer>http://www.ripple-stream.com/live/2.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/total/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/total/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</page>
+<referer>http://www.sportnews.to/total/sports/2021/premier-league-brighton-hove-albion-vs-leicester-city-s2/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
+</item>
+
+<item>
+<title>   </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts Foot.1080p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ebb0/raw</externallink>weak
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/mxEk6o</externallink>weak
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://104.236.26.241/p/k2/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sp0rts RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://104.236.26.241/p/k2/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sp0rts RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://104.236.26.241/p/k2/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sp0rts RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://104.236.26.241/p/k2/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sp0rts RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts Foot[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/JYclVt</externallink>weak
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR] [COLOR orange][B]beIN SPORTS English 2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/eCBaH0</externallink>weak
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Reading vs Swansea City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/7GVLOs</externallink>weak
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Bristol City vs Luton Town[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://dpaste.com/88DU9C9NA.txt</externallink>
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/</externallink>
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com//raw</externallink>
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+
+<item>
+<title>   </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]ONE[/B][/COLOR]:[COLOR white][B]Accrington Stanley vs Blackpool[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/GQx2vf</externallink>
+<thumbnail>https://www.blackpoolfc.co.uk/siteassets/image/other/league-one-logo.png</thumbnail>
+<fanart>https://e0.365dm.com/20/08/1600x900/skysports-league-one-fixtures_5071632.jpg?20200819120547</fanart>
+</item>
+
+<item>
+<title>   </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]TWO[/B][/COLOR]:[COLOR white][B]Bolton Wanderers vs Tranmere Rovers[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/Pio0DF</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]ONE[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/</externallink>
+<thumbnail>https://www.blackpoolfc.co.uk/siteassets/image/other/league-one-logo.png</thumbnail>
+<fanart>https://e0.365dm.com/20/08/1600x900/skysports-league-one-fixtures_5071632.jpg?20200819120547</fanart>
+</item>
+
+<item>
+<title>   </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Harrogate Town vs Blackpool[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/</externallink>
+<thumbnail>https://www.blackpoolfc.co.uk/siteassets/image/other/league-one-logo.png</thumbnail>
+<fanart>https://e0.365dm.com/20/08/1600x900/skysports-league-one-fixtures_5071632.jpg?20200819120547</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONAL[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Chesterfield vs Stockport County[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/yumifegoco</externallink>
+<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
+<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+</item>
+-->
+<item>
+<title>   </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR orange][B]SCOTLAND[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail> 
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18rit/raw</externallink>weak
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/burnley29/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Sky Sp0rts ME.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/29-scotish/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
 <item>
 <title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Sky Sports Football[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
@@ -135,3 +715,1542 @@ http://alphabetahost.myddns.me/sports2021/supersports1/playlist.m3u8?wmsAuthSign
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=38&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Aberdeen[/B][/COLOR] [COLOR orange][B]vs Ross County[/B][/COLOR] [COLOR orange][B]RedTV International[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=27&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]St. Mirren vs St. Johnstone[/B][/COLOR] [COLOR orange][B]St Mirren TV[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=28&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]St. Mirren vs Aberdeen[/B][/COLOR] [COLOR orange][B]Sky Sports Football[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=35&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]St. Mirren vs Aberdeen[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=38&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]St. Mirren vs Aberdeen[/B][/COLOR] [COLOR orange][B]Sport 5 Star Israel[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=147&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/ajZJT5</externallink>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR pink][B]CUP[/B][/COLOR]:[COLOR white][B]Rangers vs Celtic[/B][/COLOR] [COLOR orange][B]Premier Sp0rts 1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/o8Prcb</externallink>
+<thumbnail>https://www.scottishamateurfa.co.uk/upload/news/1469444147the-Scottish-Cup_Portrait.jpg</thumbnail>
+<fanart>https://www.scottishfa.co.uk/media/4946/scottish-cup-trophy.jpg</fanart>
+</item>
+-->
+<item>
+<title>                </title>
+<link>http://Ignoreme</link>
+<externallink>http://paste.in//raw</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR orange][B]SPAIN[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp0rt LaLiga[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LALIGA/1.txt</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]beIN Sp0rts 1 AUS.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LALIGA/3.txt</externallink>giveme
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]Movistar LaLiga ES[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LALIGA/4.txt</externallink>soccer24hd
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]LaLigaTV.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/ligabarca26/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp LaLiga.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18go9/raw</externallink>mazzy
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B].720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/.txt</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp LaLiga.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tanbm/raw</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp0rt LaLiga.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/united-vs-aston/s2.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]Movistar Laliga ES[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=15&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]LaLigaTV.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/26-laliga/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp LaLiga.1080p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tapau/raw</externallink>tecno
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B].720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/.txt</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp0rt LaLiga.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/2.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B].1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>/raw</externallink>ladns
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp0rt LaLiga.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/2.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]LaLigaTV.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/la-liga-barcelona-vs-levante-s2/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/la-liga-barcelona-vs-levante-s2/</page>
+<referer>http://www.sportnews.to/sports/2021/la-liga-barcelona-vs-levante-s2/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]SuperSp0rt LaLiga.1080p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/2.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]LaLigaTV.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://alexsports.xyz/hd/live4.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://alexsports.xyz/hd/live4.php</page>
+<referer>http://alexsports.xyz/hd/live4.php</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Osasuna[/B][/COLOR] [COLOR orange][B]LaLigaTV.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/total/sports/2021/la-liga-barcelona-vs-levante-s2/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/total/sports/2021/la-liga-barcelona-vs-levante-s2/</page>
+<referer>http://www.sportnews.to/total/sports/2021/la-liga-barcelona-vs-levante-s2/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+-->
+<item>
+<title>                           </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR red][B]GERMANY[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BUNDESLIGA/1.txt</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/germabunde19</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta7uz/raw</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz Foot.1080p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://mazystreams.xyz/event/manchester-city-vs-arsenal/s7.php</page>
+<referer>https://mazystreams.xyz</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/4.txt</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]DAZN Germany[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=17&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]beIN SPORTS 4 Turkey[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=67&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sport 3 Israel[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=142&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]beIN Sports 2 France[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=117&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/novo/events/19-dutch</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/19-dutch</page>
+<referer>http://thecyclingentertainment.com/novo/events/19-dutch</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.1080p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/ta7un/raw</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz Foot.1080p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/7.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/4.txt</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.MultiRate1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/bundesliga-borussia-dortmund-vs-union-berlin-s2/</page>
+<referer>http://www.sportnews.to/</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz Foot.1080p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/7.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.MultiRate2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/total/sports/2021/bundesliga-borussia-dortmund-vs-union-berlin-s2/</page>
+<referer>http://www.sportnews.to/</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Sky Sp0rtz Foot.1080p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/7.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+-->
+<item>
+<title>                           </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR green][B]ITALY[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.MultiReso[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/SEAIEA1</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rt Foot[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ITALIA/1.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rt Foot.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/seriejuve26/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tstz1/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]beIN Sp0rts Max.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/3.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rt Foot.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tanyg/raw</externallink>mazzy
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rtz SerieA.1080p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/everton-vs-norwich/s3.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD HD.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/26-italia/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1080p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tstzt/raw</externallink>tecno
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]beIN Sp0rts Max.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/3.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rtz SerieA.1080p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/3.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD HD.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://allsportsmedia.live/novo/total/26-italia/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://allsportsmedia.live/novo/total/26-italia/</page>
+<referer>http://allsportsmedia.live/novo/total/26-italia/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B].1080p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>/raw</externallink>ladns
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rtz SerieA.1080p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/3.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD HD.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/serie-a-juventus-vs-sampdoria-s1/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/serie-a-juventus-vs-sampdoria-s1/</page>
+<referer>http://www.sportnews.to/sports/2021/serie-a-juventus-vs-sampdoria-s1/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]SuperSp0rtz SerieA.1080p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/6.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Fiorentina[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD HD.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/total/sports/2021/serie-a-juventus-vs-sampdoria-s1/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/total/sports/2021/serie-a-juventus-vs-sampdoria-s1/</page>
+<referer>http://www.sportnews.to/total/sports/2021/serie-a-juventus-vs-sampdoria-s1/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Salernitana[/B][/COLOR] [COLOR orange][B]CBS Sp0rts[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ITALIA/2.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Salernitana[/B][/COLOR] [COLOR orange][B]BT Sport ESPN[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=34&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Salernitana[/B][/COLOR] [COLOR orange][B]beIN Sports 2 France[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=117&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Empoli vs Bologna[/B][/COLOR] [COLOR orange][B]Paramount+[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ITALIA/3.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Empoli vs Bologna[/B][/COLOR] [COLOR orange][B]Arena Sport 1 Croatia[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=22&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]Premier Sp0rts 2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/ITALIA/2.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt Var3.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/roma29/</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSport Variety 3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=5&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt Var3.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/novo/events/21-verona/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/events/29-roma-salsolo/</page>
+<referer>http://thecyclingentertainment.com/novo/events/21-verona/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]Eleven Sports 3 Poland[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=10&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt SerieA.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/fiorentina-vs-torino/s6.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt SerieA.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/6.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt SerieA.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/6.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Salernitana vs Roma[/B][/COLOR] [COLOR orange][B]SuperSp0rt SerieA.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/6.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+-->
+<item>
+<title>                           </title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR red][B]FRANCE[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]PrimeVideo[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/PRIMFRR</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/1.txt</externallink>weak
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN USA.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/totalsports/franligue19//</page>
+<referer>http://hockeyweb.site/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18keu/raw/</externallink>mazzy
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/4.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/watford-vs-newcastle/s4.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN USA.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/total/19-france/</page>
+<referer>http://thecyclingentertainment.com/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1e7y5/raw/</externallink>tecno
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/4.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/4.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B].1080p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>raw/</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/4.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN USA.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.1080p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/4.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]beIN USA.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]MultiPlex[/B][/COLOR] [COLOR orange][B]Canal+Sp0rt[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://paste.in/raw/JUjK9y</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sport 3 UK[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=33&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Nantes[/B][/COLOR] [COLOR orange][B]BT Sport 3 UK[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=33) | beIN Sports HD 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=92&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Brest vs Metz[/B][/COLOR] [COLOR orange][B]beIN Sports HD 4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=94&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Brest vs Metz[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=100&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Troyes vs Angers[/B][/COLOR] [COLOR orange][B]SCO beIN Sports Premium 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.eplayer.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.eplayer.to/daddylive.php?live=99&vw=100vw&vh=100vh</page>
+<referer>https://www.eplayer.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Le Reste des Matchs[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/allgames.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN Sp0rts USA[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/1.txt</externallink>weak
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN USA.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/daily/totalsports/franligue19/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/totalsports/franligue19/</page>
+<referer>http://hockeyweb.site/daily/totalsports/franligue19/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sp0rt ESPN HD.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18keu/raw/</externallink>mazzy
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN US.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/sociedad-vs-levante/s7.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN Sp USA.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/4.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]Prime Vide FR[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/prime.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN USA.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/novo/total/19-france/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/total/19-france/</page>
+<referer>http://thecyclingentertainment.com/novo/total/19-france/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sp0rt ESPN HD.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1e7y5/raw/</externallink>tecno
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN US.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/7.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN Sp USA.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/3.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN US.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/7.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN US.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/7.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN USA.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Rennes[/B][/COLOR] [COLOR orange][B]beIN USA.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sp0rts USA[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/1.txt</externallink>weak
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN USA.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.site/daily/news/franligue19/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.site/daily/news/franligue19/</page>
+<referer>http://hockeyweb.site/daily/news/franligue19/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD.1080p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/18jxy/raw/</externallink>mazzy
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rtz 2 HD.1080p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/event/psg-vs-olympique/s5.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sp USA.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/DUBZ/3.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]Prime Video[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/LIGUE1/prime.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN USA.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://thecyclingentertainment.com/novo/total/19-france/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://thecyclingentertainment.com/novo/total/19-france/</page>
+<referer>http://thecyclingentertainment.com/novo/total/19-france/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2 HD.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/tsm6n/raw/</externallink>tecno
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rtz 2 HD.1080p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://liveonscore.futbol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://liveonscore.futbol/5.php</page>
+<referer>http://liveonscore.futbol</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sp USA.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/BFST/3.txt</externallink>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rtz 2 HD.1080p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/7.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rtz 2 HD.1080p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/7.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]BT Sp0rt 3 HD.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</page>
+<referer>http://www.sportnews.to/sports/2021/ligue-1-psg-vs-olympique-lyonnais-s4/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sports HD 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=92&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sports English 1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=61&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sports HD 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=92&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]Eleven Sports 3 Poland[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=158&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN SPORTS 2 Turkey[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=63&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lyon[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://www.jazzy.to/daddylive.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://www.jazzy.to/daddylive.php?live=98&vw=100vw&vh=100vh</page>
+<referer>https://www.jazzy.to/daddylive.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/ZaNggIC.png</thumbnail>
+<fanart>https://www.isportconnect.com/wp-content/uploads/2019/06/960-2100x1200.jpg</fanart>
+</item>
+-->
