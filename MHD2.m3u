@@ -1,86 +1,24 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-BT SP⚽RTS-👇-👇[/color]
-https://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 1
-https://s1.123zcast.com:8050/hls/bbtsp1.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 1*
-https://s2.123zcast.com:8050/hls/bbtsp1.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 2
-https://w3.noob4cast.com:8080/hls/bbtsp2.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 2*
-https://w1.noob4cast.com:8080/hls/bbtsp2.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 3
-https://s1.123zcast.com:8050/hls/bbtsp3.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS 3*
-https://s2.123zcast.com:8050/hls/bbtsp3.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS ESPN
-https://w3.noob4cast.com:8080/hls/bbtespn.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", BT SPORTS ESPN*
-https://w1.noob4cast.com:8080/hls/bbtespn.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqaISzz0IShLi6J06y0UDVYHaSzj43uOVUn04HfRO5XFl81andQNe8Hx0OKL58tYm0iyQuLRhaN4WAzUzp8xtH8ZcPRi3v76mTQRZYmFthIKzPXBFqePjvWGpOQzFybgPr2ROZxdqdvoAp1VcD%2fVPb8F%2f2EzaNrerTQdXuC8JZkZydNjh6pWYxEDXhH1ipdVQeFxram8%2bpR0sZSFEuDnbmdOZsFtzfoR6X1%2fhb35OcX25U6NKFtGt3ZKoLgehxpw4iQvvRa4MoJUkXxGSBnkxAw85mP%2fpqL4iZfi9jPBAh2PX25EjUIPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-SKY SP⚽RTS-👇-👇[/color]
-https://
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAvYoIKxIMPTa2M2bTcjN64hNOal1YOnR%2ffOVWo4QtnvVWiEWsi86LiuImijS5t0pfqHHxL937MatsRaiWSAcCIPUFIIAbSUgKI8RnSIdSBNNuaQB0zTjv4G7p01OLeFpPxnC%2bHOaexm2%2f7xXVpLVhsec%2fH9Oodjln7MdOlPvEK%2fwElljsPjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS MAIN EVENTS
-https://s1.123zcast.com:8050/hls/skysme.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS CRICKETS
-https://s2.123zcast.com:8050/hls/skyscric.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS CRICKETS*
-https://s1.123zcast.com:8050/hls/skyscric.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS FOOTTBALL
-https://s1.123zcast.com:8050/hls/skysfott.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS FOOTBALL*
-https://feed1.fclecteur.com:8080/hls/skysfott.m3u8 referer=https://fclecteur.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS FOOTTBALL**
-https://s2.123zcast.com:8050/hls/skysfott.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ARENA
-https://s2.123zcast.com:8050/hls/skysare.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ARENA*
-https://w3.noob4cast.com:8080/hls/skysare.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ARENA**
-https://s1.123zcast.com:8050/hls/skysare.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ACTION
-https://s1.123zcast.com:8050/hls/skysact.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ACTION*
-https://ws.castfree.me:8080/hls/skysact.m3u8 referer=https://castfree.me/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ACTION**
-https://s2.123zcast.com:8050/hls/skysact.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS GOLF
-https://s2.123zcast.com:8050/hls/skysgol.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS GOLF*
-https://s2.123zcast.com:8050/hls/skysgol.m3u8 referer=https://123zcast.com
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdtugyAAANAPWkxFEctDHwpurl5WttXW%2boaCEOhSVyPTxo%2ffOS%2bONb%2fTc9DGwIaaPiPvLgyMOo%2blaycgrarNaPcBc1c8L498ZvB7OVkiD5IVD5h81CQT%2bULABt6O82csUhoVqgCkHU6jYOnP9nmTFY3xq79b6Z9wmKUqoaWep7dm3aK454CHXgSw9CDyI4%2f3MfKQCDDooN%2bFXKwJrLX%2bqg4GDXepLLuoyWZ30zbV3hyDS2mvmuV8M4Jzt%2fsH69R%2fN88AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS PREMIER LEAGUE
-https://s2.123zcast.com:8050/hls/skysprem.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS PREMIER LEAGUE*
-https://feed1.fclecteur.com:8080/hls/skysprem.m3u8 referer=https://fclecteur.com/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwVFzgiAAAOAf1HmCAupDL0ttacqJNHEvOwIpvbk252J2%2fvi%2bb6RoCsxwMNBDNcpKPNWbORW9FtVNavmbi8%2b2EPtrn5hvbhe1ny9NjpirWbQZ6dc9LRYWdLDjc%2f9uszZVuKnLnf%2bC72j0fubz%2bf9mFmYfrFTb9YOI6ESzh8mTLo%2fj0xqSwEgofQfDqHMQAdiRJiAO0V4EFQLKl3oNjXYPvKAcD8e0eXVBdUFvFlz%2fMtrGoAp3U9IWA6f2qLZPGl7Y488AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS FOOTTBALL
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwduSgiAAANAvclRuxkMP2WYaSiPd3H0DibXoJjVajh%2ffOZ1%2biMRVkibpeeWTlhoZY%2f%2bVFQf71Ls3%2blF14AxbHLKuinfnlUaJj7iiG6Xy4p4PzrgAL8W%2bGR5DmldIAndiqoyuPb6Dnqfb1v7a%2bR9fQjsdL81NZJXiWpa8O%2bJ2nJDIyFBCD4f06CESYE%2baiHhEAxrWKKih1GMq4AU5M0v%2b2QRsGfusb7ZU5fBxxTVksJgtGhBzvxexnX4Bc6U04c8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS CRICKETS
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMhkiEpuHPtTGrmKrLjvWvoWI0KGtUq3x8T0n1h6mzqNpDnot8Ajq6oODo9WHsWqzW62dhX9knY2Rm5YOLfrx95w1Rvic2EXtsZnMD76oMRRZ7%2bpFeqBseg3opqtRJmIMWLRW3eQ7xgkdf3ZbUTkpa9d2fV3uxR002wexJYccAQxpDSxiYMClTQARJoWVZVSIiy2HvjwFobeIq6sp77OM%2f%2bp%2fTvLBilvz%2byuXDR%2buc0iTZNm9ASxCXU%2fPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS NEWS
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdtugjAAANAPIiQgpZcHHwQXLoqsK4TiW9NCFds5DIIaPn7nDMkyjBY1xJbf13zWKItbOuganHj%2b53sVmlqQ6k93wWXGyHtxzgVjKadptIsaYZ%2ba4WOS1yw%2bkrMTM0r4Qb5uurSNM1be0k2HoGx1x%2fam3q7TzPh7CjdFZdRYyPuKIeqFLwI39EnnAuiFrugRdKHaEF8CTwZCrV%2fithukunLS0yB6mOevoT80MzDBYMYRkY%2bT3auLMtF9%2bw%2fxCkmWzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ACTION
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd1ugyAYANAHakx1FYSLXjQmdvaHkUa0cIeKthqXTZ34ER9%2b56jFuL2Zn1kuXg%2bVjmxKkq4Tv1nJEJ9vIEMrxbujzA5NryLuVhDwONe368jjwkygEjlReyp7RdwX6wfEYnDp8i5eu0uuVy4h%2fpkuLR3tcZPct3%2f5nch7nqXlOmwER40O9MFDATVeiH3k6SbCHq4%2faFCFfnXQ9dbwHq4xM6fv5w5BIVG5%2bgSnEa9AUFj2js%2b2%2fXRtMpPjPzShcfTPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS F1
-https://s1.123zcast.com:8050/hls/skysfor1.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS F1*
-https://feed1.fclecteur.com:8080/hls/skysfor1.m3u8 referer=https://fclecteur.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS F1**
-https://s2.123zcast.com:8050/hls/skysfor1.m3u8 referer=https://123zcast.com
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPakzQRH3wIVdayxKzrHhpKArD0mzlbX5857zaPhPkAEmEPoUQcpqyimjhQFsyIjuV4bU6JXe1uxhWfBSdlvdMddvQU3yF25BCP%2fJuB%2f2Ztl6tX%2faSNlPd5JtIa96ZykhSSDMy4oB3w2i7s1PjH%2boho4%2fUR4EEs42tkiFmABM5BVhiaAJWWhhgrjsoX8LcYHym2lcNBJ%2fHRMXHNfdfz2phCtf9A7pdALS7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS ARENA
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPak5IuehDDxaTNK2MLOqlkWFZzmxuJs2P75x8Gz9YK%2bu8ekbwoiGzq105WepgoTmPGEonyTFeobl4ieTx7n9GGk7arzPk8UGintJh0DjFbqE%2fdcKz9Onvw2wHwD%2bNDKugM1TIeWCuPqDZeF%2br3msuJqOqLYeOjR7QUmHlWAT72nIBEUuVFCy4TX1cuKhw1G0EenSnNjECFlyfI8KqcKM8LhIHTsJGhybmvw7XLRHZ7A%2fCsb1DzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS GOLF
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd1ugjAYANAHWpq2Kh9w4UVhuvKzMYVswbtSioPhUsVWbHj4nXPN3uIqgki9Tn%2b78aEwG97Nj10xx%2f0a09BJHj65sVedxp9x7UrdqkFr5tJjfu56eXlmfMLwEu3BJXfWj2TcexE%2blUcxV%2fqQmIp%2fxbZ4UPy7XfqiajSab7ecJHVm70sAfieoWCOPhgptgHhIdD4gaFchlRsi16JdyuKS5pCUp44GtIcPa3bATXvIlW5q7c7fDRtIFDSznLb%2f9IE7ps8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS MIX
-https://s1.123zcast.com:8050/hls/skysmixx.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS MIX*
-https://w3.noob4cast.com:8080/hls/skysmixx.m3u8 referer=https://noob4cast.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-OTHER SP⚽RTS-👇-👇[/color]
-https://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", PREMIER UK
-https://s2.123zcast.com:8050/hls/premieruk.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", WILLOW CRICKET
-https://s2.123zcast.com:8050/hls/willowusa.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", STAR SPORTS 2
-https://s2.123zcast.com:8050/hls/star1in.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SUPERSPORT CRICKET
-https://s1.123zcast.com:8050/hls/superspcric.m3u8 referer=https://123zcast.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", PTV SPORTS
-https://s1.123zcast.com:8050/hls/ptvpk.m3u8 referer=https://123zcast.com
-
-
-
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAANzNtugyAAANAPMqYgAvqwB9sxydQ5p2GGNy94SzYsVWsbP347H3Bi%2bg5ieS9rmY7s6QmT5%2bZjZo95iW5hexf1Z9%2bvC0W%2fKykLfnbAfsWcq7TxkXRWgKziNS2%2fcaibJF6MmyftkOW7uqnnF%2fHqxwmaYBODYHQH50vqRcs%2b6qFkJyy4vLpcHzJSXeAEMR7Q7IFsOjxCuwpWyMbQV7ZLALarjhKbtI4PGxc0qGqP%2f9RSaJrzaBNuyPri8pYMUDq1mYw22sLjNkfpT6%2bD7OUPQGGgGuMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
