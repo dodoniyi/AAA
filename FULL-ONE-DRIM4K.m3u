@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
 https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 - UK FHD - 👇[/color]
-https://
 #EXTINF:0,|SENEGAL| A plus
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/DM_Snappyarr/adfsgbhgsvdfv/51712
