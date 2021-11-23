@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]ðŸ‘‡ - UK FHD - ðŸ‘‡[/color]
+https://
 #EXTINF:0,|US| NHL Nashville Predators
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/143219
@@ -500,10 +504,10 @@ http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/143054
 #EXTINF:0,|US| beIN SPORTS CONNECT LaLiga
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/143053
-#EXTINF:0,|US| beIN SPORTS en Español
+#EXTINF:0,|US| beIN SPORTS en EspaÃ±ol
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/143052
-#EXTINF:0,|US| beIN Sports Connect Ñ HD US
+#EXTINF:0,|US| beIN Sports Connect Ã‘ HD US
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/143051
 #EXTINF:0,|US| beIN Sports Connect HD US
@@ -2834,7 +2838,7 @@ http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66778
 #EXTINF:0,(FR) Euronews HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66767
-#EXTINF:0,(FR) CGTN Français
+#EXTINF:0,(FR) CGTN FranÃ§ais
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66760
 #EXTINF:0,(FR) France 24
@@ -2870,7 +2874,7 @@ http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66799
 #EXTINF:0,(FR) TVA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66798
-#EXTINF:0,(FR) TV 5 Québec Canada HD
+#EXTINF:0,(FR) TV 5 QuÃ©bec Canada HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_USACANADA/bBTUYpfQ/66797
 #EXTINF:0,(FR) TeleMag Quebec HD
