@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0, B-LIVE (SD)
+https://x21.soccercdn.football/live/fderj21fkut5_SD.m3u8 Referer=https://m.bein-live.net/2021/04/1-bein-sports-premium-1.html
+#EXTINF:0, B-LIVE (HD)
+https://x21.soccercdn.football/live/fderj21fkut5_HD.m3u8 Referer=https://m.bein-live.net/2021/04/1-bein-sports-premium-1.html
 #EXTINF:0, QANAT TV1 (Working)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAANzNsOgiAAANAPasw0VHjwoWm5lDAwKXtpKuUFXau0rPnxdT7gyHy8aC0LcjLcdj2fpRjfNN98qCas9cP35IdFFCcLixl75XvLbRTzIo4o60RAqw9%2fH1kzjt9%2b07dJ2ovnOvXcj1U6zmTe%2f%2bejOSvQurDW7QlK84KsuQEQtiWANkQAyQIBnME5zA2USZRNzBWkouELv%2bRqaAkRlIqy0d7EwH42doOnEOPaVSi%2bdH5O3qqeuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, QANAT TV1 (Working)
