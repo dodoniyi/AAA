@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
 #EXTINF:0,----------------[DE]-[FHD]---------------
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/480812
@@ -1168,7 +1170,7 @@ http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481278
 #EXTINF:0,|DE|   The Night Shift 24/7
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481279
-#EXTINF:0,|DE|   Tote Mädchen len nicht 24/7
+#EXTINF:0,|DE|   Tote MÃ¤dchen len nicht 24/7
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481280
 #EXTINF:0,|DE| Eagle Cinema 007 HD
@@ -1387,7 +1389,7 @@ http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481238
 #EXTINF:0,|DE|   SERIEAX Chicago MED HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481239
-#EXTINF:0,|DE|   SERIEAX Club der roten Bänder HD+
+#EXTINF:0,|DE|   SERIEAX Club der roten BÃ¤nder HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481240
 #EXTINF:0,|DE|   SERIEAX Cobra Kai HD+
@@ -1417,7 +1419,7 @@ http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481248
 #EXTINF:0,|DE|   SERIEAX Haus des Geldes HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481249
-#EXTINF:0,|DE|   SERIEAX Hör mal wer da Hämmert HD+
+#EXTINF:0,|DE|   SERIEAX HÃ¶r mal wer da HÃ¤mmert HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481250
 #EXTINF:0,|DE|   SERIEAX IZombie HD+
@@ -1501,7 +1503,7 @@ http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481276
 #EXTINF:0,|DE|   SERIEAX Zoo HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481277
-#EXTINF:0,|DE| SERIEAX Der kleine Eisbär HD+
+#EXTINF:0,|DE| SERIEAX Der kleine EisbÃ¤r HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/481907
 #EXTINF:0,|DE| SERIEAX Der kleine Prinz HD+
