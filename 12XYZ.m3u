@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH1244
+https://b.jazzy.to:30443/live/31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMSAxOjAwOjA0IFBNJmhhc2hfdmFsdWU9SElyYlV3RWNiQ3ZSTlczeWVxK3YrZz09JnZhbGlkbWludXRlcz0xMjA= Referer=https://jazzy.to/
 #EXTINF:0, QANAT TV1 (Working)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAANzNsOgiAAANAPasw0VHjwoWm5lDAwKXtpKuUFXau0rPnxdT7gyHy8aC0LcjLcdj2fpRjfNN98qCas9cP35IdFFCcLixl75XvLbRTzIo4o60RAqw9%2fH1kzjt9%2b07dJ2ovnOvXcj1U6zmTe%2f%2bejOSvQurDW7QlK84KsuQEQtiWANkQAyQIBnME5zA2USZRNzBWkouELv%2bRqaAkRlIqy0d7EwH42doOnEOPaVSi%2bdH5O3qqeuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, QANAT TV1 (Working)
