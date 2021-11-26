@@ -192,3 +192,93 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwVFzgiAAAOAftOPyAAEfekDmZTWj6cjh2zLM6Q6TGLd1%2fvi%2bTwu%2feTlEp8EeNwMck3JuvDX936U8aH3ZBsMK8pBV0G%2bMNx2X4tTewrcLqs%2bK2zHP5N4P%2f3KKfen6VY1TTu38kfvoXfExmdyE7raqYTKzhq0XRY3b6p9dXKS%2fpTdgQQSfIUs6wGCMAP46U8Big4ExOKKQtAQRuuxT8ajMp6oD3%2bXo7lymMkHFVdC0y7Eeh7aRWJLVq72un%2fbmgLPPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="",beIN Sports FR 3 LOW
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdFugjAUANAPMg2VW1p48AEcXVUaRe2YvBWlLqkwnCLU8PE7Z3myJR%2fiv2QmbZyTsVhJ7jId3aUwVpm9h88931vXFPSzNd8Cso8HG9qfEewFw6jSKk2veUr4AydHopSYw7Xz5POt72oInHB9PtOwiaJMLibcbGBX7tClFL8MKzcBJZUfRgaFfgCI6IqhMKgJqmuCmU%2fPFCibtFu1%2bquLD7R%2fHRqPy2G55R2MCZxCoxNf3orjdh3Mu1e8%2bAfGb2D0zwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES VIP
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224258
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES VIP
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX WWE FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224256
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES AR UHD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224255
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES AR UHD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224254
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES AR UHD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224253
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SERIES AR UHD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224252
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX TURKISH 3 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224251
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX TURKISH 2 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224250
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX TURKISH 1 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224249
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SPAIN 4 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224248
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SPAIN 3 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SPAIN 2 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224246
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX SPAIN 1 AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224245
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX GERMANY AR FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224244
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX FRENCH AR 4 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224243
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX FRENCH AR 3 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX FRENCH AR 2 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224241
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX FRENCH AR 1 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224240
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX MOVIES UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX DRAMA UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224238
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX BOLLYWOOD UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/224237
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX ACTION  UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX BOX OFFICE UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178230
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX COMEDY UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178233
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX  Discovery UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX HORROR UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178234
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX KIDS UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178231
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX Plays UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178227
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",NETFLIX THRILER UHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/178232
