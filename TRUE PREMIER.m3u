@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
