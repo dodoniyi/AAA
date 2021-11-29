@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png",True Premuim beIN 1
+https://smart-tv.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0mft.png",True Premuim beIN 2
+https://smart-tv.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",True Sprot HD1
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport2.png",True Sprot HD2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport3.png",True Sprot HD3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport4.png",TRUE SPORT HD 4 
+https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport6.png",TRUE SPORT 6
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
+https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",TENNIS
+https://smart-tv.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/GolfChannel.png",GOLF
+https://smart-tv.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFe1S.jpg",TRUE TENNIS
+https://smart-tv.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
