@@ -1,18 +1,12 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANzMtygjAUANAvYryQB8nCBe%2bCQuqUgrDpRGAQsNIiVsj48XV3Vmf5hRh0SIE4%2ffHcwIGQJYvjquI22CgTTghdAT2LsBr1tp55cefQ6z87wjHHIgg8MejGqTDK5UYfcXSmvKz9SVyopGHo0CA5tKvIdnv%2fKlRu9TpaC37%2fBPHGNhvkrc%2bv9s9cFGeu4SW1e4MnSCQrgpmGGDU1%2fKLGDQYaR1WNGoNyYp6e%2fg3nbZZk%2b8WN0kXGvrS7eVaZeu3qOOTTh9u0bBwQmkkQuWlp7bvRQwn%2bRiW7zFO7PtBl1N%2bDwZWT3wTsLq%2fS2m7%2fAXEZvTUPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
-https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAANxtsSQkAAANAPMqZl7bIPPURNlORa8tK4FFuxkdzGx9d5Ouq3Ik45GdEY3tX8M3w89qTC1qZ42uEuTyrFbZm%2fGD3JlBz3zcWPPcY0tEIEhlP52gVtwkxV75Bc5gXsNtlGDoZDby0eeo9yowGqLnBtdxS3%2fXIml%2bK1v1pnavhNGmu3GcQwTpGk8FDBMi%2f9yxNRATyBaQZvIiZITuYJ3COLi%2fxqZXp15tDaPYmaUBybtrlorI5se82M0PXKMV3%2bABc%2bZJ%2fPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
-https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAANxs1ugjAAAOAHImSUtrQ9eAAV2tkoKErgxl%2bJjdINJkzCw2%2ff6ZtVNVri22QRqN49cEcZBEkc6xdnUh1P192s5xug%2b7fgdy%2fNQ9QiVmYfS01Bt497gyf%2fAc%2f6MkCOtkXUFAOzbs%2bXswi484dRpp22Jpzp3ojN6h%2fAcJgWmelt2%2fLQWZ0SljVG1IbUIzb6r81c6tgM1g1sXY9hUq2NLkwYFk9scCVOajz654QTouTyQ9I0wJ%2b%2fOVI8R19JvfkDCfb1bs8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAANxt1ugjAYANAHWohIW%2fi48GL8tFYcEQ0Od9dWylRwkAaxhod35%2bpEcdWfjoXmTyIK8%2fEA1sgUCKpUrbvpsddGyYxPOEnyI8AhMlW22PExodRfarsZRuTh4fuMuO0Oln79xU97b5clhcuP0DUMny10VZ%2fKNuCr%2bfayRVTmzalAwTRe77MrkFAEg4PADxz8Xyf0wHVCpM6o9vyQBHLetyEj7Zptymuc5bs%2bXbxKI6cGm%2bG3J826ZkygLXW3TK3ezF8W%2bs8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAANxlFzgiAAAOBf5IEIAQ89NIaBO%2becuZlvRqSk16Znzjx%2ffPuePnxnhXJFnovUVl%2b6DnsZUxWhlC2qERm%2fU9lMXalfjoZOdScWLNvSn1LNL7tFJLHJzLtw82iQuH2T1oaOjbkfdeqNwPMhVm4oI%2fhbPLSot%2burPzQzcmnfHyW%2bKr3CKqgMwcwL2IZ6%2bL8eRwx6PDDnwKINJ%2fS0kpkMfzysR5qFj48dsPvk1kADALK22IPPpLn2Urc%2fB5Bvn4jFHf%2fPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
-https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAANxsmOgjAAANAPagi1lC4HD2qpSMCxZNDgjRa3IWUZ0UbCx8%2b80%2fuIJ2n2%2bHM%2b0obZYq1qWkYmSy4ZuI3oVwOcW58%2f%2fesPdB1N39Pbrc7jQ24WiTKHvEbQ4UkTJae0p3YoTi8hdNm%2b8lKEu7oFso%2bEHruip3A5N%2bJIhuGbbOOv2Or2PsMqqEyImRcwQj38X48jBj0emDq4IMJDqufeoe7QLPbKX0HkspHHKRrSndwWG2n0JJhVCXAPCcRt%2bQeQ4YR2zwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
