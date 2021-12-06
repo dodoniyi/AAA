@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-👇-BEIN SPORTS (2G)-👇-👇[/color]
+https://
+
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-ch3.png",CH3 3
+https://smart-tv.livedoomovie.com:4431/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://doo2you.com/icon/5hd.png",CH5 3
+https://smart-tv.livedoomovie.com:4431/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-gmmone.png",ONE 5
+#https://smart-tv.livedoomovie.com:4431/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-amarin.png",Amarin 4
+https://smart-tv.livedoomovie.com:4431/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png",PPTV 4
+https://smart-tv.livedoomovie.com:4431/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-24u.png",TRUE4U 2
+https://smart-tv.livedoomovie.com:4431/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-nation.png",Nation 4
+https://smart-tv.livedoomovie.com:4431/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV",Fox Movies
+https://smart-tv.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV",Foxไทย
+https://smart-tv.livedoomovie.com:4431/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง TV",AXN HD
+https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-sporttv1.jpg",Sport TV 1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-sporttv2.jpg",Sport TV 2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-sporttv3.jpg",Sport TV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-sporttv4.jpg",Sport TV 4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-sporttv5.jpg",Sport TV 5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png",True Premuim beIN 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0mft.png",True Premuim beIN 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",True Sprot HD1
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport2.png",True Sprot HD2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tsport3.png",True Sprot HD3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-chelseatv.jpg",ChelseaTV
+https://smart-tv.livedoomovie.com:4431/02_ChelseaTV_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-mutv.jpg",MUTV
+https://smart-tv.livedoomovie.com:4431/02_MUTV_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/wall//07.jpg",LFC TV
+https://smart-tv.livedoomovie.com:4431/02_lfctv_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport1.png",TRUE SPORT HD 1  smart-tv
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport2.png",TRUE SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport3.png",TRUE SPORT HD 3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport4.png",TRUE SPORT HD 4 
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFe1S.jpg",TRUE TENNIS
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport2.png",TRUE SPORT 2 livedoomovie
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport6.png",TRUE SPORT 6
+https://smart-tv.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/beinsporthd1.png",BEIN 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/beinsporthd2.png",BEIN 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",TRUE SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/2sporthd2.png",TRUE SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",TRUE SPORT HD 3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/2sporthd4.png",TRUE SPORT HD 4
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",TRUE SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSport5.png",TRUE SPORT 5
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSport6.png",TRUE SPORT 6
+https://smart-tv.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSport7.png",TRUE SPORT 7
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
+https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",TENNIS
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/GolfChannel.png",GOLF
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/FOXSports1.png",FOX SPORT 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/FOXSports1.png",FOX SPORT 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/FOXSports3.png",FOX SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/FOXSports3.png",FOX SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/FOXSports3.png",FOX SPORT 3
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-eurosport1.jpg",EURO SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-eurosport2.jpg",EURO SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-nba.png",NBA HD
+https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://doo2you.com/icon/GolfChannel.png",Golf HD
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-foxsports2.png",Fox Sport 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-foxsports3.png",Fox Sport 3
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORT HD
+https://smart-tv.livedoomovie.com:4431/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORT 1
+https://smart-tv.livedoomovie.com:4431/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORT 2
+https://smart-tv.livedoomovie.com:4431/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORT 3
+https://smart-tv.livedoomovie.com:4431/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORT 4
+https://smart-tv.livedoomovie.com:4431/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORT 5
+https://smart-tv.livedoomovie.com:4431/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORT 6
+https://smart-tv.livedoomovie.com:4431/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/uk-btsport3.jpg",BT SPORT HD 3
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/uk-btsport4.jpg",BT SPORT HD 4
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_4_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports6.png",Bein 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports6.png",Bein 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier HD 1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier HD 2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport1.png",True sport hd 1
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport2.png",True sport hd 2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-tsport3.png",True sport hd 3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tennis.png",Tennis
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-nba.png",NBA
+https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-foxsports2.png",Fox Sport 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-foxsports3.png",Fox Sport 3
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/sd-skynetsports6.png",PPTV HD
+https://smart-tv.livedoomovie.com:4431/02_PPTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tsport1.png",True Sport HD 1 doomovie-hd.com
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tsport2.png",True Sport HD 2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tsport3.png",True Sport HD 3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-nba.png",NBA HD
+https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tennis.png",TENNIS HD
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-golf.png",GOLF CHANNEL HD
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT HD 3
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p_UK/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",FOX MOVIES PREMIUM EN
+https://smart-tv.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",FOX MOVIES PREMIUM TH
+https://smart-tv.livedoomovie.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Fox Thai 1
+https://bit.ly/3fOHHur
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Fox Thai 2
+https://smart-tv.livedoomovie.com:4431/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",WarnerTV HD
+https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-axn.png",AXN HD
+https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/sd-fox.png",FoxThai TH
+https://smart-tv.livedoomovie.com:4431/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/sd-fox.png",FoxThai TH
+https://smart-tv.livedoomovie.com:4431/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",WarnerTV HD
+https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",WarnerTV HD
+https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies"tvg-logo="https://doo2you.com/icon/HistoryChannelHD.png",History
+https://smart-tv.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies"HBO2
+https://smart-tv.livedoomovie.com:4431/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",HBO Hits
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hitshd/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO Hits2
+https://smart-tv.livedoomovie.com:4431/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies",HITS
+https://smart-tv.livedoomovie.com:4431/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",HITS Movies
+https://smart-tv.livedoomovie.com:4431/02_HITSMOVIE_720p/chunklist.m3u8
+
+#EXTINF:-1,Warner
+https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,AXN	
+https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8	
+#EXTINF:-1,Fox Action
+https://smart-tv.livedoomovie.com:4431/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies
+https://smart-tv.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO
+https://smart-tv.livedoomovie.com:4431/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO Hit
+https://smart-tv.livedoomovie.com:4431/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1,Fox Thai 2
+https://smart-tv.livedoomovie.com:4431/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Family
+https://smart-tv.livedoomovie.com:4431/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,HITS
+https://smart-tv.livedoomovie.com:4431/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1,DisneyXD
+https://smart-tv.livedoomovie.com:4431/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,Cartoon Network
+https://smart-tv.livedoomovie.com:4431/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,CNN
+https://smart-tv.livedoomovie.com:4431/02_CNN_720p/chunklist.m3u8
+#EXTINF:-1,fha wan mai
+https://smart-tv.livedoomovie.com:4431/02_ADintrend_TV_720p/chunklist.m3u8
+#EXTINF:-1,NEWS1
+https://smart-tv.livedoomovie.com:4431/02_NEWS1_480p/chunklist.m3u8
+#EXTINF:-1,NHK WORLD
+https://smart-tv.livedoomovie.com:4431/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
