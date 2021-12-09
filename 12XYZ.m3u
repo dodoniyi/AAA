@@ -1,13 +1,10 @@
 #EXTM3U
-#EXTINF:0, QANAT
+#EXTINF:0, QANAT1
 http://212.224.98.205:2200/EX/bein8sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-#EXTINF:0, QANAT
+#EXTINF:0, QANAT2
 http://212.224.98.205:2200/EX/bein9sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-#EXTINF:0, QANAT
+#EXTINF:0, QANAT3
 http://212.224.98.205:2200/EX/bein10sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-
-
-
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
 #EXTINF:0, QANAT TV1 (Working)
