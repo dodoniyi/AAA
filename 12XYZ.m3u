@@ -1,10 +1,34 @@
 #EXTM3U
-#EXTINF:0, QANAT1
-http://212.224.98.205:2200/EX/bein8sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-#EXTINF:0, QANAT2
-http://212.224.98.205:2200/EX/bein9sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-#EXTINF:0, QANAT3
-http://212.224.98.205:2200/EX/bein10sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+
+#EXTINF:0, BEIN SPORTS PREM 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqaJhOXBwyJl69qWUX3ZoQm1iuh2ioyP7zn%2bRB87nbS1cvHQ04l%2b1rQAkyjnRL8Pdkmu2iU8Wrm%2fb7IevbFoXGfq6MzSqR79aDG8QiTDqFKXa%2fXcxbFL2FPdfWOPT%2ftT22MvTMaw55Ry8BrIYT3fuKaAqIohq52TKKjlSBpzlSC%2fBzzN4HAoUd6Y5vYVHn9fVmCXf%2f1%2fR9RkgxSzCqlAViCsZAwolQ2V6jKARqkwfMO6QjfBkwfEfFwWJDJRx9Iq5WG6eKhNrw62%2bzN5IxvrEWlG8wOKwgnH%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS PREM 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhiTEFkOHCKWxUqKpSzDDUxAFkHZwjh8fN8LlHROpgrUVP%2bRprNEBF4CkYDqFzonzS%2b6rPCodIUj3yInpINo%2bYzegibWLdRhT%2bNoyf2uepZpgdhneazQiK3RR6541oeXOn%2fVtttcuFjKi2bBJtL8A8m%2bRz%2fNBp2kxRBqq0cZ3hK1WV0liUNqe6MwzZ0wNVTKgLtv0q1X0O6QYV4oRyAjCAsZA8Zk48h0GUAjRxzfsY7Y3npWH3P7VuYbzwPdmYh3%2frv3Dxzm7uClZH1FrXCQf5or8x%2bH2tn%2b%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS PREM 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyQ0AYAOAHMoZdh3DhIsNmabQEcegdfqxDDTaRpuPh%2b30GVs0vPfDdrbfPLQx8XzviRRxFK81%2fQ%2fOh2zAqis8yl6%2fFrH1SGC%2bUsw%2fsTGvg7E%2byx2k3CsKS36LK4faLKu%2bZTnIZ%2bfeh41uY%2b31oV5DptPeCTTj5gJ4buzpwMVoPpD8ekkSnUoPz2%2f0n4kuRDWfLOuogS2yHDXGSduTB8IFAbSpFk0WMUCWqMoBoamCIMjJL3Ki1amA4fGwWr5a9gRQgZfV3WsaFF09TXZ7m2L0SoelwIvEl0W7WP%2fqFuPD7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwdtyRDAAANAvMiORVDx4KEK1RVzW7U1cNjtGo3abtcbH95weZoozK8eRfN3jAuOIPaY7MQE7oCeUUR5eIuLmMGSVEZdG0m%2bRyRMQ%2fHiXLZ9T1%2fXxMsd1Xj9Eus6%2fkw7TN7oTmjRe1z6Dz%2f1GyFioatkcZy0x96vG6Zz3j6Ldi44T57ZkaImDSWfKfOVwNQqBUts%2bE7XJnCcs7Gtx7S7jCQY0cgPrGgSAa0gfBs3CA9F0YHVwRD0icDi%2fjTB8%2fol2kqmkG%2f2CJVPiatv%2fWTA4kOcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwdtugyAAANAPWkzB4YUHHyzW2rm5OItW3rBQnFZnZwqa%2bPE9h9QUktQvcGTulUwy%2bl16%2bOtwHWZt1qVjHzYAKelZ2cEduNSt75lHnE8NjKL8kxBDDvG0W%2f2%2fwtXy11m1frre9LO%2btbzLNMZzL5dupMUFpdkenYehL6NF8Q4plhwpRyF2zEP%2be%2fatria1J8OzOsE2D4JtznsVsnXIshOVuedsUCDZvDvAsiFsLASEsLAjfAtAzG2Jrsi3xZbwJHZHGuriTClhYoT83qogeAGLSRIx5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwctygjAUANAP6jAmJFGyYCGTtmisEB6muhMuSKmCkoKF4eM9554r7SWFkcluVUxN7KSXRc%2fK%2fAwXTJ3hiQ4VgSBV3%2fumDXzN5QdV4caMS8cv%2fb5%2fr8cfNkVI%2fAnBdRVdu6nBp0Nioi7UpaxuSrVtbBPeKdl1XJlb%2bZSnzbiOd7oW6Mq34b7%2bIiDswatjnv7CYvC9tevOy%2f%2fk%2bFn3RyAZKkI1zBhokRGGLBvjzKIIwOIMHAthfrYLmlPHhhlv3%2fCQrcCUQeY%2fWEruj1wo130B64xk7%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwd1yQ0AYANAHypjZZRd74YJWE5ZqJFLcWR%2bSoIn4C%2bPhe041%2fyrXPZ9JZPPwEt5Pjiy%2b4X7gZthP17%2bKlt5bTPQRNq920Sz%2fI0k8T6zWM%2fnap0mMl%2bBd8pi6xAsO9GSDKojZ%2bZk79OUwFF6T1XakPRd%2fTc%2fMESqbFN3VuChuu7FLKmj5p4XqiwlDRwChNn%2bPr1tzNIytjXP1WPpirfuaOenPhoEUQqFIkjEWEkEAEqOgSwizTC5ITnQZtkc1Up%2bNoTusO03FURCrNsyG8Q8IJ%2fE45wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwclygjAAANAPcpisLDlwQJGSioCguNzMYkcm1rSMkDp8fN8jABvVPNG1zfnrTzQnM6ZN0kZrvIVE2uJd%2bfXSda%2f2GJjLQ616Bdq3Zr3JB5iKw8l%2fkKGUAKupoMmUuk0kd%2f3to1h9lgtio3DJM10tHKfnsL7tCes7IOEF6Po5mHTIwkKxIxm3awry%2b08XWCR6P%2fmK4zkXm3vlMLO%2fJR9lc5iRoloQH3oYIeFRqJTHfBV5ELEr1lTSCKv5PBKbga7ZBd97Z50o9cjBFMf%2f7dWo7%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 6
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwVFzgiAAAOAfxHECgumDD%2bqml21zUOjpmwbjshlZLl3nj%2b%2f79vepEru9lXxmehnA8DZda%2fJ8jEapzyRLb8a0spauKNu4MpqV0c2aKdEa7JKC51WzEYqeagTku2BoVH3CAEZXu1DPGxpZHtrNou%2b8%2fzjH3ZKM%2ba9zePhjOnPQqKwkIgLyQt1c6GOEzHOu7aDTxoTh%2bp%2fZWgSXHsP%2bLKvRW7GiunMZggTjDlKkFAyY8iHCQUs0PVKfqPXrh7HUibcZKbZ%2f6ffJ5YXTzWH4AqiiiMPnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 7
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzNuSQzAAANAPMmYTQnnoA01N2XRdUlreRFxGxLDVajs%2bfvd8wFmWMM8dhfZrHHfB2iH8GtHkGmVgTvUDZAZL66ZaDjcUzrF9aVKhE3xX9C%2fi9wf%2begQk4KPX1%2fnP59lyM%2b66N4Xj4EoCBLVxU5hU0XYtzbAI3yxzj8n35Znc3Cj%2fOCfkVUzISTAw6sXZiY3d1fOxvK77%2ffbLU2fhZ9zi1r5PJ7lBjmqmG0DVIGQqApyrtsEtFUC71GpUIUvjG%2fGHyEpI6c2ZJSM0H4twkP%2fdH51dOOfnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 1 (ENG)
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMoYQFQ8e1LKjcSttd3iThGBYgl7s%2bPg9B1AUnJVBP83S32Y9mjdIScDjrstzi6vVqPXfUkikcr4sYYSNyUzL4eFZeci0uKg90ec9L9uNwOgXDVlW%2bejmK%2ftOTjfaCAEmRNMhgBNORriN1G1afI3WzIibPEHbsLpUGK%2fP8tRb9m7U%2b4LPLsaGY9tH8so78nR4XXt%2bVADrAAzWRDdUWQOAyFBlTLYMhmQVWJVWQwqRxg6RCOUerJ%2bI1nGy%2bhuOflTSfO18vjDHLJzWJNAUEr%2fyyf4HRsAFy%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 2 (ENG)
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUko32nJwCDHRluowxHIjra3BEBM15ePnPYt7zsdOscqxW8y2sVgJZ%2bZZDXpiOsVwFWxNaDcnZ4l72V%2fmRBD%2bfnRfmhKsjuiPo7dY9is9YHBrN0VHahylH5wvoJqmSzNxpS0syYd4faT8lclY%2bi4UNsEeNpzcQ%2fEuW%2bGOSUSkJvNI5a%2bLLe0V6ULDONso9eWs4dV%2buJK%2bxSekcl1JCPAihBUvA0p5HVGNB1AvxVp%2byppIzzpm3bEQXR9d9HspPfT%2bmaUjJClXAvpgM3oDxBXMZG5g%2fAOvSS69%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, BEIN SPORTS 3 (ENG)
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwd12QzAAAOAHchxCEly4kBatn8aYtXO3CFlF22OjtRwPv%2b8LJzF%2fenkeaDSq5B%2bjq1t45LjeJNL6y7R0twSIsTHoj3uNSrVzOiYdpKzD8eBUNkuFGsgcc%2bk0b529lDJmdZoL1OzT6YnV%2bPFMDU7H5hGGcngIHInMjCDgeLCyVQpw2jP6MidGjDTS%2bB0nCp9kJXx%2fe59qHM%2ffNUb6YhecbIDDjtnI1C0AmA5NznUPcVc3gfdldbCFrsW30iH0Tuc69xqQFEXZrzAve7kj6kyzFwuuv0VbLTgJaOv%2fA4zymoD7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+
+
+
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
 #EXTINF:0, QANAT TV1 (Working)
