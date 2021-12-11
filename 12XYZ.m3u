@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, BEIN SPORTS PREM 1-FHD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuyQzAAANAP6ph6hCQLm3ZKPVI6imFHJIrqpNxoGR9%2fz1lW%2bZzTeVnyqrvHoPbCR%2bM4Uya%2bgqS%2bDAuD8zTnYFgWgKe%2fAQ0dRpvuxiM5QvFO%2brYnhNeIZOlPZ95Pv8i1OI705eaPRAOf4HrRts2EiczSd0tWcCi%2fs3Gg59Bpo8p6mHE5hoxNN1CqbUa419ETuNv23lSAi%2bjaj0Z9em1C7LXKKrM2G8VCzFAAw7WCNVNXLKxjrMFKMyHdfeCeezn3QckRDYpM4zhAzxsTFPoygimHq0QqHSxvtv8BD5lvE%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-
+#EXTINF:0, BEIN SPORTS PREM 1-SD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwVuzQkAAAOAfZIzjspcePJTkuMeMqLddbKilI2EbP%2f58n3uOxL5o39fO8e6WmixdnkktcLBkpTP4C%2fb8ECUfkqG297hmj%2bUK1cL7nV8iToiAoV88%2bIqdTMdR5zY5Zr00hAdoN75b0Z9R4XVNLl%2bWiikIvr0zNDTdsXGqpVigiqp3ZwlS1vP5GseaT5SoEE%2faLaa5eQkIB0FXw0qKh870DVANQkSwzDAwZAOVpYwJQDKrMdMw3OGalhtZP4oruurmovfpSNDreWL85mioV49TvOhnW8qBXbFLNZj%2fPH0GJvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
 #EXTINF:0, QANAT TV1 (Working)
