@@ -2,6 +2,29 @@
 
 #EXTINF:0, BEIN SPORTS PREM 1-SD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwVuzQkAAAOAfZIzjspcePJTkuMeMqLddbKilI2EbP%2f58n3uOxL5o39fO8e6WmixdnkktcLBkpTP4C%2fb8ECUfkqG297hmj%2bUK1cL7nV8iToiAoV88%2bIqdTMdR5zY5Zr00hAdoN75b0Z9R4XVNLl%2bWiikIvr0zNDTdsXGqpVigiqp3ZwlS1vP5GseaT5SoEE%2faLaa5eQkIB0FXw0qKh870DVANQkSwzDAwZAOVpYwJQDKrMdMw3OGalhtZP4oruurmovfpSNDreWL85mioV49TvOhnW8qBXbFLNZj%2fPH0GJvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+
+#EXTINF:0, BE1
+http://212.224.98.211:2200/NL/elevensports1hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE2
+http://212.224.98.211:2200/NL/elevensports2hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE3
+http://212.224.98.211:2200/NL/elevensports3hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE4
+http://212.224.98.211:2200/NL/elevensports4hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE5
+http://212.224.98.211:2200/NL/elevensports5hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE6
+http://212.224.98.211:2200/NL/elevensports6hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE1555
+http://212.224.98.211:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE1555
+http://212.224.98.211:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE1555
+http://212.224.98.211:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BE1555
+http://212.224.98.211:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+
+
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
 #EXTINF:0, QANAT TV1 (Working)
