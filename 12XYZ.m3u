@@ -7,8 +7,8 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 http://212.224.98.211:2200/NL/elevensports1hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, BE2
 http://212.224.98.211:2200/NL/elevensports2hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
-#EXTINF:0, BE3
-http://212.224.98.211:2200/NL/elevensports3hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, SUP
+http://212.224.98.211:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, BE4
 http://212.224.98.211:2200/NL/elevensports4hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, BE5
