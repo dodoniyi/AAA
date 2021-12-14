@@ -3,8 +3,8 @@
 #EXTINF:0, BEIN SPORTS PREM 1-SD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwVuzQkAAAOAfZIzjspcePJTkuMeMqLddbKilI2EbP%2f58n3uOxL5o39fO8e6WmixdnkktcLBkpTP4C%2fb8ECUfkqG297hmj%2bUK1cL7nV8iToiAoV88%2bIqdTMdR5zY5Zr00hAdoN75b0Z9R4XVNLl%2bWiikIvr0zNDTdsXGqpVigiqp3ZwlS1vP5GseaT5SoEE%2faLaa5eQkIB0FXw0qKh870DVANQkSwzDAwZAOVpYwJQDKrMdMw3OGalhtZP4oruurmovfpSNDreWL85mioV49TvOhnW8qBXbFLNZj%2fPH0GJvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:0, BE1
-http://212.224.98.211:2200/NL/elevensports1hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
+#EXTINF:0, BEtrial
+http://212.224.98.205:2200/EX/bein8sd-ar/index.m3u8?token=RED_mwx5LRn7UTeekNkoLCkvUA==,1639516431.4009414566$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
 #EXTINF:0, BE2
 http://212.224.98.211:2200/NL/elevensports2hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, SUP
