@@ -17,6 +17,8 @@ http://212.224.98.211:2200/NL/elevensports5hd-por/index.m3u8?token=STATIC$OPT:ht
 http://212.224.98.211:2200/NL/elevensports6hd-por/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, bein sp1 FR
 https://rented2.mireasa.live/cdn/premium116/video.m3u8 Referer=https://widevine.licenses4.me/
+#EXTINF:0, bt sport 1
+https://rented2.mireasa.live/cdn/premium31/video.m3u8 Referer=https://widevine.licenses4.me/
 #EXTINF:0, BE1555
 http://212.224.98.211:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT
 #EXTINF:0, BE1555
