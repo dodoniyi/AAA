@@ -1,3 +1,9 @@
+#EXTINF:0, testing1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+http://185.180.15.13:2200/EX/bein8sd-ar/index.m3u8?token=RED_NiXJJ3cBpDpKa2mFzuGgYA==,1639839080.4009414566
+#EXTINF:0, testing2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+http://185.180.15.13:2200/EX/bein8sd-ar/index.m3u8?token=STATIC
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
 #EXTINF:0, QANAT TV1 (Working)
