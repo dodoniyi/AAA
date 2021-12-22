@@ -1,9 +1,9 @@
 
-#EXTINF:0, BEIN SPORTS PREM=
-http://46.105.112.116/?watch=EX/beIN_Sports_Premium_1_4K-ar&token=RED_dLxLKNg6dmBozMLYqoFgEg==,1640247426.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+#EXTINF:0, BEIN SPORTS PREM
+http://46.105.112.116/?watch=EX/bein8sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
 
 #EXTINF:0, BEIN SPORTS PREM
-http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_dLxLKNg6dmBozMLYqoFgEg==,1640247426.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+http://212.224.98.210:2200/EX/bein8sd-ar/index.m3u8?token=STATIC$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
 
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
