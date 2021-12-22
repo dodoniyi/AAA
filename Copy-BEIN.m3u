@@ -1,128 +1,98 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhhJQgkcPLC0RhaBYTFwI4GwtCAoouPw8X3Ps2rijOH6vA94dWMlwMhvyhMMcBip9dv2e428VNv%2fBteKij%2bxZdBLAxq8W8eO5hydHw4Qt46hiKs5SRPgzj7V%2bpq9Gijd%2fJJSTdTZtGaOuJqGtA564%2bbwRBIkHS7TEu%2bD2RL%2b23Yme7Yl173dqDRRwRrIGMNaVrkuZKZxLOMvwAyBIK64sY8oOuMkGHXFrlj%2fGYoDIyWfreUCOMkFVLstTGnn2spclD9WXIzlukjmoOhgqUh6H9uNJumGXFvvXtCRxGPsp%2fh4%2fAfS1MgrDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 -BEIN SP⚽RTS (SD)- 👇[/color]
-https://
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwc0OQzAAAOAHWmRpq6qHHhz8xMQMSbfd2qIMUcksNB5%2b3xcgpLkaQGiMW%2fFkAoUp1gdjJz5026%2f5XKXWkHTBJxVeJ2ADHEJg47jK7xzpKeIQDCTtECRC0XOp6ijTd1XuMc22PkpfykXx8zpt9rOLW5zXo9LpJVHR24zEE%2f08BIFPYZKBhoe%2fSY6txSuyO4HfbudyO47Sasb%2bXkJmHqcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 1-SD
-http://46.105.112.116/?watch=EX/bein8sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPmmVh0BwPPZRLyWBEJS9nzRAOknuy%2bvizt2bByblHvbK76ARXUhPUqrWmja5HU6lYpYTjHQrOfj4M4yFSyjnsC0Gp7rc5j58xwFRO46JtcLY2i%2fk5LGNZI7MD7gZQvpMsUK32i6FS%2fqxuZY0tb8x7%2fDJWkzFyhUGYPU6ong4CoXyNVkIHSP0q0Lxnew1a5SLowt%2foyHPvGNh2bAg75PLuOW%2bIg202nqI94etkkjtBuiXa%2b2OP%2fjHxmL%2fdfnceKQLDepgs7X49Gn9VuskoTEUOIZhycvKTcWyTIA4pIlMzCSKaqN%2fixbyqmvMrOD16YdbwHkR1CNsJLDf%2fKQ6RqB09YoPQfG%2f%2fAVa8Xsg7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 2-SD
-http://46.105.112.116/?watch=EX/bein9sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZNtqQe%2bhCh0is6ui4vO8SSRmrQ6GL68XuONoBH3FwU0aw%2bzwlfpchvoqftqIPpTA19Jjj%2b4zLqkjCjqupQl294Kq9haKiEvA1%2bd5xb0gbWvI6BSzD4%2b34MntRI6ht3tmJQ1FFmurF2UX2XWlyScWsHwylALnsv0zlqEw7NDCbdqz9fsQ8NS9pFOQ1SUWdvzLSuspJTuvoVa9IJyrf7xhY1Bq9DEe4fpr0wLcTQx4PXtbnXLuNxJni3%2b1BaK%2bEXs%2fypndG90o%2bVm1UOS6AjBEt9w7aVXpgM6cgAhVV9QZQz6wOASI%2bTeTvF9om9bZgl45EpSt3FQ5uiDzwRSMHLgqh69w%2bn7WwdOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 3-SD
-http://46.105.112.116/?watch=EX/bein10sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHchyDMcNFF4oirJ9lRu400hFjqRCnh9%2fvy%2bsYGvoy0pKzYtLqu2tuNiEDD2DDQQcNqWuldHlekr1%2fQOzozJScsjUiKmx8ap9%2bbQF5KAXQVPymNyYW9cUrhC8pAlReg8zJqKV3pGcP7vQu4nEI2kFAajrYKUP9jOn5nBbygxcgkEAr3NTmeRA%2bfXMoTGr9maMELmXmbv5EqiSIuZ6lk%2fC2CHDBskbCm%2bPjQuZlrLSHJNOfhnCyJvfd7rutjvK27zfPyTUtS%2fDXKFFdKpUsYqxUImR6LV4RwyLW5KtRqwoumfF1kHdsPcuMP2HXrut17gaSAGXcV5FWwGcY55HejG4Ocrb7B0N%2fRWs7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1-SD
-http://46.105.112.116/?watch=EX/bein1sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAf1HFmaOOhB5dFiphc1Rtba11JpWROP%2f5%2bXySz%2bqYuQMkC6B362z834rSDzZauc1Wc0625NH8%2bcdNTtbKBCqWoScwpl75ujcesctPmbtwpiRuVuJ5nBbF%2fAvYKXOID%2bcWz%2b%2fsa6zwrcy8dHnkrBzV0ogzec3Lcz7MKqWL6jOuCLVHZR4eNf%2bv67BWxDOqhkInFViDfMa%2bs2JQ3wZAZ%2bTSd3A6uraSW%2fGHXgYfyl94im51DDgvvVhBiTe5i8aWBkJhTRJzHscZt8nUqJCqDQw1jg2sWs4VWI4Y1PIe1I0wDV8z5guEJDT6Y20MEvGWfonNIfUquvLJnYZJCovqNfynaccYW%2fwRw%2f1o7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2-SD
-http://46.105.112.116/?watch=EX/bein2sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAH6jgxGtNcdBElrX9Tsd3s0TDIUAkNp4ff78vN%2biEHv9A%2f71osNBLwfjrl7FyvFkZRRoQqh2vEs4VwHwxjzcO5rgpl3rvrBl5uakFihZn27FxPXC91Gec1YH0S2PLebTiqURZ1h9cxtOC9TLzeKaylK6Ala6Fann2%2bLLpTDNrBtHvL6%2fJdregxM6NWDNU%2bUq06vrTlATd01NURJNPVnkMloP6syT6Dk3MftyUUBAjjfeweZDER1l1eP3G42Xz%2fQrfgz55%2fKkpglA9fnGosBZkiIQQyaUXXTLppFEkIKjfMVIBSir%2fJ4K%2fWjeNVcWPETxulYkzt49ACX2RUfQcG%2bZh5f88qa7v5B1aJMfs7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3-SD
-http://46.105.112.116/?watch=EX/bein3sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPalkxGOahB4wybiGjlTfX5FLqoGH18Wdv%2fSQCL7mx%2fLq1dVS1cMwq7ODhOcwtVHBSO2kIdVYMvdUsDtkNa8eWjt5NPR4vamrDghSp6i2J2zuN5Endxxl1Z3pmm6d15Ejj4NyrQhsYeNSEzLL8p3dSaW6jD4Kd1AS8ZubyznYnFJMheydfa%2fYHkSipaf%2bRsxGhpd5%2fx8Yy7oasV5SfeytsNB9SVqlCaF%2b26zoRrPZAlnFs4OOd4R0ID4cfP4oLPWqQzjkIGUE%2flME6A6XAKQooOalQay6HhcIpspCjWgRKVqDfI0klmmI%2fIn7lTvNtPz%2feK2%2b6ZeCVQFxfj9GKfFb1KXkd%2fgF9zaXROwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 4-SD
-http://46.105.112.116/?watch=EX/bein4sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUeSgkAUANADURQS5NMLF7RKkx0QSbtuokiYACqUh5%2f3fCs2fjJxODM7VqAmZte73M6xXFH88UiJmpiRAPKb3uSVEvjPWJgxofV8u3l4PRbGLuCwW3ZpSrw14XDQpWEkm0L1Qlbi6vLS1AsJ3%2fpyfYoJTJwDUyaX73ZIc3e5nBujhD41lJmb7mjI12mG8TK07wa12op%2fhe%2fwSv0LfhF9ZOZelp5C02fO1y5%2fedaCR6ZZWLLj5LRl5QkkToPK1tttCw6Hj20b7cmKXJlVWRRA%2bEFUralUijyAVPJKodU8UwvgYS8yVMsS0AJ9aEej9W%2brx1FJ6BHDsOY%2bKVRr0%2b%2bNrT6wbDpeZ6u9vz4O%2f5Bf7YU7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 5-SD
-http://46.105.112.116/?watch=EX/bein5sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAfdI8Ti80eelCH1BWmhbxtY3ITKRTHj7%2ff531vPahw3FvRQ5NbhwfCwYehJ1rvwQBuH9n0DLOU5HvHLwGSfgq%2bvp5nc9TNcv97EE8D3WhTozuEvimPqhjo6i8nLXfVn2aicVyCsvZPjRtW6rVlOxhCas5ollb3CR1YV%2bM%2bUu94fSXMjtjldCHYba%2br4PXpzygv3rrhMnQud9kheeC3M7UTC5%2fI1CdME%2fddD5M9G8Rms5nI0dmCLh7Tjmw2i4az0OKVbtFsVwu1WzCDkoFcUxACuaILUyocCqQgQ%2bNYrgFiAi%2fMO452BYKUFwN51Z0XFzfqxq078JryFI5Fk%2fTOK8pnsfkHyI3TSzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 6-SD
-http://46.105.112.116/?watch=EX/bein6sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANzktygjAAANADMQwmkAQWLkSipgaKioruIBEQxFY%2bARkP374TPA3l295IIv6CRq2x49if18I20yHcE64VaedMYGKZVNBuladq6kBshvitlID9ecVAuTO2fUiHaci73xqrbzdG68yNt%2bDpWMC9RpXgN63mpYgOMfIar7kzELDrQzKGFiJb7a1LcXxH8YRuQR6MNCRGbn%2b5PtoPPikcr%2b1gkJ7c2cI3T%2bwyenzHy2VH1RJ0tPLx1a%2bsBSWzVL1mLpfmy4Iyn88%2frmyYXh%2f0NiCb7s6cj5PgLIES6IRAqVvCzvQUC6ITBFInMyFJhPN5jmW%2fxK7tPTbLEz20bzqmP7JORsyr5l48QUVXBMn%2frj3%2fA7fzxaU7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 7-SD
-http://46.105.112.116/?watch=EX/bein7sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPcpwMDeKhh8281UiaS9a%2bKQRmlHfTpo%2ffcwJ0OxbKJuRMPCmsUxaFFdUEmtKVqUCf0%2fO5YnuKx7CKNGaxxce57%2bY0lQabU6MhuTsUdRxN0Sw%2fZAHX%2bE9oAdiruu5jq7nE6tnL1syox0unM19jpQZ%2br8dQ0BLYN9uFhvXamqU3DwYlTlu0z36vfgjuHsUu2QITO95YfJrwdfMD%2bP71%2b6nhRXtI7hCUgd%2fjx8gnqbXwWlZ0Re0hqE%2fuId5svkEBTq3lJxcltioN%2fS%2fOoMgAX%2boIAa5bbC30HDKko9Uyx8IEKGP4m9LelZ5WvY8eZA8QrXemG6Ju2SEDB9TB2CWKSy7R8br5B17EefY7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1 (ENG)-SD
-http://46.105.112.116/?watch=EX/bein11sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPmmXFuM5DD0cljpJbLvNyFoZSiAYNq48%2fe2OX5VOkDw7aoV8MCV4Z1Z1COOX3mdWQgPCywQ%2bGm1la4toCLqz41tZ%2f5Eb5sH36vo3U8e20tcDohVRMB%2f4CiBXaFy8dyeo%2fK30sMcOx9gkTPoJCWbY5RajQGwimyHt5nWIlVW0AVG5eZgOSwTaNQxAOwRUiNz66ZiFpbZfe5UxWDPo4VSukxhgwyoc1ccv9oMxi30XB0k%2fubHevg9mXP9vtt9tl2oB168%2fvPMhP0RdlSpVBInCqCgknFVrF5Uqhcqos5KgSoZoV6DuYOJXWtr%2fyh0Ra5SN4e6l5vp7bSSTv5Rb7PFrajROfj8%2ftPx7pGkc7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2 (ENG)-SD
-http://46.105.112.116/?watch=EX/bein12sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANx9u2QkAAANAPsiwZzYx56CEKk1sckt7chhWRTA6tPv6c%2fbYR2UulPHl2vWkYv%2f1vyFQKX5RVWtWnOtRuZjl2qQXOtdfxZABws4%2bMwhees%2bpMsqXNZhA8DRwMK0LKcp3ZRR0KJz55rXQc7zET3LRBwissbw70OuKPRPeun5gkh2pM4fBBD%2bGo19zwpslzHuzObMFBa9%2beG2pXasNzGW%2blayg589sPD4n%2b8F0L%2fbAMKXQC73hp%2bHbkWhBGfdtWl%2ffdlZ16t%2fteIECmGL1OSZWGVhl%2bSYZYBkpZxBiU4rZQmZijAosYyjlhCsBZQb5q5Oeu3Rl0PgkuHWmrwLXs8TFoTYUvJOt%2f%2bV4nPSgWuvsD3X0feTsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3 (ENG)-SD
-http://46.105.112.116/?watch=EX/bein13sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHmuPIoDEXXYiKJNmaMu7MDIldYWf9nR5%2bvw%2bEt2f1NrHY5frEmHvx1dnj6FynaFL1hNYDV4%2fmIX6RPWTVZYiAiLNIXPMxQEC%2bQwc4cOn%2fkDu%2f3MT9Tb6DpqKLJRJbwwZJA37YlwMAcspzPIATHmTohVZ3BWhbHP1yDCRuDe1FdqsOxHLSirQxLTWf1IuU5VcjLR6uzvF0DWsSEcZWRwR%2ffEot0IVlw32n7dNDNdK7rZ%2f70f0hwnkL395sPgsyW97TwBik4T6Y8cHZusig0BSEoFAMbhUKW3OkIFNjuNAhyjj%2buM9HJ8sI0pkuptd724g8m1okraig%2fejHeV6DWzSe6jvf%2fAP7fWPeOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1 FR-SD
-http://46.105.112.116/?watch=EX/bein14sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchglhIQcPIRNoFEBaateOkkEEVlksQLjx%2fue%2b%2bvHkm%2fbgLeJ7CTwqdvkqVcHhRNFHVVp8HVlRymmnTeeO6AL6tevyu%2bHuRZGmJtN32eJGe1PpvPNGpC1D2cVWFFNb%2fA00djQWJeiZAChPwpfj4C68M45WXF7sB9oAzdVhV83h6oTKzZE%2fS%2bLH41ey9BlATR6tSxnR5IntAfZWqekTL2BP9rlbkA1H83c1RbkoPmMpwi6zZZ1RBygvdej9fodiKT6i9gqQ%2bPxEm6rN%2bEo4%2bCiKhiDiwKlkSkCSaxgXRUk0wDmkryX1tRI%2fjQ8rR6W7Q03KC5kL6a5K2O4nwurG%2fs7zuJ4vq8%2fpcod1zsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2 FR-SD
-http://46.105.112.116/?watch=EX/bein15sd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
-
-
-
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWRSLSMLBA7IqiOMeuIWQECXAoBhgysdPN6siz5x2OPdq7T4RfdHpCM8FC4ST5ODsgLcHczWn6j7eRB5%2b5jT0cclrf%2bdeSewi9XDhD%2b%2bIL7ekhjvOQtmPqJn28q%2bIfycvDOxu6WSz6yafPNoCPgCpQQk0NJeaGYifgGYnIazrWDPSjLfZO%2fYpOj3vZXTEr7kN4uotnDT72QK47OPPbBGjdTu%2bbRw5gRIdWqS2MTMH%2f8jTRfQ43wiPcbVef9lwIZuep8Wny%2fRVEn1tbDFslLoCgFEqJoFMKSwCFLDSC5stDYCJ%2faWNHMShMoGed1U4QtQKuLhDcuIvQal0HapSX5pZ1jvrfzG6G2o7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 -BEIN SP⚽RTS (HD)- 👇[/color]
-https://
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANzksSgiAAANADOUxKKbFwkYvKNJUwwSV%2byEbRxpjUxsPXO8Hzi0yP%2fgGb5zFK8s8gJskM4rprbUrqdVJiBYPmaz1WLBwpYGUBhGAFduVegsIpEUC2VWC5hUiUeD3d%2bHTnm03Th2nFXm%2bN0p5QPVDD5vyiWRDWqrnWpiKWGKJF6QR6NFhmkTcjSY%2foaY%2bYt1nXt2kcRzPDgyH5v%2fMDS6yrxacAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 1-HD
-http://46.105.112.116/?watch=EX/bein8hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHpSglYIIHDyCLBFnCZuBGQDaFYYYShfLx0z2u%2b%2fV8nwzFv3hxl5SjgsXW9W%2fMFIfZGH7t9Wo6JvTeQKEJtLOw%2b3HYoSHyqzFSGuu8G%2fH4Cs1%2bqfKnIxNrCOOur2GZr6CtwlCiw1tJPzjwrlFLVcS5yCQsXf7yRHcICp72W2Lvgd5WttnLTm%2bqu%2b1nzJm1baH2s3hs68wTkmr5Tn9kktWO0G09RqLF6mZXNccdaDKGuObO%2bScNeoRN5tHT6Wu3MSG2irLB1c7B9PkeC1QXsBIFjGElyKVSCxyVWMAHkR9rCeKiPH5fft%2fvB74BA0kHdeowcJYJWiKBrpxFoFgpYBHQzMuWnf4BwLX4wzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 2-HD
-http://46.105.112.116/?watch=EX/bein9hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdF2QzAAANAP6nHaRCvy0IekTFVVGG3ijSBaW1cM4%2fTjd28y56ptn6UYelBMLK%2bPy5gcRA6c1HouqjjZ6fxJGLM8PGzdsl0JQXhXTJYZ7Y76kmzFIG5nd6P%2fWp7bBLWgUU9gfD9fedR2kxeSWr7Q7cP5llO8sub1MHSO2%2f2Sxeb05TGnv1SKevUYH1byYTW5jtPUalCF0MiBor5vG2GFHq5hX1M%2fo%2fEOU6Jg7gSwb1nM1mWIL96LTufDKRZkuic1hmS%2ffzMZaIRGZj36qhtV%2bcaZUWWwABpCsNC20qy03JBIQzuQ40qHKJP4%2fQeebhN2QbpM3B7Y5mvmDtYT6M%2fMTPji%2fgAqMsWja2fv%2fwF3%2fFsAOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 3-HD
-http://46.105.112.116/?watch=EX/bein10hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMQyCkMDCBT9FFFQCkbgLQdsSU6wQMYyH73ssqpwrnrcTThleBFcVxBeMq7KVgysFGUnG2m437nsTCPIrVZgdUD0QGBqRYOWGFWL6YYTGTPWVe6RLFFoHuZjOXgrQOeDVO6fFS8n6YjQoUSQbPTaf1s3dSK%2ba4l9qhoYgKMoMvytLoDWdGJ9AU0MEehvK%2bPuvungVH%2bttcXwVx8Cpn0nJfekcYlnUCA92WTDfDxueDxzwuxMmGhKn1eqj9uUrBybGrZ10edB%2bPApu1GpNHUKr1W3m3vQGMKhDx2y829KClHmfd8i1CRabJT0914l6KOruxvn%2bFi8Ri77bmSidHlOHHoSv%2fgHp8JeqOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1-HD
-http://46.105.112.116/?watch=EX/bein1hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsizGYJqHHibLZaROF0O8GZLLKFIHrT6%2bvWO%2bjPFxW0scDS6DwnDT%2fR9M3HZ5PkUhZcbOeF4R%2bo8o0i3LHjoO1IHB0D3MFI8P1QVi1lmTsmWufdpbx%2b7WkTLFy4nGnmViY%2bzIh4fAeVXm%2fBEMMv%2baBG88GA4IUjWgTc4f1dCrbbjvHuZOmdoomUkI6MEdxaZa%2bf37dO4Wxe7PfOPlnmc7cPIK0VwkpwCSOAy2jQj%2f2MGkBLp0j725Juv1F7UguvggIxlhGdLGL87MMtMKICOkFbKer0qZmzmSkQE4LqGGshx%2fRdngpHKiu%2f3yBRi3lc%2bXrYWhoqy0vIOKS2%2fqRPW5pmT9A68OLgs7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2-HD
-http://46.105.112.116/?watch=EX/bein2hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADdRghCYQsXIgSUj4iViSwC8hHQSwUFDMevu8ZQHh%2bH90j7VYfoEVk1wYDXjaWh8zmmweDKE26XX1dm2Uo%2f56MNXRpwvl16%2bg4E94%2ffoPTKLWVC7XkXL1VU168TR2rY7yn3PlxLDSZTvjS%2b7aerya18519lvLRH1ukm7sq7QAeRrg50Cx%2bLha4c0BAwo6B448pW%2fVWXji6fjWwaOYXcsOsVhs%2bTAPVaojvN96dnRQxP3Bw6YKsrG0qmP%2bO1uuP19lwhvtInQIpUUs%2bRBiVABdNwRhcFFSYlZIbBVawruWkggCLgnymjMMMbO1YpNNpZC0vHwYKS4oTqPmSty4TZRIFRt6o6396ZlfkOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3-HD
-http://46.105.112.116/?watch=EX/bein3hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANz9u2QkAAANAvsjRjDPPQg2G5piOh9DaDEcel1BGtPr6z%2f2BTe%2by8diZWzvsEPgoHOLcmi9w3Uv2udTAebKDb7gE0%2b%2bCUu97Z8S7BfKqz6XHveG0w3DyxMBJBLqGyURnPf6DV00Qxr8OClnbE3mSN5bGNqgHKcxT066DHUX60w4ElWFA3q0NsPPAbtCbtX3ecoiDVnxVafd%2b%2b9iwp7ypbjcVeCiLzF7BUa2eibKCrPx3HvTnzMXbwOYbI3pUXkcvKvjlstx9289yieo4KEdRY4%2fRDGBYMlkDSNFhKqNCFxHGhSZoKOBEK1FhBPqMCPfpLAXL19P9IuKp2YbypozxO5QqanrxM6Zkrzp%2b%2b%2fQKj5ggeOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 4-HD
-http://46.105.112.116/?watch=EX/bein4hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYphKgAQOHlgLKmWR%2fRZIQIHKIlji%2bPF9T9femXZ5tWCfvCYUGOGqJu2kYd2f99k%2f%2bJz88mk7WU6qyaUXvEfb%2fQlN83modHi6Ng3torfsmIINY84Tgzy6%2b8YC5o15Yo7Xs6HHLxjQYgB9SWa2DmNVrBFO9kS2b8q2lsN9ajtLYakieSqXDQfNgejxyLBwhiIznJ6GI01jlSHRUsydxQgCuhedXsxbVfdXoey1P7uoLigUSH1TElkyUXg8fk6mM33DCQe15KoZ8T8qhg0GROARAoSXaqXhK1gjHslCpTYiQLhWP5d8semERWMsFmbpS4uuJhAL4tfJl%2bbIrktyGmz29Ls9j%2f%2by5f%2bmOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 5-HD
-http://46.105.112.116/?watch=EX/bein5hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqwQhoceMtLIZcKEenObopPEmNLq48%2feA1w%2bM3J2RKUCWvuaGsZBmN5T9W7Eed7LKUZnYpfYf%2fFGT5KpWR%2ff9KUscZAAkt%2bSdnTMovM7L2gXiCEOs3iadvLVk%2f11KCP6dfaXuAsYJBIjGpdc71THYDnOKUx7yMo%2bx9qB8OHjsP01Y4Z9ejUZgp62rM7%2bMOZeYbFo9rBTQGybVhmx%2b7LnZrga8kdyePO6tW9zk0uKd0FS1B%2bz7fywo83mR%2bM0%2bRsnBIh%2b%2buBa%2fJmFTgullkUAlFpUK4OKpV4BEWhyadK1AorK%2fHWVwb%2fuLj8M6Cm0W5Xe1FVoy0%2bLCy4dySRYimuVU8bZefMPWN448TsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 6-HD
-http://46.105.112.116/?watch=EX/bein6hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHURRLICEHD6AsIkJGVNAbSQzgjCwiKJSPn%2b79EkWHjFqN1tf6td8S8sQXa8x3eTuoDnpoZzvJ75nbn7wbA8WURGrYGXHwhpa%2bbOAQp5FSi6fV5hJQdGXPebMz%2b%2fexHI%2bPy%2bQ710lNyFuUKjmJ6m4bn5nx12kgmetUFc62vi9diZSablMiwMzAEAVxfiplnU03OyPt%2btB7T2dM6xHMTRpSGJGOHehtAN4%2bCkzYdK9YGx9mX9V%2f9DVJ9vmCh3K1%2bi4xjdvACfGd%2bzkQ6IsLKAqdazJCOpcNZgmZQoZkZGoUC6CjguGvm3fMC6lIErddUuYXfN7BXxSuBSk3%2fEO8ic%2f0V9WYp67%2bAYRggTk7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 7-HD
-http://46.105.112.116/?watch=EX/bein7hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMgaxLnnogy6qtpayBG%2bREpWyVZcY04%2fvOZGsD9453ddMPyPiSg4ajJLRAFlLJJ0By%2bFAt6Sf7dI7Ce2GwwAr0XXTER1NtvuP3JnqVzpuSEaQp%2bZr3HIFX0aVe6qJew5ae2Wgk02wfmu0Hp7gWudrHOK%2fsAfS7DpTsQRVpd%2fjHjZ%2bgiyNVVI%2f4DJEvzftJxHy0LXl2Xntzf0YSDF7%2bBfo%2f4dK5jYFD0ZvzaZ2EVDRq3IuRZZKhe7K6OHwTu2QyKwk4vPUPfCRviHWGwxuimgY4CZ%2bEbMRK50YoqEpFWxUYGAC38znJ4osvtemKtBOmWFMC9i3wOZ3w6uSyc0acoHRc2GHD6egLmE7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1 (ENG)-HD
-http://46.105.112.116/?watch=EX/bein11hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsiwMY8xDD8clhqJQU97cRsnREB1ZffzZW02nXbaGZz3YIovA0s0lCJrRLU9%2bxIDnuA5%2f2r%2f4OdTBlrcEMnKcnKzVOtVTC2a4XYdpWNSL%2fJRPHX4pvraf%2fyQQCUTXk%2fvuXtjWyZBNpwVIgHylS0%2fmRIigZ%2fXXrJ7sbrjx2yWOK5Lx1ohDtxhv8l4gZk79H%2btgE4rCrgKBfuBmgG1rgZMzjFXU3F8KXtf5oqRSpj1Sq%2bZadc0m9pYL1Gw2X%2bbZ1dIfHz1Kkzjp6RfnOstBpYgIgUrUSoOJhV4iEUGlwEwFKC%2fxF9ExQlMgMdby%2fuFZZjhQ7Vy%2fA%2f%2flDee8Y6ycCfzoKmk2%2f6X7U9I7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2 (ENG)-HD
-http://46.105.112.116/?watch=EX/bein12hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYphCWJIcPLC5UIcojRi5EUKwimgEyjJ%2bfN%2f7ZXk2uVVAfwz1jhtCGPTXz%2b9uNAwoNK9dsu7CX8QjCmVguvm7zZg2uV0ckOwx75Fsq3zhIJHn3am4H8NRAStl99AsOnDIt7VgU9SwGXp8wtBW2P5LAWmBcCNbnWrkKlYbzRJrvPriawiAFkgIzpjExn7OnzipyNdbeKyeWwR25tDDQVyPmj9HlIpSc8M7CgdLU1cV%2b4pmjyh5xd62Xq0%2bJdX3NJIWv4QoH43qgwtXFkCYOoRA6HaJpM7dEurQMTmWFoBFiT9zcDs7yeRsIlMmculqzo8mGUsnfJh9wIeoTvGWLpPVXlb%2f3J5ryDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3 (ENG)-HD
-http://46.105.112.116/?watch=EX/bein13hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANzUtygjAAANADMQwkIEkWLhD5CChNpSV248g3yMgAkRIZD9%2b%2bC7wxjFJ8rIP%2bknWWIx7DroT3UhyaVsGkt6temqsG5PoZQFY7iOkaT8Nxf%2fRTApXBIaPAp1OCm%2bbJf6UGDPd8ZrhMTzvMA8r7yIutpr1LB8HBnpRo9nIDgc2YIbQAmXc%2bKwImuFFa%2f4OkXsxHZV30KLx4Bs1i4i5wZc8BHaZDrK1J9O3UUzcQKkbC04btsRjMrNWE1D84ohOb2JcoAN1u3%2f41qF6QyWuiL8fG7d%2fkZtU3WAIVIViqZoFrNbcKpKINyEltQHQryHt2HxXdXwCV%2bC4%2fKnvBS5ga%2fo%2f%2bqqsgnV%2b6WU620c5J3G3%2fAPL3PB47AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1 FR-HD
-http://46.105.112.116/?watch=EX/bein14hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwcuygiAAANAPcpwLgqKLFmlpkY3mA6MdaqZpvmqkmj7%2bnlMkfT7ciX3K2il46YovYjaK2f%2fOy3ynchp27tVp%2fNQ3WVC%2bL1bm8ZoZt3A6GvuoI6A25No9o37iaP7IkWmbBe%2bXKbepAvHcb8fz6B7oU3bQwnLW2C5%2fJw8u6laxnaTBNMqOu17EH%2fba%2bgfxBZDloeIt4VUMhZQxBPx6qFPm6LQzu2iYecMRZPoTHItwzBC5xWVWds%2bK%2fC3bnqbeAzfB32m1%2bvlhRCtHm05muyRSf%2f8sYVRCK6FKiFaquDArNTcKohId5laFNCIK6yfT9X1o%2bNdVgA8VkFBQ2j1qktEUQXsL7boKyaZD3mWPV%2f%2f%2b1C0pOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2 FR-HD
-http://46.105.112.116/?watch=EX/bein15hd-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
-
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqxchmkeeiBSDNJC8jaMW5SOqQarjz97dzFlOKL%2bIj2KPzLjXFLbsBkfKfP31wwthxja49FtW9JMw8WPRkU1NzwXnvusGSKOx1vMlNBxoSJzFdt3a%2buTrtEBnZ155OX0dNLboLhxbUXAyU%2bv92ovZ8BWv1s4%2bDwnw7sm2mAhegCj6XmJ2QWbD0CU28CxGB7eMTJb6JVCmPZ1m%2b%2b7LFlcB1teXk0p0pPCpYGRQaK%2bexkZhi6cNe%2fDd7vfdxmCTp012Fd34CbtDxG9JgqVRQgVKoJyW4uFXkIRanKBalWBpES%2fyUqCcT2eVuvLzNem68O0IMK04BNro%2fssBVzzq4MkHCu2%2bwd1R9aKOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 -BEIN SP⚽RTS (4K)- 👇[/color]
-https://
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPWppNV60%2beBBE2JKiZXhza4O4bGyzxMfvnNMa5yV6wNde%2bdt83dTZpq4yzaPHPprExWtJIrm0%2boOWWJaw0QAhsAGoNiSocE0A0bWKyiskZU2P7j4YiyemzAnm9Z2xnU%2bxnkRLRX3RjYVkmHmfbvmq4WmktKaBm3JfNzRVpIqpltjC7rPfbaROyPKZIyvUYR6Z5h%2b9qGjtpwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 1-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_Premium_1_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHURQSgZCDByQjkolsKgZurIrIoqCTUD5%2busdxnG3qw%2fPJmj4UYQvWlESR34KlY3YdpqvADxr6fHHG9OZukChc9S4NO0lzEO3E1XsqgqWWkeLHjaoBrFp69giexFrJ4XBceu61aaRiXAXEMzM0Z7%2bjWyJCfnwzxihl6XpAYSLKCmP4MPa9dGUwtad4iWOwX9CuB8jhivryhWJ%2bXnHSDKFB8bbWeeROB3F74%2bFtWy5Xx4YXDTtNl0QoQEo%2b%2bVZhggaORqpucadw8wWPe6bNZLGB3M6nP%2fOLMqPOQKnKEIJS1gqzlnOjgDLU1RzVawCzAn35LnebIR%2bargAX2zhMT4kcq3DQAZ9GURZq1feXwhnb6rz5B3Ny2KlPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 2-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_Premium_2_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwdsSQkAAANAPMoZdtZuHHlbuhMolXhq32k1SJGn6%2bM5xuzRA7oaQMEQaNGtFB0QLHNh3D%2bEytRoxwTghruW8nun6jAlg2%2fRdvyOKZruOpOem%2bN4%2f3eQoS%2fo5uJSot3dVRTfNEQWd5nHMTNULXpphAbiQnri2YvDcuVpqGOkll5MZmD7npd6QNXWs3qmtGGLhLDPYUd%2fe1TtRN2nDRsbQCzeGGzZ7fyj3piXM8pDcQl2kQjr1n%2fvhYMAgXJW9bSWvWCBOoiCUyYt0qLgANGo7XtY%2fomddnI0tK05efdpGPzlH5xxWgMcYVvyiXJ35ApWYx0tQyGcJ4ryUf83RPtqS7yBP6YPANR77crDUqzdsp1YWu0Y1o%2fjxZeCqWOs%2f85TZ8U8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS PREM 3-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_Premium_3_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhzZksjBAzAKsktFaC%2bdGIxA2KyBCOPH9z3at%2fZ8SG2zJfEyPa4nGgZwevBaLpz2EuHDVrW8sWiZlh2Wlb3x00Gdbe0UH5pbTDPHybTgZlvqfW5oL3XMMw2pTrCQpqqRy0JTfT69iK8fvalBQFPfuZGNneY0Lz6F4dDlo%2bRNIWGeWwgqdHDIMWMpO%2beB1LvpS3wR5Kbgz5qPC5ZULgKx1vAJt%2fLQ60OtQ8CJWa2F9DBZbYoFDdU1UvqZRys5z%2fF4OsPYq39SOZP3n4ufXIg%2fK2bc6sBOfj8GhhSrpbJBSC03OtnRzQ0StEFAuRlUUxEmxidw8Hp%2fsAjcgoxXIb9%2f42O5KxRIObTbOLEDBSS9iK6u2P8D57NSjE8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_1_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcdygkAAANAPyjD0BQ45wFLUqKAgKJfMFnobInXHj8978tdFxLuwsOhGXdAT1d19d%2fQXdJCbdHzUa4PeeRp3U70nCtNvDoD63GUG7oaBj01yMKTKmx9RDcN%2bnSJ8gkyWd%2bcseEMtH72rE8VBSc3N8hKEZtjmWG63Z8kPr6zKSp2VoK1R9NycFPv3tQrvDBivJorL2BOpIm2CaNQJa%2fZ9BvkFBo3IbhdMoF1JvmUZAX8a%2fKbQ%2fNXMJmgvmIYdv4dqrwrOdLW1vzECqcXuyft5Vr4%2fPWnc%2bgj15LdYoN%2bOHwOBHElU5DRNopxC9JzDgGicporYyGVJQ8T4MCJ0vGvjW1DYFlU7ChanmEtTA4VuBxudxKT7WeFkTsP3P%2bkQA%2fdPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_2_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUir21occOraQiG0QbrSlRYfEDELl4%2bc95JpBXvRPulrhLKxz8%2fEDatv6VhM6BlOUS1r30OdKiSz3PsXF4tjC8txBAgw0rOhed0ya%2bfPviyfSFpHLouzTtpfkU1FcnmvnxzhQW3ZaE12uHgXe22Rq1a2G6Axmy4s5I%2fwbiQO5C5Pk8WG9whZr%2ftb1KoR16x90XPTeujn64pHAmTOENTlNGlf0HO9VxX4qycQN9ahT0PiRdiuIkHHqTl1qtGONwz67tUn1muReGfDxW9Ex19LzQyHhwDUl%2bsJCaQqh4lkAhIqVsNqwpYIBC2S%2bhI0ogALDL7INIgxqrDZr9PTfsEFmOJmBmF1550Yn7C3i3%2bh3EwO54z9Eezq%2fTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_3_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUsquuw85NK0wZKiI9WYXe9AZSeXj571n1kRKceT9QsoqJeoV87TIDds2M3WLWvlZi9hSoBPHLqfls0Eeyr4Y2jat8dnyJ6X8GvvcYAfhq2de6G23tB%2fNuxkxh202XBRdYVr%2ffHbaAR%2fMpCI1lSeE8SCkexEEd25M1kEGnefeTHGPJCsB544asqLal97HKHlNCh80DCM5x%2bMtW6lbG9Vxwq2ga6eF2BACfViFMtU37%2bNhCSUbhA8DOaOWe9XizMBi9CIFLbx853BFAvGXIO6LPyeuvihXm1ysBBYAsWLlEjZsoZaABYpQoEYSQV6ir0EDzzKxoZ9Klsy0pvvkJ%2fNEMmi%2fBW7GwGN%2bnVs6dC5%2f%2bQdK9AlpTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 4-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_4_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPSina1uOQA8YWPZoIwY3GxNqMQqh8%2fLxnlzbe1l1Zx%2f2UTncSkUHEguthNiPNqRCwzR83Liy%2b6UynlY7WddinRNR0ftSjTY2L5pPYx416PmJbDY%2bie7FC9AxTBL0lqzG9ay%2bOJs0baseuCVgflgtwW4Qpa7SDW5Niioy7R%2fvuNPmkD1TNC1WOBCNK%2fvA23eymsaiAsCGyUapw7DYDDTnrUG9KErYFUoBpnvIQrlx1k9rIKqdMj84KDHGGfOl7BIOrvvBRscly%2fWx0YYy7%2f9atOS%2bpSj5KLtc5XwIGQr5kRPJVM4VMIAMlUCi1wMOcKJ96ifYcllMfyTbRHzmIWcPvsFSxtr8uUtCOHjXTIPyVu%2bs%2fkWaVlE8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 5-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_5_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPmmVhwjQPPeRSiEguM70N0kRSuXWsPv7s3XJ5eEDCiWXALMrYmEzsG53S03H7lL6G2BvRCwS8I5Llo1tqc02dmyW%2b%2b%2bZZQ8B%2bG1KYrFq3EIEVRlcOcrjy4gBSuw1dyT7fe9qYXdnTiwv8pfBE2BBj0r1X%2fTyV3HllHd4PSatlw4NKaI894ES1IoJFDoIq%2bYB0vbRE7%2bwra7g%2fgV1368fxkMbju6VQ6aAZzl4OfH5QQteZdtjN9n4SZHh7kb16pooTP5ke7O6V2lubn5Jye67tOWhVzNzq%2bMNMqxgsZQEhWApKsa6EXCuQgFQ5x9UKIlbgn7rMo0zXUeqA4ZMcJIKUJRkL848wU3Lou6llMyuIER27zT%2fojtayTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 6-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_6_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPmmVJLpOHHg41LqcxyCXeJkKSMxQTq48%2fexfXMZ%2fj1c183Q9l%2fNKOPPihwy5Fg1IPvaY5tIz0PnvNuKb8YmZtD8pwcVqczffRdGpdzSnyuXHzGtc4i9MgmR%2bwUfl0l8HaRAwBQsz%2bCUSA%2b18Umwe2%2bHcdWXYIsujJCAapD2sCjoNdqTDhRrQrHtEaopdjryjubvwRKqEyD9EosQ6Oq6yJzx%2bHioSgGRunDU%2bahuSrhJfkdLaCWWyZ158Vaf0T3%2b%2fctZrLMiMzdrP9l8c5hK6TTJL2tqI8%2fepUq%2bi2lAQIt6WgFLtKuGoFFKAqXfVK3kJa6N%2fgAwc2edjsQmNJvQMjRYcUdgjmxmFLabfWxm%2fcZBGxsv8HqbM9xk8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 7-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_7_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUeygjAAANADMYz0kIULqhQRBWnuQjDfLz2IAuPhfS8X%2fmXtwMVZF%2bxiHkF4DjdGSatTbyVTFNQHZ1Qkxeeum6MeS5vcM1kfLw9htkVOeQxFaE5m0uGorZ3EpVHlcpgOvqG7z%2boCUrVJg8hUC%2f1669bu7ZKTWceb%2fhGO06TdnNZYZLGFhzDPz8MYjgnmCO5QoFoitXMOxVnvGZA3Bcl5gxuRWtunraO3ktlkZvlnI6%2bTZE%2b%2bbsPuGfUwbXKsAoam8%2b71KSGjaCueG9kf1yMTWHj%2ffd6xQWE9WvnYE8%2f3vhApBAkVzwIgVKyEVcKWCgYskPkSElEACMPvMhVFjy91iVGnWcFrq%2b1qdeFpic4OUak%2btzSxy5wsDd7%2fAOjg1RRPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1-FR-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_French_1_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUeygjAAANADMQxVEhYuBCnS5KvUXQJEBIYIgpTx8P89nG5Tvw3Dbige844TQXyNUEKyI5EcN9jLl9ycOf3afVBD9GDcoup1p7YjbVnYli4wiDQmbqzB6Xx72IPvzjZKVdq6VrvDoutI5u%2bagfLQ0xzrIjJ%2bwyhuWvwhQYCZW2swSy%2bDdS0oOUWdGOx83t6ocOEd%2fnQDM6emJYeUlWsippoP58VaJayP9tvJyeYxvRPsVaR%2biy20IiOxwCoEf2NPN0Nb4GlpvxzwXJ2Dxuo8%2fefxBx6ZI5onOiG71J%2f1%2b6cihSCxFFgAxJKVC0hYrBSABQcBq0QSASrUn1af23iCvRQlqWTycry4sonru0pD8wM1fq08DOxwod%2fP8R81rA7TTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2-FR-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_French_2_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVEIgcQcPCgG2VGGZeQGYRMCKrKXj5%2fuufWArGPd4rUx2JEOOsq9EIVkQjOU%2fILp3jD7iWtOMbxCOxD%2fYKk6lRRZWhtmadS4180qb%2ftnDV%2f9CG%2bGtmZF7pjo3IH0pEwIOdvi80xVmyjYrN2oLLGU4lyofyaw4bn6uPGlYSAPLbF7ACKpcBioe%2fYAYVMfmQRSUwujN4hIvF7zkW%2fB0i3Tw7PfQgldVcnfvXL0nlI1pMaCecW2r%2fPGrLrLP5QNubZjKzWEsF1YcPiuzXCywrtHqM3VnQ%2b%2fOIFFImYCh5CYcRLdF1wKKeKQLKS4ACJKKP7%2bqqYbfJpXq1c08YlsrlIhn%2bMb7u0LSMpj%2bDTkB3AdpyKHf%2bi5uP9PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 1 (ENG)-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_English_1_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwclygjAAANAP6jAFRAIHD6EFJLIIKNulExZBdlkSYfz4vjc4kW5RK5jzWonAiMZi86%2biU2ewtXVXGDupGA0ONf7Ux8RZoy3wISo2UM6L7iOX3lkxvlutrlIfxws64EGd8L7%2fbBcu8biYaCpMMq6owC2kJpmStssm1g4Ht%2f2tK3VbztflQjtE%2fBpa8pp43mtsSpyU6cSaZkd37ZlqnKhY1jyGqXvVJYENX9cic%2bdyHjo7f5sYiobiFJRPBnJ%2bNnmlu6rUR1%2fmEX73pDCi%2b3vfArakp49TC0%2bFqOpaLMEF%2f90%2bMhYfmM85BgA%2bZ4RMejCpmAEGHLlUfhx4gDP5M70rCnMHEts7976OMI%2bAkYWDhg5Ectdmq0J74ta1la3TPyqyPR5PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 2 (ENG)-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_English_2_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHURRLEgIHDwyKEBwEoyjc2KIjElwIW%2fn46S5rYI6RBJvby3bprENbdGyj32lVXoYXNdZgQT9%2bgBw92%2f%2fB%2bB6N%2febkDUn6uRw3DAyEDFM0U5g5dZVTZZzfmuvnhtLPW%2fjqULh%2fNOOCjpLpREnViZAFjTCgI3kTeBABMIyzHefXj5rHN3Zuhcn7NUy8lmrPusRxIok9ia5KeFlm7mMYtPq2TWmuFYUtJqcmTSA071PrmbSYquvwd8tsTtuox0N4H6vEPyqeZHcJQXD15etD2rqlFhNv7p7F4WvlBsv1SpMx1isZliaTC6PEMkZaYTGg47y0vmGVLWDx%2bjE7HZy9nW6nbqc8LDSooD5ZOxsD%2fvR%2f4zMi6uofNrRfuU8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN SPORTS 3 (ENG)-4K
-http://46.105.112.116/?watch=EX/beIN_Sports_English_3_4K-ar&token=STATIC&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsiy5zfDQQy6DUC6h440R5Vphaqw%2b%2fuwdV2mGqTbxuZzQzFvRbcmvxqf4BoLDvC2lgss4%2b86rUpF5kUKNuVj33PE8l9O1C3VXZIUUOi06uQ4E8kOpSL7pH%2fHbh71M60ZS0CExkZ7XbzjbnsEz843nMqsj4%2fQEA8RirIuS9WmYrrXMfJnkLH09OC6muuAd%2bSV7GLtzScU7DdZxPmfPLrYI%2fBqe543%2b%2bEoPPhO2zkmOdnpYB0PYg3Zz79IY0QFqxIwxFKemDSJxPv%2ftf6AZ5L7c5lSPp8Swi59agLoQKp6FUKhYCSs1WwIMWSjzpVqLAiyw%2buuJj7ija5NVKLlp65wrTjY%2bwhIJgN8Y6PoZSCnUwKbK%2fh8FA6C5TwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
