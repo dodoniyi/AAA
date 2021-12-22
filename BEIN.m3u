@@ -1,8 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 -BEIN SP⚽RTS (SD)- 👇[/color]
-https://
-
 #EXTINF:0, BEIN SPORTS PREM 1-SD
 http://212.224.98.213:2200/EX/bein8sd-ar/index.m3u8?token=RED_dLxLKNg6dmBozMLYqoFgEg==,1640247426.4009414566$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
