@@ -1,5 +1,6 @@
-#EXTINF:0, QANAT TV43
-https://kora9stream.online/live3.php Referer=https://beauty.himtree.com/
+
+#EXTINF:0, BEIN SPORTS PREM 1-SD
+http://212.224.98.213:2200/EX/bein8sd-ar/index.m3u8?token=RED_dLxLKNg6dmBozMLYqoFgEg==,1640247426.4009414566$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
 
 #EXTINF:0, QANAT TV2
 https://yypmahmmdjzijjex.wzcdn264.net/hls/c2kxuno.m3u8?s=Vy830K5FV0eWJgYvf1fzYA&e=1638280579 Referer=https://907r51wqalwgv3.sastreaming.net/embed/c2kxuno
