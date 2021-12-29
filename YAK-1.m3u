@@ -157,10 +157,10 @@ https://
 http://b.banourahga.xyz/live/996256440/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports Xtra 1 SD
-http://b.banourahga.xyz/live/77000254/index.m3u8
+http://b.banourahga.xyz/live/50002555/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports Xtra 1 LOW
-http://b.banourahga.xyz/live/0417877700/index.m3u8
+http://b.banourahga.xyz/live/77000254/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
 https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
@@ -207,10 +207,22 @@ http://b.banourahga.xyz/live/652177700/index.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports FR 2 SD
 http://b.banourahga.xyz/live/68525202/index.m3u8
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports FR 2 LOW
+http://b.banourahga.xyz/live/0417877700/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇-BEIN SP⚽RTS-3 FR-👇[/color]
+https://
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports FR 3 HD
+http://b.banourahga.xyz/live/62464521/index.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports FR 3 SD
+http://b.banourahga.xyz/live/32842140/index.m3u8
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.imgur.com/FgqXJmw.png",beIN Sports FR 3 LOW
 http://b.banourahga.xyz/live/2433016410/index.m3u8
-
-
-
-
-
