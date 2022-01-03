@@ -77,3 +77,8 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", NBCSN
 http://cdn15.hdstreamss.club/live/abr_ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIxIDU6NTQ6MDYgQU0maGFzaF92YWx1ZT1SUWRseFJ1ZGl4dTdSbVdQaGJyY1JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNzIuNjguMTMyLjY5JnN0cm1fbGVuPTU= Referer=http://uhdstreams.club/
+
+#EXTINF:0, TTT
+https://rented2.mireasa.live/cdn/premium31.m3u8 Referer=https://widevine.licenses4.me/
+#EXTINF:0, TTTT
+https://rented2.mireasa.live/cdn/premium31/video.m3u8 Referer=https://widevine.licenses4.me/
