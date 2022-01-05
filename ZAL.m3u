@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
 https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Sport",Long term Sport IPTV & ZalTV
-https://zaltv.co/ads/in-app-ads.mp4
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",K Sport 3
 http://190.115.29.22:8080/carter/GUV1bMq2VK/2113?checkedby:zaltv.co
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1
