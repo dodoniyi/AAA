@@ -1,10 +1,23 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV27QjAAAOBf5AkZdtEFqjl9aJFl7mI7MuarjhOPH9%2f7Jn2dcPf2hJT4VVC9sQB%2b1Zfk1e7VjxApnsNIOHjH1nI1AsFpUXbF2HL08efHu4Thw3c9zqO0i%2b6ZTPxJIi3Hx2JCEW1rPPSQmK69H8hPbt2aO2ruJy%2bQcTwcG07M4rkQZW1eJrXyXCNs1vi6PCCAOrB1hZuGphiW9qtkOcsVpuoZ0wzAbMteBGn7KHiZ15Nap85qC3pIP46g1Ugu58Rp1X8t7OYYFTSwgIHylMPhgILznla7EMzbCad%2fts4OW4%2f2aZfU3JejdDabL%2bGcpgQPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 -AFRICA MAGIC- 👇[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPYsxESHzwAcutWnhpgspLU%2fCyaitzanN%2bfOco%2bf5y%2fgp0HIpG5soZtCOY72%2f0cIzIWqXpEORsWO5b5REPEYpgs8c2xK7dwlobDc0O1cbGxFCXbrgdS6KTU0GSOSk1X37SIjKbhDDcmj4sXa%2fPbuyzPgZRB%2fLLGaAHvoWAKawcM09%2fnHLkUI8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+https://
+
+#EXTINF:0, Africa_Magic_Igbo
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Igbo-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+
+#EXTINF:0, Africa_Magic_Yoruba
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Yoruba-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+
 #EXTINF:0, Africa_Magic_Family
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwEAAB%2bLCAAAAAAABAANyslygjAAANAPYhy2EMKhBymbRjYFWS6dQBTLptBAgfHj23d%2byVTfLalyyNIfQDaXSu5fX6LPcOJwpNpnhZ4Aw0tk4zbNvwfQahF%2bDv7LbIw8602Tdw6xKudys8%2b9YVke2%2fro%2bd%2fi2vwsIYa2yKlxi%2fA1z9jFFSwg2CnrQqSbgXfqlnF8hll%2f%2fHn0TqdxARmqeBXOVk2lYJrXyI25MH0dfU%2bLOZDWZMStHhMm%2ff9tBLzLiP5NVpX6F3n6LO9WRg9SEC%2f1uBIzKjQ2SFGMqj65eQ6C1bMTI3GweS%2f%2bPq93ezo3g2G7WqqmWErQhoYNb7rotCMPc3jC0BOM44DXh6bi9LnNAWw%2b3iaevyrzhss97d0sYm%2biKZqkIGl3g0DcAVW874qSljsqSAUVgUKRit5sAiGmzDCvNlSWzUx5myErGjy%2bbtoIwk62Tp%2fWRdjz2ccfr%2f81h48BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Family-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+
+#EXTINF:0, Africa_Magic_Hausa
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Hausa-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+
 #EXTINF:0, Africa_Magic_Urban
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwEAAB%2bLCAAAAAAABAAFwceSgjAAANAPchgJJAYOe4iIgAURkHYLhCJll2rE8eP3PQrcLs6DmRunCytVSihDeHveBVRJzq1ppTf5Gm8bpQxP0HVSCVTPzP9VEO9GF73cNXYM5N%2fxXH0uMJA8PDEa%2bKOmkqzOmIha7wmuZKayptmDbOmpU9tyOst3yZq3i7pZrsWEQyuPAjd8T8i4NWTDjr55YT2f%2b03pkzOPeieijenq8mG30d21xPFBJkeV7KuhhQOkj47ZbVQtxwlnLE%2feiXFsMOrm8VRna0S820CmJG4Nms0Yo8ty39MKrqYLkz%2f6fkT5NVrDqCqW3lNA9emLYjgjW4eDCJx3IDeoxlbvYP7zfbl7gdv8s5qvKcxB8qUqUiWkSEK%2bg0CAGBRCmrFMYKKUMgARU7Dy1TTRMr07cXj7xLqT1N14y0ru%2b3lejkNOEuxvIQD9qog%2f%2f5ISAlyPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Urban-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
+
 #EXTINF:0, Africa_Magic_Epic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwEAAB%2bLCAAAAAAABAAFwduWazAAANAPsrqmUgl9mAfSUKaNMnpc3kJQ06IucVv9%2bLP3vgumThKDWBzz1xp%2byHTeyxhSyiqD4WrhKGJPktU35SUHBbbDugsnFq3CGTeW%2bNnpFaS65L5DtjzHN6GRyZrGiGIBntydTmCyFTZZq4U9ErQeN4P1QiQGhoUOHo2rUpgDB%2bhWiJWEugfPzuyTMx2FvWhZMR0kIB8RhmdeeopzWTKL6KEvWmOsXwdVSNu7puiK1hZF20%2bpQFfNkZSf%2bghyYLT%2bNeUStcvZbXD61HOj%2bpKxkwx6XDpJtc21gNctK1l8u0cmON4wzvxyJod%2fPe6mvk3sR2qF1Jh1aXOScfj%2bUPFbKxZX%2f9K0v3Ln9mFHeARQA7scKfJOUeVil2Y82%2fE9SLmsQK6p2qcZeglHfufdExcNuT3ONunKDt2bSyFz7e48gil5yDPk8fd%2fD8fgIY8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=AFR-EX/Africa_Magic_Epic-dstv&token=RED_9V5kyshCVSqCM4V3VPXvqQ==,1641622140.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
