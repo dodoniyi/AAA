@@ -2,9 +2,6 @@
 https://raw.githubusercontent.com/dodoniyi/AAA/main/ZAL.m3u
 
 
-#EXTINF:0, SuperEASY
-https://www.videocdn.click/eplayer/cdn/premium31.m3u8?vcdn$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F96.0.4664.110%20Safari%2F537.36 referer=https://widevine.licenses4.me/
-
 
 #EXTINF:0, Super
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC96d0FBQUIlMmJMQ0FBQUFBQUFCQUFGd2QxdWdqQVlBTkFITXNTdmRmejB3Z3V4S3E0TGdTcG91Vm1xYmRXcU1HQ0tHQjdlYyUyYjdiMmpEZXNhZHY4N21yN0RYcVdvM2t1RXFQWTg3cHcxSnYwZVNsdU5FWkY4VXNBJTJmMG54SHVoVGZmb00zSHhxN1g3T3E4eU1UY2R1UmJSWkZPbVdieVBkaU9XcTlhZUNJeThFQ3U2alAlMmJENmREakk4UiUyYldTVzAlMmZYN2R3dCUyZkJSWjVTV0FZT0FpV2RMJTJiV0JFJTJiZ0RjU1pTQmdhd0prVEIwRUFvTEpTcnRMM1RDenYxUnNxR1lZU2UlMmI4THlCTXZORDlRMFN1cTFxcVlmV1FkeTRNOEFBQUElM2QkaHR0cC1yZWZmZXJlcj1odHRwOi8vbGlua3Byb3RlY3QueG10dnBsYXllci5jb20%3d
@@ -45,12 +42,6 @@ https://mhdtvworld.co.in:443/red/play.php?c=3085 referer=https://mhdtvworld.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F92.0.4515.159%20Safari%2F537.36
 #EXTVLCOPT:referer=https://mhdtvworld.co.in/red/play.php?c=3085
 https://mhdtvworld.co.in/red/tvvvx.php?id=3085&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH121
-https://jazzy.to/secure/indexx.php?nimblesessionid=59545150&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMSA0OjI4OjM2IEFNJmhhc2hfdmFsdWU9RFpTYjJaZ29GR2JXT2pFTGdsd2ZxQT09JnZhbGlkbWludXRlcz0xMjA= referer=https://mhdtvworld.xyz/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH1465388999
-https://rockx.cc/daddylive.php?live=98&vw=100vw&vh=100vh Referer=https://daddylive.me/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", MATCH1465388999
-https://12.rockx.cc:30443/live/98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSA4OjM2OjI2IEFNJmhhc2hfdmFsdWU9TWkwNjczY3IyTzFlOW1vWTR2YVFZdz09JnZhbGlkbWludXRlcz0xMjA= Referer=https://daddylive.me/
 
 
 
