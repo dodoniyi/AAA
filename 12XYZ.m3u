@@ -85,5 +85,16 @@ https://hg-c2.dotice.me/plyvivo/pimin0gegozav0yimi80/chunklist.m3u8$OPT:http-use
 #EXTINF:0,Channel
 acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
 
+#EXTINF:0, test1
+https://cdn.videocdn.click/cdn/premium98/chunks.m3u8 Referer=https://widevine.licenses4.me/
+
+
+#EXTINF:0, Test2
+https://cdn.videocdn.click/cdn/premium98/playlist.m3u8 Referer=https://widevine.licenses4.me/
+
+
+
+
+
 #EXTINF:0, TTT3e4
 http://3.68.110.183:6577/sports2021/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODoyMTozMCBBTSZoYXNoX3ZhbHVlPVdyRVdJYUJTYVNXOHZ4TFdlVGNQUkE9PSZ2YWxpZG1pbnV0ZXM9Ng==$OPT:http-user-agent=SWIFTAGENT%20V1.1 Referer=swiftstreamz.com
