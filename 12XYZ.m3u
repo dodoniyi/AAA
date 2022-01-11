@@ -1,4 +1,4 @@
-#EXTINF:0, SuperE
+#EXTINF:0, SuperE1
 https://raw.githubusercontent.com/dodoniyi/AAA/main/CH%3D1-100.m3u
 
 
@@ -95,6 +95,34 @@ acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
 
 #EXTINF:0, TTT3e4
 http://3.68.110.183:6577/sports2021/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODoyMTozMCBBTSZoYXNoX3ZhbHVlPVdyRVdJYUJTYVNXOHZ4TFdlVGNQUkE9PSZ2YWxpZG1pbnV0ZXM9Ng==$OPT:http-user-agent=SWIFTAGENT%20V1.1 Referer=swiftstreamz.com
+
+paste
+LOGIN SIGN UP
+
+mullafabz
+STTTTAAAA
+MULLAFABZ
+APR 8TH, 2019
+9,018
+NEVER
+Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
+1.65 KB
+  
+<item>
+<title>[COLOR yellow][B]BT.SPORTS.ENGLISH[/B][/COLOR] RESOLUTION=240p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href-240p=.*[",'](.*/eng1_240p/playlist.*?)[",']</expres>
+<page>http://tvhistories.com/cricket/IPL_2019/index.php</page>
+<referer>http://tvhistories.com/cricket/IPL_2019/index.php</referer>
+</regex>
+<thumbnail>https://s3.india.com/wp-content/uploads/2016/05/447450-vivo-ipl.jpg</thumbnail>
+<fanart>http://vivekaithal.co/twentytwoyards/res/teams.png</fanart>
+</item>
+
+
+
 
 
 
