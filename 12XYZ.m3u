@@ -1,5 +1,5 @@
-#EXTINF:0, SuperE1999
-httphost://$http-raw=https://www.funks.ws/daddylive.php?live=98&vw=100vw&vh=100vh$http-refferer=https://daddylive.me/
+#EXTINF:0, SuperE100
+https://www.funks.ws/daddylive.php?live=98&vw=100vw&vh=100vh origin=https://daddylive.me/ referer=https://daddylive.me/
 
 #EXTINF:0, SuperE190
 https://tvstream.space/jtv/sppt.php?c=Ten_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Ten_HD
