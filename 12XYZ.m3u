@@ -1,3 +1,22 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN 1
+https://tvstream.space/jtv/spptxS.php?c=Ten_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Ten_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN 2
+https://tvstream.space/jtv/spptxS.php?c=Ten2_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Ten2_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN 3
+https://tvstream.space/jtv/spptxS.php?c=Ten3_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Ten2_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN SIX
+https://tvstream.space/jtv/spptxS.php?c=Six_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Six_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN SIX
+https://tvstream.space/jtv/spptxS.php?c=Six_HD&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Six_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SONY TEN 4
+https://tvstream.space/jtv/spptxS.php?c=Ten_4_HD_Tamil&=800&e=.m3u8 Referer=https://tvstream.space/jtv/play.php?c=Ten_4_HD_Tamil
+
+
 #EXTINF:0, SuperE100
 https://www.funks.ws/daddylive.php?live=98&vw=100vw&vh=100vh origin=https://daddylive.me/ referer=https://daddylive.me/
 
