@@ -5,8 +5,8 @@ http://live.tv247.club/live/mtv.m3u8 referer=http://tv247.us/
 https://wstream1.xyz/live/flow41ab0e5f21714db.m3u8$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F97.0.4692.71%20Safari%2F537.36 referer=https://freelive365.com/
 
 
-#EXTINF:0, SuperE15066
-https://wstream1.xyz/live/flow41ab0e5f21714db.m3u8$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F97.0.4692.71%20Safari%2F537.36 referer=https://www.tutele.sx/
+#EXTINF:0, SuperE15xx
+https://wstream1.xyz/live/flow41ab0e5f21714db.m3u8$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F97.0.4692.71%20Safari%2F537.36 referer=https://www.tutele.sx/ token=5jnX9+oBu6TjHHZNOB5FK4yfN0o1zNR+cvP4YNmItKGvvJJAFxpaBsDaO0z51F3Uqc7iOKwuwobmfNe3epleNGhBuJuC1r9x5znS4YOaxpaq61cjAmaQ46eUek0gDTErgQuucm9eV26g55mPe33AqvUGSoNKcXhYWU46qZ2CgzMv1l8ycZNROatzwj4CmEq5voO35ZFRrYqavv7LWzrwTHgnzTcqT+U/1RLVOJUFJvpl1bEcSItC2yZL4W03r4y4eafq+Rx+TFIgsBuKWucoaRyu8xEsShNRF9U/3kFoJeRn/OKlue6bPTLkjeqPN09TW07EHFvS6lcbI6iKfNXgcDjfeFRWNbBgNFUG/kYlpSlUCH7CfFAwXZLP9Laz9jk9
 
 #EXTINF:0, SuperE666
 https://s3.fctelerium.com:999/hls/skysme-13406.ts$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F97.0.4692.71%20Safari%2F537.36 Referer=https://castfree.me/
