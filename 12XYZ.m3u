@@ -1,8 +1,9 @@
 #EXTINF:0, SuperE155
 http://live.tv247.club/live/mtv.m3u8 referer=http://tv247.us/
 
-#EXTINF:0, SuperE155
-https://hg-n2.dotice.me/plyvivo/50y0bin0mo2osuda5eka/chunklist.m3u8 referer=https://www.tvply.me/sd2embed?v=epl1hd~epl1sd
+#EXTINF:0, SuperE155x
+https://hls-c01-live-canalplus.akamaized.net/live/disk/car-ant-canalplussport/dash-fhddvr/car-ant-canalplussport.mpd referer=https://live.dragaoconnect.net/
+
 #EXTINF:0, SuperE15066
 https://wstream1.xyz/live/flow41ab0e5f21714db.m3u8$OPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F97.0.4692.71%20Safari%2F537.36 referer=https://freelive365.com/
 
