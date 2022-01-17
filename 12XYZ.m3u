@@ -1,7 +1,7 @@
 #EXTINF:0, SuperE155
 http://live.tv247.club/live/mtv.m3u8 referer=http://tv247.us/
 
-#EXTINF:0, SuperExx
+#EXTINF:0, SuperE999
 https://hls-c01-live-canalplus.akamaized.net/live/disk/car-ant-canalplus/dash-fhddvr/car-ant-canalplus.mpd referer=https://live.dragaoconnect.net/ origin=https://live.dragaoconnect.net
 
 #EXTINF:0, SuperE15066
