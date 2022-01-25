@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS F1
+http://cdn.cricplay2.xyz/hls/skysfor1.m3u8 referer=http://cricplay2.xyz/
+
 #EXTINF:0, BEIN SPORTS PREM 1-SD
 http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_ZZ3bi5VudiWVe8QAGCSKdQ==,1640781814.4009414566&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.17
 
