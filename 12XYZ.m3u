@@ -1,3 +1,14 @@
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX CAN ",beIN SPORTS MAX 1 LOW
+http://aumaletv.com:25461/live/aamobiletvsport/aamobiletvsport/62415.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX CAN ",beIN SPORTS MAX 1 LOW
+http://aumaletv.com:25461/aamobiletvsport/aamobiletvsport/62415
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX CAN ",beIN SPORTS MAX 1 LOW*
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPYi7MuPjQQ6aC2mWtmcZLAw1dtcxKQ%2bfHd45ESdbmIY4HrqsmuQ0c2F5yLJmD4belfHNmu%2b4zVOCmQPfyPFMi1Dt53QDW%2bTSLnHH0xqp4t1%2bDWRTP6mcMw2ea%2bqIGm22qhrvIe9tAfxctpzAIdJaknVn3e%2fGTl4lQjAiFrkVLfbUWiEBLlQhb2nYLtZAOUpJMbiWD0x285UGQI2KBzq94zk3NxCd2dcPxoz1jUBCz2i7%2fCshhLM8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX CAN ",beIN SPORTS MAX 1 LOW*
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwcsSgiAUANAPapxkFMSFCzMjs9vTFJYSWmMPKnUKx4%2fvnCUP9V4Tfj%2bJdZqesveAI4ct2BXb4p6%2fdJ7w6jZbpjD%2fEMU3Bg95oajxE9CqGdi0M1w%2fSpjMuqKIYN4DogcSBsFI6uzYNYivnNKtHkk4epRgj9q%2bRVVdWS72bEsqTKwa%2bWfplg6WpTc6n%2b%2fmIgyLQZmnL3%2buLaKkfwpZbFkL351o0apBMcA7Dv7ivydWuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", SKY SPORTS F1
 http://cdn.cricplay2.xyz/hls/skysfor1.m3u8 referer=http://cricplay2.xyz/
 
