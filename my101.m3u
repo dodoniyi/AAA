@@ -11,10 +11,10 @@ https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO
 http://
 
 #EXTINF:0,beIN Max 1 SD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://free.one24tv.com:443/live/50641643576352/50641643576352/1231.ts
+#EXTVLCOPT:http-user-agent=best.play.ps%2F3.2%20(Linux%3BAndroid%208.1.0)%20ExoPlayerLib%2F2.8.4
+https://free.one24tv.com:443/50641643576352/50641643576352/1231
 #EXTINF:0,beIN Max 1 SD backup
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=best.play.ps%2F3.2%20(Linux%3BAndroid%208.1.0)%20ExoPlayerLib%2F2.8.4
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1236.ts
 #EXTINF:0,beIN Max 2 SD
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1232.ts
@@ -36,7 +36,7 @@ http://
 
 
 #EXTINF:0,beIN PREMIUM 1 SD12
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTVLCOPT:http-user-agent=best.play.ps%2F3.2%20(Linux%3BAndroid%208.1.0)%20ExoPlayerLib%2F2.8.4
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1133.ts
 #EXTINF:0,beIN PREMIUM 2 SD
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1134.ts
