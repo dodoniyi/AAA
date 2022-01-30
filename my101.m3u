@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]??Download AA MOBILE TV??[/color]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Download AA MOBILE TV[/color]
 https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
@@ -33,7 +33,7 @@ https://free.one24tv.com:443/live/50641643576352/50641643576352/1228.ts
 http://
 
 
-#EXTINF:0,beIN PREMIUM 1 SD+
+#EXTINF:0,beIN PREMIUM 1 SD111
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1133.m3u8
 #EXTINF:0,beIN PREMIUM 2 SD
 https://free.one24tv.com:443/live/50641643576352/50641643576352/1134.ts
