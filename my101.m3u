@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO
 https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- BEIN SPORTS MAX ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] BEIN SPORTS MAX [/color]
 http://
 
 #EXTINF:0,beIN Max 1 SD
@@ -29,7 +29,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/1227
 #EXTINF:0,beIN Max 2 FHD
 https://free.one24tv.com:443/50641643576352/50641643576352/1228
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- BEIN SPORTS SD ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] BEIN SPORTS SD [/color]
 http://
 
 
@@ -84,7 +84,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/18181
 #EXTINF:0,beIN PREMIUM 2SD**
 https://free.one24tv.com:443/50641643576352/50641643576352/18182
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- SUPERSPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] SUPERSPORTS [/color]
 http://
 
 #EXTINF:0,S Premier League
@@ -124,7 +125,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/15216
 #EXTINF:0,S BLITZ
 https://free.one24tv.com:443/50641643576352/50641643576352/15217
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- KASS SPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] KASS SPORTS [/color]
 http://
 
 
@@ -142,7 +144,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/566
 #EXTINF:0,Al Kass Sports 5
 https://free.one24tv.com:443/50641643576352/50641643576352/567
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- AD SPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] AD SPORTS [/color]
 http://
 
 
@@ -156,7 +159,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/570
 https://free.one24tv.com:443/50641643576352/50641643576352/571
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- ON SPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] ON SPORTS [/color]
 http://
 
 
@@ -169,7 +173,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/1010
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- DUBAI RACING ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] DUBAI RACING [/color]
 http://
 
 
@@ -181,7 +186,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/1024
 https://free.one24tv.com:443/50641643576352/50641643576352/1025
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- DUBAI SPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] DUBAI SPORTS [/color]
 http://
 
 #EXTINF:0,Dubai Sports 1
@@ -202,7 +208,8 @@ https://free.one24tv.com:443/50641643576352/50641643576352/9415
 #EXTINF:0,AD Sports Asia 2
 https://free.one24tv.com:443/50641643576352/50641643576352/9416
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- SSC SPORTS ---
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] SSC SPORTS [/color]
 http://
 
 #EXTINF:0,SSC Sports 1 SD
@@ -225,7 +232,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/7312
 https://free.one24tv.com:443/50641643576352/50641643576352/7313
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- BEIN ENTERTAINMENT ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] BEIN ENTERTAINMENT [/color]
 http://
 
 
@@ -252,7 +259,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/1185
 #EXTINF:0,beIN Fox Action HD
 https://free.one24tv.com:443/50641643576352/50641643576352/1186
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- MBC ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] MBC [/color]
 http://
 #EXTINF:0,MBC Action
 https://free.one24tv.com:443/50641643576352/50641643576352/99
@@ -260,7 +267,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/99
 https://free.one24tv.com:443/50641643576352/50641643576352/95
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- OSN ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] OSN [/color]
 http://
 
 #EXTINF:0,OSN - KIDS HD
@@ -302,7 +309,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/7749
 #EXTINF:0,OSN - HISTORY 2 HD
 https://free.one24tv.com:443/50641643576352/50641643576352/7747
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- NETFLIX ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] NETFLIX [/color]
 http://
 #EXTINF:0,Netflix Action
 https://free.one24tv.com:443/50641643576352/50641643576352/253
@@ -314,7 +321,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/7316
 https://free.one24tv.com:443/50641643576352/50641643576352/7315
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- SHAHID ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] SHAHID [/color]
 http://
 
 
@@ -335,7 +342,7 @@ https://free.one24tv.com:443/50641643576352/50641643576352/1072
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="ISLAM",--- UNCATEGORIZED ---
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] UNCATEGORIZED [/color]
 http://
 
 
