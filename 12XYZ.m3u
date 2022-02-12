@@ -1,6 +1,5 @@
 EXTINF:0, BEIN SPORTS PREM 1-SD
-http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_xb3QLIpClWJ3Eb8dne7msg==,1644709844.0170210464&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8
-
+http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_xb3QLIpClWJ3Eb8dne7msg==,1644709844.0170210464&t=0&s=10&p=1&c=FR&r=314&lb=1.m3u8$OPT:http-user-agent=REDLINECLIENT%20ANDROID%20MOBILE%201.0.16
 
 #EXTINF:0 tvg-id="ext" group-title="BEIN MAX CAN ",beIN SPORTS MAX 1 LOW
 http://aumaletv.com:25461/live/aamobiletvsport/aamobiletvsport/62415.m3u8
