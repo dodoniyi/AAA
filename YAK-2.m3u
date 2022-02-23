@@ -1,73 +1,62 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPcpygIdSHHtBKlw3CSC1fdlQgu%2bhON5OZPr5zbll6fZYe9974%2faxo0VtALHceAJIi2r%2bTV8%2bUyrJ8tuAPfzTnY5yFMjRX%2fVK6G5dDMakimkrnwl%2fJpqjWIZRMjYZsonXoB8LSGC%2frnMH%2flrczOjkM62uvp2a5c4xHYdt9ToJY9tOzP61gLeTsg32sPeMr13gKuagxxq3QFLgAIIRqBI1G6LOSXXD4vTVVPjQsjE6oC9qgo3ZlU0GBPRJNoY8Dsb3tSpyDjGWLMgkFo8klJvjeni7bfLjHe84P6X2MpHREfSbz%2bRfg6mWEDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  OVO-1: (SD)
-http://139.162.176.196/live/abr_s-1/live/s-1_480p/chunks.m3u8 Referer=http://www.ovostreams.com/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzk2OgjAYANADGWKRzxYWLhBE%2bXWGEiHsKKVVHCaMolDC4ccLvLynITHzRzLLNaht1cYoePMfOQ5OeKlFs5qRs8prRhsA4s15VN5fW3Ma%2b8PJtwtBv%2fQyipv53KjEM%2bS%2bmEmZ%2bN%2bKMTX54%2bR6benmqeXcXCc7%2fPFfq5MTPuHNKyaphUsjvVe0v%2bjcXkN3jtvselSTHlr2brfQInqofrgpM%2b9U1kcLNnFDhMk1QThoUAuhVbBBGkIAwEAXn%2bIiqyDwE3RkgrowoFGG18f%2bw%2f0DT2g7d%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  OVO-2: (HD)
-http://139.162.176.196/live/abr_s-1/live/s-1/chunks.m3u8 Referer=http://www.ovostreams.com/
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdlSgzAUANAPcpiyXBYf%2bhBpmEbshEUW8xYTYqCAqZYpMny85zSoZ8VMUxQr6fvLOwuNuLVzs57GCqNwGTL8qEf%2bTeTrNZmo7jPEE%2ff3zA3edHw%2b1QIE%2b8gVkN6bIv%2fC3kiVUVMgMcikfFoPptycVOthiW7JBszJMdnm8adpy%2fmw8HwHGqhivVL5PGn8qNw9iIIuVJG0VCjBAqGUxcG1LdsGgE9wVAewm%2frupdO9Excvbo2K0YtP%2fr6Ox3%2bgZ2avzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  TECHO-1 (HD)
-https://reels2watch.com/hls/s1.m3u8 Referer=https://techoreels.com/clip/s1.html
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHMia2r7UuXFRGNoUWMd1Za0uMRs36mfHwnbP7Zp%2bOUtTOKTWobEMq7w%2f3q7QmOVdeC%2b%2bMuDh2kXbhh1uOnmOzFFfuM%2fX6NOo0Q8F6wUL%2fXAzcU2jb7%2b%2f2BkXRZZlIMQrV5F1itUGVMhOc1a23JhXpEGY%2fLHq7XzHBtSWJ0KUlQIdKSr0EZOiGAQAcTFkDrHRBeOSHnxeUnMRhXB1Z%2fp4c5w%2bUOgQTuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  TECHO-2 (HD)
-https://nflarcadia.xyz/hls/s1.m3u8 Referer=https://techoreels.com/2021/s1/
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADGWLFz7RgoQFFraCW1mFjCp8yFMUhxiEc3vcyZxxcrP23W1XLN9x2cV2nlCX818YxoUNMqzSdtdPR%2fkN4KzyBoSz0cW460dxrCFaWLNkkvB%2ferXWlLJRi86QFSwKdcDQjRO7KzsXay%2bO13wd8%2bzjDoixRWz9Nqt527cJRLhrKQTAgV8qQYBKDEADIYKQKgD65zaBZd4MXFfX3I3UjmDyVvv8HCIXiW7sAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  LIVE GAME 1 HD
-https://reels2watch.com/hls/s1.m3u8 Referer=https://gamerarcades.com/assets/ts1.html
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwUFygjAUANADOQwJ%2bQY2XaApKiCktCnKDhNSAYOkYDt1OHzfi79PtnqL2RoT7hLGNW0LkaFh%2buptFrGCuOQjLKNUiBnOz1AK3rOrQkwEpLTNGO5jgUE9UlTTpCW%2fqUyDFTWi5lVT%2fslddjSY9di7m0ja8V0p1mVrGLlZtfuEXXmy0GEn5n5z8V%2frdMumYqEBbXwdKEf7ChyQWjs1eMhBCAAugHUDsHRtmA%2fCTsXt9PypSrKNzsj77PMW5ZvxcHBNxmfcoYdFx5d%2f0CvwgOMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  LIVE GAME 2 HD*
-https://nflarcadia.xyz/hls/s1.m3u8 Referer=https://gamerarcades.com/titles/s1/
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwUFygjAUANADOUwJfgIuXIBKbKUTCRJrdzEkUMeCYDTgcHjfo9nQ6hsVWkgK1%2bT11%2fnHMdv77WxBVltYN6n9fuG2Hn6Y5L%2fq35UcRchWvOyLxzM3zWERd8kQMfyBuiNVwnh9OD7bLDrEFhG1Y6PPLjMZf9rl1F9Oq5MiZE7ziG%2fIbcIhVoEOS0cHJTggtXYEeK7jugBwBqQVwFTM72lmKn5nuMrJzpr668HqRmyUr7201smeFFdmwmBdLN%2bE4KRfzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  CYF 1 (SD)
-http://77.247.109.15/live/s10/playlist.m3u8 Referer=http://www.cyfostreams.com/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADGWILX8AFC2SMKKKArewQWgxDGBRDDYf3PT1AufX9XnuHTaxp32nSCDXh6S0ML3enUzw5d31zjrHZft7TQKijBPvAx%2fJpAE%2brXwPdPGy1jqysm2SU1W4SsbnEYrtZ6Hwcz5Qpe%2fzrx8fZMda4XZquIvNCRI6jfrequso0rpcS10qQoOBcykFGEkIA8ATMGcCqZWDeChsOE01PO4%2fwJhCkMow%2fCldZeLsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  CYF 2 (SD)
-http://77.247.109.15/live/s3/playlist.m3u8 Referer=http://www.cyfostreams.com/
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADkYYKT1sWLEQxGKFWNBTYIbWifIqI8RMO70zUsSI0zG0j2uVTCLa6%2bglWRZ9xUUvH3vCm16E3v0kj3ZVBZloNJw8q6aGB%2b8DycW7Y9RAMVqH3Wc3FaHVVgPWrzH7f6ivYaU8cvU3scj0%2b3SkmR32uPvmboYeTXvtpQRcXoqhEikhAUCqFCrAwwhgAzjBTF4BJUPMd82jMpYjC2D99Bt9rl677B5lTzRe7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  B-LIVE (SD)
-https://s1.moroccan-network.football/live/amgzfsfwws*_SD.m3u8 Referer=https://m.bein-live.net/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdFugjAUANAPMo2FXqA8%2bOCEmgqrLptl8AYtdd3AVWUQDB%2b%2fc0gSfGJPTVTdzjNWhxwr92pHqQLeX7Tm35LsB1Lm64yWY%2fwIZ%2b%2fmdbwJuErZeHKq3buryGy06u%2b%2beDi7k1qPlsWroVh3ir6w60T5%2fGXkrz3It0F8lH66fZqfbV%2fgUwViyYl4r5NESlaltUHHJaRhGxmqkYk0IFDGoBp8jDAGgAY80wIsw9T9NRV7kuNcZP49PvOdY5fN5h%2bJd3uPzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  B-LIVE (HD)
-https://s1.moroccan-network.football/live/amgzfsfwws*_HD.m3u8 Referer=https://m.bein-live.net/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwcuOgjAUANAPakigXB6zcAEiSWWkIKjgrlg6hBYihtcQPt5z6hFVzWVYZevFBN9UydpYXjNkRnQw%2b8DxggBX%2fC7TPmyS8EUygdmMrHRYOp4Y73GLp3NfqlG36Mf%2b%2fEcoaf1GdoRtxIbiuc6FuvxmR2%2f1U8HE6Ue6G31Gf7NidVU%2bJryzB%2b7fo1pC%2fxi069ncbdeuHeFyTTgcNHgJoTHAuqbrAFCBIWqAnVBON3fKE4ujJl%2f8rnCMPD0cvnWfQNHPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  B-LIVE (FHD)
-https://s1.moroccan-network.football/live/amgzfsfwws*_FHD.m3u8 Referer=https://m.bein-live.net/
-
-#EXTINF:0,  BDNEW (SD) 
-http://cdn.raino.xyz/hls/stream3-version0/rainostream.m3u8 Referer=http://bdnewszh.com/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwctugkAUANAPaggDXhlcuBBBQFKoymDpbl43LUXHlPKQ8PGeA5kdThVOKKNbXuz2Kf3O31LWz7a8m1HXrRnsUk1xIFz1eVeMuNHxg0vT%2f2t%2fk%2bAvr2vfxKCu%2blnwrKHdOTFM9FMjwvNGHmezHmZl%2f0D%2b4MWt%2fCuika3eHwlLe34KVx5ZMndseXXoKDx37MtJF8%2f3NEVfWUgVWCARLQ4usQgBAAEOaoBldkqxD%2bKxCbugFU11QTW0p%2b32BeV5af7PAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,  BDNEW (SD)
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwctygjAUANAPYhhCuGBYuCgaMbb1geAgOzQJKgIVKzEZPt5zwq%2feKa6716zGDxwM%2bp4tewuna%2brnPxsUbyJ3qG6tkT4pYj1rZahyUbOqfM8pWnbOceHpY5rzVmd7oV6GH5o5%2bQ22Fe8wpp32XKDvZteoLNpKLIzy1PBdWIKVTxMVh%2fQ%2b%2bglvkpr44Yqtekn%2fx4AEYiIJt%2bWEgw1nKe0SMLIRAoATuFIAjEkfJ97TujDn1qE%2f%2fWDDGhk1nX4ArtK6m88AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  BDNEW (HD)
-http://cdn.raino.xyz/hls/stream3-version1/rainostream.m3u8 Referer=http://bdnewszh.com/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwduSQzAYAOAHMiYOv4SLXtjs0KU6LTUkd4LsoTsr0VHS8fD7fd%2fzBLTKI8sa5pAWa7oiNubohSPxVDT%2fiLxjTbkJgpSZ4gWLQf6QvGM14dld2U3d%2fZ94ukijKzfQRn4dUev8lX6TclWcWZsnN68HdE5wd38urfqtCOkf2Xgi15LHGpq97Ju5yTZN40xs5CR2HOKRyHCwJRnAhl5KuwPPsR0HAAS4cgTYu%2fbBLm88rrfPzi%2bXpLa4FtfD4R%2bsVOaezwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  BDNEW (SD/HD)
-http://cdn.raino.xyz/hls/stream3.m3u8 Referer=http://bdnewszh.com/
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwcsSgiAUANAPapgBuwktWvQ0M3tBGO40wXRMs9Ky8eM7pzXcy6JprfxpGJTdKfmNVrquPcHcQrwGTLJzvnvQ8HUJan0vvoshFxax33xEwzXJZJg8O0fwfUNm7uV7YxtZLSr52dJ2N07LnNwVtvxUgsP9SS%2b4p2MQ7Ffi5lisUG8zW1PDEmRoAgiuxqAILIwwBoAYiNEA%2feaWwiDIxcnZki57E62q1i1UwMeaPfHBinV5VFHUzLPl5A8MmHDIzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqbpNkv60AcGsWXLqqBedtyi1l3cJuPj9xzLVANPlpbu04zfFD222MTBvBkv5RLMGi4qFvNQlvh7vT88S7CjjozDYGcDi%2f26j8457ZRrZaKdtIHW4D3bEnVa7CFnYx%2bCCeRT9bS570Qnms46mTByOkNTGIxWwYALOBKZo63%2f9Sh2MFVW%2b5CQVMgU5SKVcyjCjFIxgR9ABABCmMIzLSA8dNZwWPdPjwB%2fYcTt88hbHLZLURkuzX5SU52%2fwo4kQWvJpf337frqNv5k5L7XBWLDlz9lJ8T37tJOQGjiK3Z1Ut5u%2f%2bYRwfAPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BT Sport 2 UK (CH-32)
-https://i-am-so-cool.licenses4.me/cdn/premium32/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIiQshZYDh2ERMjJYgyBymVjaCsgO40jDx%2fveTTBYTJctDdRzOpmne7fi1ImunmhZX4kl5D8XA%2bGbhWfdEKTXqiwzTtKXIIctuQrX08J5KKx1PPsl0rOihgbKF6faqBnHz%2bbtrG7Vhbrkjon1ng%2fq8si7oPLRkrnjkTbLgy7lnGtB7TpDKx2jtoj97t%2b290gMnkxyxtQG%2bdPvtpvIZJAjKnNIgQxKzuU70BRZUQAABKicAbATOG%2fKCskTco8RbLBKHWsXFi%2fQ5wLW%2bEUT8PctMRMP9gfYvCBW%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, beIN Sports English 1 (CH-61)
-https://i-am-so-cool.licenses4.me/cdn/premium61/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclOhDAAANAPashALQUOHFha6MRRaFi9GAZaFh1QWSYQPt730IfDeOCUXegwZtw8EE4wHYCG6AXrczNnhS688vtowwTTrbHG7ZcO2IDm5Kd6YRSR9xxi4UHSPlcPxuBNMqMMSTqKh%2baKbakXkVhLRcoqyLv%2bLznqApJ%2bj9j0rmGc%2fVDAQIbV4%2bsAc5SPt5X3F%2bLY9hmxz9YqsCCrPuKYrSc2sTCk2SjSaJCCaimVCkFVUVWE0B1pUiB07jDlOqXX4JrlaAJq5vuY88ceQLdhbUVDee%2f6V%2b6%2btKX9D6A62Qb7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, RMC Sport 1 France (CH-119)
-https://i-am-so-cool.licenses4.me/cdn/premium119/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdmWQzAAANAPcpyhUokHD6a2aS2lreWRRMiMfVAcH997o90QxpbBvnkEtjMoz%2fPJqsLpWX6box%2fsLurNUhiUbsfXzduw2y2RHtnr2A4Zs6cHxRyOk0LKV7tbEmuDnt4SmnBhq6PLT8o077eZULD5gmV0znX6B82rDv34q5rEyzCC8fbn3lMI7ZnkzvIuwMzeEtZU9SAsU8Y%2b5nPt1uuz0h8ykgtIEeEpJIAHmFI%2bAyeBFwQAQA5EWgBweESr1r1CJowsqZChUWcitym4Ml8hK893FM1LP%2bR1oqXqB89rFK%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Canal+ Sport France (CH-122)
-https://i-am-so-cool.licenses4.me/cdn/premium122/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhiWBuTCASlLEVojCJ1cOhIWCQmhRBYdPt73qLJxeBs%2f0yBwGRl%2fjGslUTMyQoqmGep05EUSR6d8qFw0%2fnfR%2bfsRiBSRGbdbnxEcR4zx0pDyGJ1XsRTlSkX6ZQnwUla9h4w7xzxJB%2bDevQ%2fEXpcrK5P%2bN4CqV3Uqoj59%2bIl7yjzKW5%2f16VqMSsxa2963xflbejPU1CnHDgS7aZn1obEquTlUQAa4aeQb0FVZVQEAJdCaGoAddkcfB9MQJ6gm4iI9h%2fusUSI5CHW1LwQjGefz019CbL8BEb%2f5GvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, beIN Sports Premium 1 (CH-98)
-https://i-am-so-cool.licenses4.me/cdn/premium98/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwV2zQkAYAOAf1JgWr68LFzt16GyasBwfdxVLhVmxyPjx53n2rTVp3gV3V7kmceGdU3M4cRGRaRlXL3ov1kqwUPNbtJjC%2ffMFo6tWg9K40Ux%2fcKgpypklTvKcyumjUz53%2bdAfq%2ffy5ZSOgeMne6cfLfk5ql8qxKOIgbo%2bv%2fci9NV2%2bLwM3gxYd2KF8xW0Xa%2f037Sy7c1rYwKFd8kqFDB35Jtu6qXBzEJiRgESPBiTbqAgCSEAuIPMSoDtMCVR5qv5Cwc7k9TzsSMtak7pWjN6qOOi%2fM2u%2fRhilAX2P2C212P7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Ziggo Sport Select NL (CH-4)
-https://i-am-so-cool.licenses4.me/cdn/premium4/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdmSQ0AUANAP6lJa3AgPHmKZSWNCkFG8CVosYdLEVj5%2bzjGUlUKobGswjE%2bHen9Vnaa3MzWQ99Ee%2fEVPKhzJgd8MI1uC2ddj8kq6OeNfCOux1Syt17ett%2bElsoNo7jPCN5uZEtyjJVw9UXDug5hDviH2uZa6eLlZZHKHmqU1maCwUZdnb%2b0p%2fkwZjJZkar9nVs2quq9UF3ySlOzgukbYdrskS8WJyjlHTzlwkFHKpXDAHMYA8ACBFgB7WHuW9V0oOF5WeRTGL4bKmxNNsn0vUGgfr252HGpeM9%2bl%2bg96g3Xl%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Sky Sport Austria 2 (CH-17)
-https://i-am-so-cool.licenses4.me/cdn/premium17/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jGNNoQHD3FrQq1bu2zfCHGrUu1ijI%2ffcxASu7QfHGwECtGl6W4uyjPN7ba%2bIeZJt5e61mv1WHAfRclcM5%2bfM%2fJToFEOFoIvk3GcdPdzWO1OKdih42POrm4dzJbXwJiqifyugif4lMNSGTQDXfMuxcspHjc7qjrXnxz6Mjo3lXrzQQuqeFb7O%2bpY03aqkxBb34k0GDiM7HqXFblEXCkEjgooQMa5kMEjEACAEOZQ5CWEuwqWe8yoH0wf%2b9zOFU6JD7a%2fL%2fW6mQ5ZNzJnsFRDcmpC7R9aIwbG%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Polsat Sport Premium 2 Poland (CH-5)
-https://i-am-so-cool.licenses4.me/cdn/premium5/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV2XQkAYAOAf5DihF9NFF5JSsmXGIjd7mhjOLJbIx5x%2b%2fD5PggQ6BpXVIWi9ROTi2kYiedmg0WxCKxx%2fJSdkTy3cgsbEo47CmbNenKSwPtN39BTwNF1NL17SzqmJbp%2f5YvVsMTZYXdtV6g6DOznEclWJqsNGgUuafO%2fM2%2bU3vBorP21STOjAlWqWCmmxQhdMdSWK7fZDIBzr%2bGDxaC9%2bRvfwMZCRmwxlMjMzkOHJmPwATZEVBQAoqCwH%2bOA%2fCvPYlXdvCa2O73ElEko9o3iUt6lZY8oflHLf70lcOndS7OzgbfRB9j6Spi8y%2bx%2bwtL0tDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  Sport 5 Israel (CH-144)
-https://i-am-so-cool.licenses4.me/cdn/premium144/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwVt3QzAAAOAf1OMsqUx48BDX1mXWMuYxQ1hdU6vg%2bPH7vq0fXGWEyLvh70Y1HeU90ibuaF9t1O03YO3WGmLcjM9AHkL%2fV11urgxVqPzxCCz%2b5tZePU%2fhPk5QhLNHKw7Wpa2H0%2bQUxEg2Vj2F30FqafbjnJqFY%2fA1uWZx%2fviwYrsPZR7xss2z8hMM%2fE2ceGk2RBBdP9J74b5qknf2JUmNUT4UVakwU0uJ4RJJqGBMougMJAAQQj8IsgqhYw5epjdnV2hAX8R9Aza67El%2bobLHF0F8bDl3WpBARLX%2bD%2b%2fNQ%2f%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Match TV Russia (CH-127)
-https://i-am-so-cool.licenses4.me/cdn/premium127/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyQ0AYAOAHypiuzY%2fNhQssmoYiQY07Yh2a2FScjYfv93WGaHk8bsuz%2fTjeyRL6YROzsCnerdzARp0bkSKfp7P7nTSJHXGD1LXbIzofVuvtVNdXj9sh32z%2fE8hRN16YnYcLh%2bnjMa2uhL2ieibM6rNrN%2bk3JH0pm0bqX2T%2baSb39OeSHlwxHxznQk%2fjki%2fYJLFTqer%2bM6eYBuOkIYyVcGC7TGSmlKQQSqUAAe5lKWSAkYAQAOQglgxgZ8RZUainJ2tB2SBnBe8oCjwQMZXnqPPkTRlbL5BE3qv%2f%2bYmpIvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Arena Sport 2 Premium (CH-135)
-https://i-am-so-cool.licenses4.me/cdn/premium135/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPmlKxNNohB2sYNMqeG6Ob2KUnCVU%2bPu85tuqq2yj8DvrQjEjX5Mkc3uhu3wRpNKrL8M4QOZJjFA%2bjK3JuD%2fssdmfK8pLDb3S8xGa9URBa9hHl%2bTR5j7lCOzli1nkvGwd%2fMP14D342l8m1or2DheUgKLow7NuXzsddUgZKuqyGhKenB0WgtIWiXq9njItF8NZOTTVmtNbjlKCEZQIbhsgNYMAfIUwFeJZhWQBADTiCATgxarOX0Tut5Ob3NLGjnAr%2f3KcJ%2fESlnV%2bupeyzQuBQf%2bemJsdCvXW3FVXLqkXa06NfZrGO5g8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  Digi Sport 2 Romania (CH-401)
-https://i-am-so-cool.licenses4.me/cdn/premium401/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHURQEw%2bLBi7IIGNnRHIUQHJHNMpFQPH66lXhEru0Wp%2fVTYJvwmp%2fOjee%2b0ZpPpS%2fcIWqpNyI0ZWzPkf7AgmQYGHfUFbF%2fxndY%2fXTy%2fPEy7K%2blQGU54fDz%2bhsCAam4dP6Pj87ieIlzYUcAlqzLml5LGQZD4gZ9nS5aNLdCcpaJ68yI%2fFAoCmgPh23V2nQv53qetPVO%2fg6bYRmNSS0iU5NAGdaUyg%2boqbKqQggrCGgD4fbW%2fIrETk6IeR2P3mueg24nugH7zVftIkAWKevzSLVVEWaA3cRNQuvArNiO%2b2ftTv8jedsKDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  Fox Sports Argentina (CH-18)
-https://i-am-so-cool.licenses4.me/cdn/premium18/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMpliI%2fTBg7TuOluKrL6JJFUsqqVb4%2bP3nLOLOYXiUtmRfyTfh1c%2bPomj4hQdSLDPOu1nunjzjZWjYiURahd1Oc14RXMfhHFX%2btz1h3XxHqSZ8FixuYvcmBc3due9XyUqogql%2bM1St6EaD0meXeXk68%2bpPScoSkPSW7fgj3ioBT6%2b7F1hkV%2bUWW%2fT3FbwbIflA4CmnvQ7hRsyENeFwYDQGQSwEgKUUJWBLEMIKVQEh3BziEdbT9JTYyKhJM7ztN9phpfbfq03rP5MHbpyTSRxb5n%2fQCgm%2bvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  Match! Football 3 Russia (CH-138)
-https://i-am-so-cool.licenses4.me/cdn/premium138/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV2XQkAYAOAfNMcJvT7mogurlqUGobXujDHWUKPUKqcfv8%2bz03e20Ut3%2bws2Qceu%2b%2fuq03YmdLnI8OLUy4PwWYyJ6b5ee%2b9pHiZ%2fifOnE0cikfcKCW%2b4ICvb985Iu5t7vkXTcCjjE5pHI6dLNmEH5UVvCS2w5PCIYCWIi7R1iEW6pHFQJ1fJT8G9X%2bmN7ePVJ2nBbzebN%2fXYLIsw4dn0VACyt2mbjcVtpnCLgQI150oFuqqoKgBQ0HgD8B5weT6xTP3GBLM8X9NEGKPOg3m0azNNma6hSn5sbwP9yaMwCYS4X%2fejIOuibFp%2fJv89%2fRU2DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,  TNT Brasil (CH-87)
-https://i-am-so-cool.licenses4.me/cdn/premium87/chunks.m3u8 Referer=https://widevine.licenses4.me/
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAYAOAH6hgqfx0uXDi2i%2bpUJ2xzh4hdllZFtMbD7%2fc193aXBLuUV6tDptng7FUFIfi0T9PafaoZwYShZIi7AbsZXbpUQxxwHKFVni7O%2fsZUNuXmaI9zlfoCx9T%2fWaav5iI%2bY36lh8xMFmUkjwNGC2uuDj9lZ5KXDXCOjJfXiQxE1MLHXnU%2ffITCSO6RsC1rM93v0eifwouKX39p0KYZWq0zg0pMpyBBxZhUgKpIigIAJexZDbDJiZu%2b5SjpBnUou4KOmf5XeYgUt%2bPJ1sJzH%2bN3e5ynQMXWP6X%2bWoL7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
