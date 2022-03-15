@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇Download AA MOBILE TV👇[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇MULTIPLE QUALITIES - LOW, SD, SD+ HD👇[/color]
+http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Instrction: Click on the MIDDLE ICON at the top right hand corner[/color]
+http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
+
+#EXTINF:0,beIN PREMIUM 1
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/lnveiHjQX5RHsrozXN5CCIBJjHGmYREpi7g1WiRfD9tPQX1nGgzOw1U2eogFZ1Nd3YMSe0TO5Pi69A_bL21tew/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN PREMIUM 2
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/9b9etYjrnNfwElbI4cGQUiN4EaoadIgqqskumJ1ujA3a-WMQ8A99d2IO6_mLWrbNWi6fVcYP1w51ytrhurswew/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN PREMIUM 3
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/d05ve_XJOyTZ4TqgoImVqvyjF3RArwKA5gUQM7KWjZ-qCswuz5895m4WZSSMem1dMmGRPjgEUZ0UcNPgGRQ67A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN 1
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN 2
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XR_8Awn2ZsqbUvbMefr8t_O7jp2Pu9puRq6Mbk7jU63BGHhZex9-Mum5MsqQMsOB1dLs2gOvmQ4vy7w6IL1Ebw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN 3
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ujI4LAlocsVgf-JYg5WSdRlougXWD7jrL3UisFbm3kFSXP8nvtVhsfEvjFZIDj3v3U4kh4vd9mMyC3bJ3VBoFw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:0,beIN 4
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2kz1n3ZNCH_P0OAgrDiKbuQkekzqIir5k4nQpWqnSSfsl0mTjqy75LMqrvKqKPojVCMMOeoHO3ITTrNbw9LpKA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8
