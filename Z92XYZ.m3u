@@ -1,5 +1,117 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/94466.m3u8
-#http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94466.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",Win Sports
+http://190.60.37.69:8015/play/a049/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://x.playerlatino.live/ae.png",AE Mundo
+http://190.60.37.69:8015/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="AXN",AXN
+http://190.60.37.69:8015/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
+http://190.60.37.69:8015/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst",BabyFirst
+http://190.60.37.69:8015/play/a00v/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/tR24fG0T/CNN-INTERNACIONAL.png",CNN Espanol
+http://190.60.37.69:8015/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="CanalCaracol",Canal Caracol
+http://190.60.37.69:8015/play/a02y/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/76HKQ27f/CANAL-DE-LAS-ESTRELLAS.png",Canal Estrellas
+http://190.60.37.69:8015/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="Canal_Institucional",Canal Institucional
+http://190.60.37.69:8015/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN",Canal RCN
+http://190.60.37.69:8015/play/a02z/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/fT9fCKF8/Canal-UNO-Colombia-HD-2017-1.png",Canal Uno
+http://190.60.37.69:8015/play/a02w/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/152Y54xj/CANAL-CAPITAL.png",Capital
+http://190.60.37.69:8015/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork",Cartoon Network
+http://190.60.37.69:8015/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
+http://190.60.37.69:8015/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax",Cinemax
+http://190.60.37.69:8015/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="CityTv",City TV
+http://190.60.37.69:8015/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/WpFKYQRj/CLARO-CINEMA.png",Claro Cinema
+http://190.60.37.69:8015/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel",Discovery Channel
+http://190.60.37.69:8015/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryID",Discovery ID
+http://190.60.37.69:8015/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids",Discovery Kids
+http://190.60.37.69:8015/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
+http://190.60.37.69:8015/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
+http://190.60.37.69:8015/play/a01j/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/W4SGnbp8/Disney-Junior-Logo.png",Disney Jr
+http://190.60.37.69:8015/play/a01b/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://x.playerlatino.live/e.png",E Entertainment
+http://190.60.37.69:8015/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2",ESPN 2
+http://190.60.37.69:8015/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3",ESPN 3
+http://190.60.37.69:8015/play/a04i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/yxBnSS6V/ESPN-4-International.png",ESPN 4
+http://190.60.37.69:8015/play/a02n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/d1Vk0fG5/ESPN2.png",ESPN CO
+http://190.60.37.69:8015/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="Enlace",Enlace
+http://190.60.37.69:8015/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="FX",FX
+http://190.60.37.69:8015/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2",Fox Sports 2
+http://190.60.37.69:8015/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3",Fox Sports 3
+http://190.60.37.69:8015/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel",History Channel
+http://190.60.37.69:8015/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="HomeandHealth",HomeandHealth
+http://190.60.37.69:8015/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="MTV",MTV
+http://190.60.37.69:8015/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="NatGeo",Nat Geo
+http://190.60.37.69:8015/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="NickJr",Nick Jr
+http://190.60.37.69:8015/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
+http://190.60.37.69:8015/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="RCN-Novelas",RCN Novelas
+http://190.60.37.69:8015/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="STARCHANNEL",STAR CHANNEL
+http://190.60.37.69:8015/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="SeñalColombia",Senal Colombia
+http://190.60.37.69:8015/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="Sin Limites",Sin Limites
+http://190.60.37.69:8015/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="Sony",Sony
+http://190.60.37.69:8015/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="Space",Space
+http://190.60.37.69:8015/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal",Studio Universal
+http://190.60.37.69:8015/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="SyFy",SyFy
+http://190.60.37.69:8015/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS
+http://190.60.37.69:8015/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="TLC",TLC
+http://190.60.37.69:8015/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="TNT",TNT
+http://190.60.37.69:8015/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="TRO",TRO
+http://190.60.37.69:8015/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia",Teleantioquia
+http://190.60.37.69:8015/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe",Telecafe
+http://190.60.37.69:8015/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe",Telecaribe
+http://190.60.37.69:8015/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo",Telemundo
+http://190.60.37.69:8015/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico",Telepacifico
+http://190.60.37.69:8015/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="Universal",Universal
+http://190.60.37.69:8015/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="Warner",Warner
+http://190.60.37.69:8015/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Zoom",Zoom
+http://190.60.37.69:8015/play/a03a/index.m3u8
