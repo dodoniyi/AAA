@@ -1,9 +1,9 @@
 #EXTINF:-1,SKY UNO HD
-httphost://$http-raw=https://deliriousholistic.net/embed/a6vspvoqs$http-refferer=https://www.aflam4you.net/$http-token=generatedtoken
+httphost://$http-raw=https://deliriousholistic.net/embed/a6vspvoqs$http-refferer=https%3A%2F%2Fwww.aflam4you.net/$http-token=generatedtoken
 
 
 #EXTINF:-1,SKY
-httphost://$http-raw=https://vimeo.com/event/2367231/embed$http-refferer=https://media.himtree.com/2022/08/tired-skin-these-are-best-tips-for.html$http-token=generatedtoken
+httphost://$http-raw=https://vimeo.com/event/2367231/embed$http-refferer=https%3A%2F%2Fmedia.himtree.com%2F2022%2F08%2Ftired-skin-these-are-best-tips-for.html$http-token=generatedtoken
 
 #EXTINF:0, TEST656
 httphost://$http-raw=https://www.youtube.com/embed/3cddPCfJQoE$http-refferer=https://youtube.com/
