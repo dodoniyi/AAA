@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]👇 OTHER CHANNELS: CH1-CH100 👇[/color]
 https://
 
-#EXTINF:0, CHANNEL 1
+#EXTINF:0, CHANNEL 1111111
 https://ad2017.vhls.ru.com/cdn/premium1/index.m3u8 Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 2
 https://ad2017.vhls.ru.com/cdn/premium2/index.m3u8 Referer=https://eplayer.click/
@@ -199,7 +199,7 @@ https://ad2017.vhls.ru.com/cdn/premium96/index.m3u8 Referer=https://eplayer.clic
 #EXTINF:0, CHANNEL 97
 https://ad2017.vhls.ru.com/cdn/premium97/index.m3u8 Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 98
-https://ad2017.vhls.ru.com/cdn/premium98/index.m3u8 Referer=https://eplayer.click/
+https://ad2017.vhls.ru.com/cdn/premium98/index.m3u8?|Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 99
 https://ad2017.vhls.ru.com/cdn/premium99/index.m3u8 Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 100
