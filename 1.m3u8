@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-http://31.172.87.17:2200/EX/bein1sd-ar/index.m3u8?token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989|User-agent=REDLINECLIENT
+#EXTINF:0, QANAT TV2 (Working)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.17:2200/EX/bein1sd-ar/index.m3u8?token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989
