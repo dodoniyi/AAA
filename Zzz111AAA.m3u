@@ -198,8 +198,16 @@ https://ad2017.vhls.ru.com/lb/premium95/index.m3u8?|Referer=https://eplayer.clic
 https://ad2017.vhls.ru.com/lb/premium96/index.m3u8?|Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 97
 https://ad2017.vhls.ru.com/lb/premium97/index.m3u8?|Referer=https://eplayer.click/
-#EXTINF:0, CHANNEL 98
+#EXTINF:0, CHANNEL 981
 https://ad2017.vhls.ru.com/lb/premium98/index.m3u8?|Referer=https://eplayer.click/
+#EXTINF:0, CHANNEL 982
+https://ad2017.vhls.ru.com/cdn/premium98/index.m3u8?|Referer=https://eplayer.click/
+#EXTINF:0, CHANNEL 983
+https://ad2017.vhls.ru.com/lb/premium98/index.m3u8|Referer=https://eplayer.click/
+#EXTINF:0, CHANNEL 984
+https://ad2017.vhls.ru.com/lb/premium98/index.m3u8 Referer=https://eplayer.click/
+#EXTINF:0, CHANNEL 985
+https://ad2017.vhls.ru.com/lb/premium98/index.m3u8? Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 99
 https://ad2017.vhls.ru.com/lb/premium99/index.m3u8?|Referer=https://eplayer.click/
 #EXTINF:0, CHANNEL 100
