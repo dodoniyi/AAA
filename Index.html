@@ -1,0 +1,1290 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <base target="_top">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>AI Lesson Planner by TAIWO</title>
+
+  <style>
+    :root {
+      --wine: #781d35;
+      --wine-dark: #511224;
+      --cream: #fff8ed;
+      --gold: #d9ad5b;
+      --ink: #26232a;
+      --muted: #69636b;
+      --border: #e5dce0;
+      --success: #176b43;
+      --error: #a12626;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 22px 12px 40px;
+      background: #f5f2f1;
+      color: var(--ink);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.55;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    .header {
+      background: var(--wine);
+      color: white;
+      border-radius: 14px 14px 0 0;
+      padding: 25px 20px;
+      text-align: center;
+      border-bottom: 5px solid var(--gold);
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: clamp(23px, 4vw, 34px);
+      line-height: 1.25;
+    }
+
+    .header p {
+      margin: 8px 0 0;
+      color: #fff0d5;
+      font-size: 14px;
+    }
+
+    .panel {
+      background: white;
+      padding: 24px;
+      border: 1px solid var(--border);
+      border-top: 0;
+    }
+
+    .section-title {
+      margin: 0 0 15px;
+      color: var(--wine);
+      font-size: 19px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .field {
+      margin-bottom: 17px;
+      min-width: 0;
+    }
+
+    .field.full {
+      grid-column: 1 / -1;
+    }
+
+    label,
+    .field-label {
+      display: block;
+      font-weight: 700;
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+
+    input,
+    select,
+    textarea {
+      width: 100%;
+      padding: 11px 12px;
+      border: 1px solid #cfc5ca;
+      border-radius: 7px;
+      background: white;
+      color: var(--ink);
+      font: inherit;
+      font-size: 15px;
+    }
+
+    input:focus,
+    select:focus,
+    textarea:focus,
+    button:focus-visible {
+      outline: 2px solid #d7a7b5;
+      outline-offset: 2px;
+      border-color: var(--wine);
+    }
+
+    textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+
+    .hint {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .question-options {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .check-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 11px;
+      background: #fffdfb;
+      font-size: 14px;
+    }
+
+    .check-item input {
+      width: auto;
+      flex-shrink: 0;
+      margin-top: 4px;
+      accent-color: var(--wine);
+    }
+
+    .check-item label {
+      margin: 0;
+      cursor: pointer;
+      font-weight: 500;
+    }
+
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    button {
+      appearance: none;
+      border: 0;
+      border-radius: 8px;
+      padding: 12px 18px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity 0.15s ease;
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.55;
+    }
+
+    .primary {
+      background: var(--wine);
+      color: white;
+      flex: 1 1 220px;
+    }
+
+    .primary:hover:not(:disabled) {
+      background: var(--wine-dark);
+    }
+
+    .secondary {
+      background: #f0e6e9;
+      color: var(--wine-dark);
+      border: 1px solid #dcc6ce;
+      flex: 1 1 200px;
+    }
+
+    .notice {
+      display: none;
+      margin-top: 16px;
+      border-radius: 8px;
+      padding: 12px 14px;
+      font-size: 14px;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+
+    .notice.info,
+    .notice.success,
+    .notice.error {
+      display: block;
+    }
+
+    .notice.info {
+      background: #f1f5fb;
+      border: 1px solid #cbd8ec;
+      color: #244a76;
+    }
+
+    .notice.success {
+      background: #edf8f1;
+      border: 1px solid #b9dfc7;
+      color: var(--success);
+    }
+
+    .notice.error {
+      background: #fff0f0;
+      border: 1px solid #e8c0c0;
+      color: var(--error);
+    }
+
+    .result-panel {
+      display: none;
+      margin-top: 22px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 22px;
+    }
+
+    .result-panel h2 {
+      margin-top: 0;
+      color: var(--wine);
+    }
+
+    .plan-text {
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+      padding: 16px 8px;
+    }
+
+    .method-dropdown {
+      position: relative;
+      width: 100%;
+    }
+
+    .method-dropdown-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      width: 100%;
+      min-height: 44px;
+      padding: 10px 12px;
+      background: #fffdfb;
+      color: var(--ink);
+      border: 1px solid #cfc5ca;
+      border-radius: 7px;
+      text-align: left;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .method-dropdown-toggle:hover {
+      border-color: var(--wine);
+    }
+
+    .method-dropdown-menu {
+      display: none;
+      grid-template-columns: 1fr;
+      gap: 8px;
+      margin-top: 6px;
+      padding: 10px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      max-height: 280px;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+    }
+
+    .method-dropdown-menu.open {
+      display: grid;
+    }
+
+    .method-dropdown-menu .check-item {
+      margin: 0;
+    }
+
+    @media (max-width: 640px) {
+      body {
+        padding: 10px 7px 25px;
+      }
+
+      .panel {
+        padding: 17px 13px;
+      }
+
+      .grid,
+      .question-options {
+        grid-template-columns: 1fr;
+      }
+
+      .button-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 9px;
+      }
+
+      .button-row button {
+        width: 100%;
+        flex: none;
+        padding: 11px 12px;
+        font-size: 14px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        scroll-behavior: auto !important;
+        transition: none !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>AI Lesson Planner by TAIWO</h1>
+      <p>Practical lesson planning for Nigerian secondary schools</p>
+    </header>
+
+    <section class="panel">
+      <h2 class="section-title">Lesson Information</h2>
+
+      <form id="lessonForm">
+        <div class="grid">
+
+          <div class="field full">
+            <label for="aiProvider">AI Provider *</label>
+            <select id="aiProvider" name="aiProvider" required>
+              <option value="gemini" selected>
+                Google Gemini (Default)
+              </option>
+              <option value="openrouter">
+                OpenRouter — Free AI Models
+              </option>
+            </select>
+            <span class="hint">
+              Gemini is selected by default. OpenRouter availability,
+              model access and usage limits depend on the provider.
+            </span>
+          </div>
+
+          <div class="field full">
+            <label for="school">School Name *</label>
+            <input
+              id="school"
+              name="school"
+              type="text"
+              value="Holy Child College, Ikoyi, Lagos"
+              maxlength="200"
+              autocomplete="organization"
+              required
+            >
+          </div>
+
+          <div class="field">
+            <label for="className">Class *</label>
+            <select id="className" name="className" required>
+              <option value="">Select class</option>
+              <option>JSS1</option>
+              <option>JSS2</option>
+              <option>JSS3</option>
+              <option>SS1</option>
+              <option>SS2</option>
+              <option>SS3</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="subject">Subject *</label>
+            <input
+              id="subject"
+              name="subject"
+              type="text"
+              placeholder="e.g. Financial Accounting"
+              maxlength="150"
+              required
+            >
+          </div>
+
+          <div class="field full">
+            <label for="topic">Lesson Topic *</label>
+            <input
+              id="topic"
+              name="topic"
+              type="text"
+              placeholder="Enter the topic to be taught"
+              maxlength="500"
+              required
+            >
+          </div>
+
+          <!-- Curriculum and examination alignment -->
+          <div class="field full">
+            <label for="curriculum">
+              Curriculum / Examination Alignment *
+            </label>
+            <select id="curriculum" name="curriculum" required>
+              <option value="nigerian_general" selected>
+                General Nigerian Secondary School Curriculum
+              </option>
+              <option value="bece">
+                BECE — Junior Secondary
+              </option>
+              <option value="wassce_neco">
+                WASSCE / NECO SSCE — Senior Secondary
+              </option>
+              <option value="jamb_utme">
+                JAMB UTME Preparation
+              </option>
+              <option value="teacher_syllabus">
+                Teacher-Provided Curriculum / Syllabus Requirements
+              </option>
+            </select>
+            <span class="hint">
+              Select the pathway that should guide the lesson.
+              This guides AI generation but does not independently verify
+              the latest official syllabus.
+            </span>
+          </div>
+
+          <div
+            class="field full"
+            id="curriculumRequirementsField"
+            hidden
+          >
+            <label for="curriculumRequirements">
+              Teacher-Provided Curriculum / Syllabus Requirements
+            </label>
+            <textarea
+              id="curriculumRequirements"
+              name="curriculumRequirements"
+              maxlength="4000"
+              placeholder="Paste or summarise the relevant syllabus topics, learning outcomes, curriculum requirements, or examination objectives."
+            ></textarea>
+            <span class="hint">
+              Include the relevant class, topic, learning outcomes or
+              examination requirements. Do not include confidential
+              student information.
+            </span>
+          </div>
+
+          <div class="field">
+            <label for="duration">Lesson Duration *</label>
+            <select id="duration" name="duration" required>
+              <option value="">Select duration</option>
+              <option>30 minutes</option>
+              <option>35 minutes</option>
+              <option>40 minutes</option>
+              <option>45 minutes</option>
+              <option>60 minutes</option>
+              <option>70 minutes</option>
+              <option>80 minutes</option>
+              <option>90 minutes</option>
+              <option>120 minutes</option>
+              <option>Double period (80 minutes)</option>
+              <option>Double period (90 minutes)</option>
+              <option>Other (specify in the topic or objectives)</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="objectiveMode">Learning Objectives *</label>
+            <select id="objectiveMode" name="objectiveMode" required>
+              <option value="ai" selected>
+                Let AI create the objectives
+              </option>
+              <option value="teacher">
+                I will provide the objectives
+              </option>
+            </select>
+          </div>
+
+          <div
+            class="field full"
+            id="objectivesField"
+            hidden
+          >
+            <label for="learningObjectives">
+              Teacher-Provided Objectives *
+            </label>
+            <textarea
+              id="learningObjectives"
+              name="learningObjectives"
+              maxlength="4000"
+              placeholder="Enter the learning objectives, preferably one per line."
+            ></textarea>
+            <span class="hint">
+              Include measurable objectives describing what students
+              should know or be able to do by the end of the lesson.
+            </span>
+          </div>
+
+        </div>
+
+        <!-- Teaching methods -->
+        <div class="field">
+          <span class="field-label" id="teachingMethodsLabel">
+            Preferred Teaching Methods
+          </span>
+
+          <div class="method-dropdown" id="methodDropdown">
+            <button
+              type="button"
+              class="method-dropdown-toggle"
+              id="methodDropdownToggle"
+              aria-expanded="false"
+              aria-controls="methodDropdownMenu"
+              aria-labelledby="teachingMethodsLabel methodDropdownLabel"
+            >
+              <span id="methodDropdownLabel">
+                Choose up to two teaching methods
+              </span>
+              <span aria-hidden="true">▾</span>
+            </button>
+
+            <div
+              class="method-dropdown-menu"
+              id="methodDropdownMenu"
+            >
+              <div class="check-item">
+                <input type="checkbox" id="methodLecture"
+                  name="teachingMethods" value="Explanation / Lecture">
+                <label for="methodLecture">Explanation / Lecture</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDiscussion"
+                  name="teachingMethods" value="Discussion">
+                <label for="methodDiscussion">Discussion</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodQuestion"
+                  name="teachingMethods" value="Question and Answer">
+                <label for="methodQuestion">Question and Answer</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDemonstration"
+                  name="teachingMethods" value="Demonstration">
+                <label for="methodDemonstration">Demonstration</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodGroup"
+                  name="teachingMethods" value="Group Work">
+                <label for="methodGroup">
+                  Group Work / Cooperative Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodActivity"
+                  name="teachingMethods" value="Activity-Based Learning">
+                <label for="methodActivity">
+                  Activity-Based Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodInquiry"
+                  name="teachingMethods" value="Inquiry-Based Learning">
+                <label for="methodInquiry">
+                  Inquiry-Based Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDiscovery"
+                  name="teachingMethods" value="Discovery Learning">
+                <label for="methodDiscovery">Discovery Learning</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodProblem"
+                  name="teachingMethods" value="Problem-Solving">
+                <label for="methodProblem">Problem-Solving</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodProject"
+                  name="teachingMethods" value="Project-Based Learning">
+                <label for="methodProject">
+                  Project-Based Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodRolePlay"
+                  name="teachingMethods" value="Role-Play and Simulation">
+                <label for="methodRolePlay">
+                  Role-Play and Simulation
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDebate"
+                  name="teachingMethods" value="Debate">
+                <label for="methodDebate">Debate</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodBrainstorm"
+                  name="teachingMethods" value="Brainstorming">
+                <label for="methodBrainstorm">Brainstorming</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodPeer"
+                  name="teachingMethods" value="Peer Teaching">
+                <label for="methodPeer">
+                  Peer Teaching / Peer Tutoring
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodIndividual"
+                  name="teachingMethods" value="Individualised Learning">
+                <label for="methodIndividual">
+                  Individualised Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodCase"
+                  name="teachingMethods" value="Case Study">
+                <label for="methodCase">Case Study</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodPractical"
+                  name="teachingMethods" value="Practical and Laboratory Work">
+                <label for="methodPractical">
+                  Practical / Laboratory Work
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodFieldTrip"
+                  name="teachingMethods" value="Field Trip and Excursion">
+                <label for="methodFieldTrip">
+                  Field Trip / Excursion
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodStorytelling"
+                  name="teachingMethods" value="Storytelling">
+                <label for="methodStorytelling">Storytelling</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodConceptMap"
+                  name="teachingMethods" value="Concept Mapping">
+                <label for="methodConceptMap">Concept Mapping</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodGames"
+                  name="teachingMethods" value="Educational Games">
+                <label for="methodGames">
+                  Educational Games / Gamification
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodFlipped"
+                  name="teachingMethods" value="Flipped Classroom">
+                <label for="methodFlipped">Flipped Classroom</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodTechnology"
+                  name="teachingMethods" value="Technology-Assisted Learning">
+                <label for="methodTechnology">
+                  Technology-Assisted / Multimedia Learning
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDifferentiated"
+                  name="teachingMethods" value="Differentiated Instruction">
+                <label for="methodDifferentiated">
+                  Differentiated Instruction
+                </label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodInductive"
+                  name="teachingMethods" value="Inductive Teaching">
+                <label for="methodInductive">Inductive Teaching</label>
+              </div>
+
+              <div class="check-item">
+                <input type="checkbox" id="methodDeductive"
+                  name="teachingMethods" value="Deductive Teaching">
+                <label for="methodDeductive">Deductive Teaching</label>
+              </div>
+            </div>
+          </div>
+
+          <span class="hint">
+            Select one or two methods. If none is selected, AI will
+            recommend suitable methods.
+          </span>
+        </div>
+
+        <!-- Optional practice questions -->
+        <div class="field">
+          <span class="field-label">
+            Optional: Include Examination / Practice Questions
+          </span>
+
+          <div class="question-options">
+            <div class="check-item">
+              <input type="checkbox" id="questionObjective"
+                name="questionTypes" value="objective">
+              <label for="questionObjective">
+                Objective questions (multiple choice)
+              </label>
+            </div>
+
+            <div class="check-item">
+              <input type="checkbox" id="questionTheory"
+                name="questionTypes" value="theory">
+              <label for="questionTheory">
+                Theory questions with marking guide
+              </label>
+            </div>
+
+            <div class="check-item">
+              <input type="checkbox" id="questionSubjective"
+                name="questionTypes" value="subjective">
+              <label for="questionSubjective">
+                Short-answer / subjective questions
+              </label>
+            </div>
+          </div>
+
+          <span class="hint">
+            Question generation is optional. Select only the types you
+            need. Generated questions are practice questions, not
+            verified past examination questions.
+          </span>
+        </div>
+
+        <div class="button-row">
+          <button
+            class="primary"
+            id="generateButton"
+            type="submit"
+          >
+            Generate Lesson Plan
+          </button>
+
+          <button
+            class="secondary"
+            id="downloadButton"
+            type="button"
+            disabled
+          >
+            Download Word Document
+          </button>
+        </div>
+      </form>
+
+      <div
+        id="statusMessage"
+        class="notice"
+        role="status"
+        aria-live="polite"
+      ></div>
+    </section>
+
+    <section
+      id="resultPanel"
+      class="result-panel"
+      aria-labelledby="resultHeading"
+    >
+      <h2 id="resultHeading">Generated Lesson Plan</h2>
+      <div id="planOutput" class="plan-text"></div>
+    </section>
+
+    <footer class="footer">
+      AI Lesson Planner by TAIWO
+      <br>
+      FACTA, NON VERBA
+    </footer>
+  </main>
+
+  <script>
+    'use strict';
+
+    // Prevent duplicate generation and download requests.
+    let generationInProgress = false;
+    let downloadInProgress = false;
+
+    // Most recently generated lesson plan and its metadata.
+    let currentLessonPlan = '';
+    let currentSchool = '';
+    let currentSubject = '';
+    let currentTopic = '';
+
+    const form = document.getElementById('lessonForm');
+    const generateButton = document.getElementById('generateButton');
+    const downloadButton = document.getElementById('downloadButton');
+    const statusMessage = document.getElementById('statusMessage');
+    const resultPanel = document.getElementById('resultPanel');
+    const planOutput = document.getElementById('planOutput');
+
+    const objectiveMode = document.getElementById('objectiveMode');
+    const objectivesField = document.getElementById('objectivesField');
+    const learningObjectives = document.getElementById('learningObjectives');
+
+    const curriculumSelect = document.getElementById('curriculum');
+    const curriculumRequirementsField =
+      document.getElementById('curriculumRequirementsField');
+    const curriculumRequirements =
+      document.getElementById('curriculumRequirements');
+
+    const methodDropdown = document.getElementById('methodDropdown');
+    const methodDropdownToggle =
+      document.getElementById('methodDropdownToggle');
+    const methodDropdownMenu =
+      document.getElementById('methodDropdownMenu');
+    const methodDropdownLabel =
+      document.getElementById('methodDropdownLabel');
+
+    function showStatus(message, type) {
+      statusMessage.textContent = message;
+      statusMessage.className = 'notice ' + type;
+    }
+
+    function clearStatus() {
+      statusMessage.textContent = '';
+      statusMessage.className = 'notice';
+    }
+
+    // Show teacher objectives only when requested.
+    function updateObjectiveField() {
+      const showTeacherObjectives = objectiveMode.value === 'teacher';
+
+      objectivesField.hidden = !showTeacherObjectives;
+      learningObjectives.required = showTeacherObjectives;
+    }
+
+    objectiveMode.addEventListener('change', updateObjectiveField);
+    updateObjectiveField();
+
+    // Show syllabus requirements only for the teacher-provided option.
+    function updateCurriculumField() {
+      const showRequirements =
+        curriculumSelect.value === 'teacher_syllabus';
+
+      curriculumRequirementsField.hidden = !showRequirements;
+
+      // The text area is optional, but the teacher should provide
+      // requirements for meaningful syllabus-specific alignment.
+      curriculumRequirements.required = false;
+
+      if (!showRequirements) {
+        curriculumRequirements.setCustomValidity('');
+      }
+    }
+
+    curriculumSelect.addEventListener('change', updateCurriculumField);
+    updateCurriculumField();
+
+    // Teaching-method dropdown.
+    function setMethodDropdownOpen(isOpen) {
+      methodDropdownMenu.classList.toggle('open', isOpen);
+      methodDropdownToggle.setAttribute(
+        'aria-expanded',
+        String(isOpen)
+      );
+    }
+
+    methodDropdownToggle.addEventListener('click', function () {
+      const isOpen =
+        methodDropdownToggle.getAttribute('aria-expanded') === 'true';
+
+      setMethodDropdownOpen(!isOpen);
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape') {
+        setMethodDropdownOpen(false);
+        methodDropdownToggle.focus();
+      }
+    });
+
+    document.addEventListener('click', function (event) {
+      if (!methodDropdown.contains(event.target)) {
+        setMethodDropdownOpen(false);
+      }
+    });
+
+    function updateTeachingMethodsLabel() {
+      const selected = Array.from(
+        document.querySelectorAll(
+          'input[name="teachingMethods"]:checked'
+        )
+      );
+
+      if (selected.length === 0) {
+        methodDropdownLabel.textContent =
+          'Choose up to two teaching methods';
+      } else {
+        methodDropdownLabel.textContent = selected
+          .map(function (checkbox) {
+            return checkbox.value;
+          })
+          .join(' + ');
+      }
+    }
+
+    document.querySelectorAll('input[name="teachingMethods"]')
+      .forEach(function (checkbox) {
+        checkbox.addEventListener('change', function () {
+          const selected = document.querySelectorAll(
+            'input[name="teachingMethods"]:checked'
+          );
+
+          if (selected.length > 2) {
+            checkbox.checked = false;
+
+            showStatus(
+              'You can select a maximum of two teaching methods.',
+              'error'
+            );
+          } else {
+            clearStatus();
+          }
+
+          updateTeachingMethodsLabel();
+        });
+      });
+
+    // Generate a unique request identifier.
+    function makeRequestId() {
+      return 'req_' +
+        Date.now().toString(36) + '_' +
+        Math.random().toString(36).slice(2) + '_' +
+        Math.random().toString(36).slice(2);
+    }
+
+    // Collect the form fields and send them to Code.gs.
+    function collectFormData() {
+      const teachingMethods = Array.from(
+        document.querySelectorAll(
+          'input[name="teachingMethods"]:checked'
+        )
+      ).map(function (element) {
+        return element.value;
+      });
+
+      const questionTypes = Array.from(
+        document.querySelectorAll(
+          'input[name="questionTypes"]:checked'
+        )
+      ).map(function (element) {
+        return element.value;
+      });
+
+      return {
+        requestId: makeRequestId(),
+
+        aiProvider:
+          document.getElementById('aiProvider').value,
+
+        school:
+          document.getElementById('school').value.trim(),
+
+        className:
+          document.getElementById('className').value.trim(),
+
+        subject:
+          document.getElementById('subject').value.trim(),
+
+        topic:
+          document.getElementById('topic').value.trim(),
+
+        duration:
+          document.getElementById('duration').value.trim(),
+
+        curriculum:
+          curriculumSelect.value,
+
+        curriculumRequirements:
+          curriculumSelect.value === 'teacher_syllabus'
+            ? curriculumRequirements.value.trim()
+            : '',
+
+        objectiveMode:
+          objectiveMode.value,
+
+        teachingMethods:
+          teachingMethods,
+
+        learningObjectives:
+          objectiveMode.value === 'teacher'
+            ? learningObjectives.value.trim()
+            : '',
+
+        questionTypes:
+          questionTypes
+      };
+    }
+
+    // Generate the lesson plan.
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+
+      if (generationInProgress) {
+        return;
+      }
+
+      if (!form.reportValidity()) {
+        return;
+      }
+
+      const selectedMethods = document.querySelectorAll(
+        'input[name="teachingMethods"]:checked'
+      );
+
+      if (selectedMethods.length > 2) {
+        showStatus(
+          'Please select no more than two teaching methods.',
+          'error'
+        );
+        return;
+      }
+
+      if (
+        objectiveMode.value === 'teacher' &&
+        !learningObjectives.value.trim()
+      ) {
+        showStatus(
+          'Please enter the learning objectives or choose the AI option.',
+          'error'
+        );
+
+        learningObjectives.focus();
+        return;
+      }
+
+      if (
+        curriculumSelect.value === 'teacher_syllabus' &&
+        !curriculumRequirements.value.trim()
+      ) {
+        showStatus(
+          'You selected teacher-provided syllabus requirements. For better alignment, enter the relevant curriculum topics, learning outcomes or examination objectives before continuing.',
+          'error'
+        );
+
+        curriculumRequirements.focus();
+        return;
+      }
+
+      const formData = collectFormData();
+
+      generationInProgress = true;
+      generateButton.disabled = true;
+      generateButton.textContent = 'Generating...';
+      downloadButton.disabled = true;
+
+      // Clear any previous result before starting a new request.
+      currentLessonPlan = '';
+      currentSchool = '';
+      currentSubject = '';
+      currentTopic = '';
+
+      resultPanel.style.display = 'none';
+      planOutput.textContent = '';
+
+      showStatus(
+        'Generating your lesson plan. Please wait and do not click Generate again.',
+        'info'
+      );
+
+      google.script.run
+        .withSuccessHandler(function (plan) {
+          generationInProgress = false;
+          generateButton.disabled = false;
+          generateButton.textContent = 'Generate Lesson Plan';
+
+          if (typeof plan !== 'string' || !plan.trim()) {
+            showStatus(
+              'No lesson plan text was returned. Please try again.',
+              'error'
+            );
+            return;
+          }
+
+          currentLessonPlan = plan;
+          currentSchool = formData.school;
+          currentSubject = formData.subject;
+          currentTopic = formData.topic;
+
+          // Display the AI result as plain text.
+          planOutput.textContent = plan;
+          resultPanel.style.display = 'block';
+          downloadButton.disabled = false;
+
+          showStatus(
+            'Lesson plan generated successfully. You can now download it as a Word document.',
+            'success'
+          );
+
+          resultPanel.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        })
+        .withFailureHandler(function (error) {
+          generationInProgress = false;
+          generateButton.disabled = false;
+          generateButton.textContent = 'Generate Lesson Plan';
+
+          const message = error && error.message
+            ? error.message
+            : 'An unexpected error occurred. Please try again.';
+
+          showStatus(message, 'error');
+        })
+        .generateLessonPlan(formData);
+    });
+
+    // Export the existing plan; do not generate it again.
+    downloadButton.addEventListener('click', function () {
+      if (downloadInProgress) {
+        return;
+      }
+
+      if (!currentLessonPlan) {
+        showStatus(
+          'Generate a lesson plan before downloading it.',
+          'error'
+        );
+        return;
+      }
+
+      downloadInProgress = true;
+      downloadButton.disabled = true;
+      downloadButton.textContent = 'Preparing Word Document...';
+
+      showStatus(
+        'Preparing your Word document. This does not call the AI provider again.',
+        'info'
+      );
+
+      google.script.run
+        .withSuccessHandler(function (fileData) {
+          downloadInProgress = false;
+          downloadButton.disabled = false;
+          downloadButton.textContent = 'Download Word Document';
+
+          const fileName = fileData &&
+            (fileData.fileName || fileData.filename);
+
+          if (
+            !fileData ||
+            !fileData.base64 ||
+            !fileName
+          ) {
+            showStatus(
+              'The Word document could not be prepared. The server returned incomplete file information.',
+              'error'
+            );
+            return;
+          }
+
+          try {
+            downloadBase64File(
+              fileData.base64,
+              fileData.mimeType ||
+                'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+              fileName
+            );
+
+            showStatus(
+              'Your Word document download has been started.',
+              'success'
+            );
+          } catch (error) {
+            showStatus(
+              'The document was prepared, but the browser could not start the download. Please try again.',
+              'error'
+            );
+          }
+        })
+        .withFailureHandler(function (error) {
+          downloadInProgress = false;
+          downloadButton.disabled = false;
+          downloadButton.textContent = 'Download Word Document';
+
+          const message = error && error.message
+            ? error.message
+            : 'The Word document could not be exported.';
+
+          showStatus(message, 'error');
+        })
+        .downloadLessonPlanDocx(
+          currentLessonPlan,
+          currentSchool,
+          currentSubject,
+          currentTopic
+        );
+    });
+
+    // Convert the server-provided Base64 file to a browser download.
+    function downloadBase64File(base64, mimeType, fileName) {
+      const binary = atob(base64);
+      const chunkSize = 32 * 1024;
+      const chunks = [];
+
+      for (let offset = 0; offset < binary.length; offset += chunkSize) {
+        const slice = binary.slice(offset, offset + chunkSize);
+        const bytes = new Uint8Array(slice.length);
+
+        for (let i = 0; i < slice.length; i++) {
+          bytes[i] = slice.charCodeAt(i);
+        }
+
+        chunks.push(bytes);
+      }
+
+      const blob = new Blob(chunks, { type: mimeType });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+
+      link.href = url;
+      link.download = fileName;
+      link.style.display = 'none';
+
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+
+      // Give the browser time to begin the download.
+      window.setTimeout(function () {
+        URL.revokeObjectURL(url);
+      }, 1000);
+    }
+  </script>
+</body>
+</html>
